@@ -1,6 +1,9 @@
 # Virtual Assistant for Justice, Rights, and Accountability (VAJRA) CLI - Command Line Legal Assistant
 
-An interactive command-line interface for VAJRA, your AI-powered Virtual Assistant for Justice, Rights, and Accountability specializing in Bharatiya Nyaya Sanhita (BNS).
+An interactive command-line interface for VAJRA, your AI-powered Virtual Assistant for Justice, Rights, and Accountability specializing in:
+*   **Bharatiya Nyaya Sanhita (BNS)**
+*   **Bharatiya Nagarik Suraksha Sanhita (BNSS)**
+*   **Bharatiya Sakshya Adhiniyam (BSA)**
 
 ## Quick Start
 
@@ -21,7 +24,7 @@ python3 run_cli.py
 
 ## Features
 
-- 🏛️ **Legal Expertise**: Trained on Bharatiya Nyaya Sanhita (BNS)
+- 🏛️ **Legal Expertise**: Trained on BNS, BNSS, and BSA
 - 🔍 **Smart Search**: AI-powered retrieval of relevant legal sections
 - 💬 **Interactive Chat**: Natural language legal queries
 - 📚 **Source Attribution**: Every answer includes specific section references
