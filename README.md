@@ -1,92 +1,142 @@
-# Virtual Assistant for Justice, Rights, and Accountability (VAJRA) CLI - Command Line Legal Assistant
+# ⚖️ VAJRA: Virtual Assistant for Justice, Rights, and Accountability
 
-Your AI-powered Virtual Assistant for Justice, Rights, and Accountability specializing in Bharatiya Nyaya Sanhita (BNS).
+> **Your AI-Powered Legal Companion for the Bharatiya Nyaya Sanhita (BNS)**
 
-## Quick Start
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-### Windows
+## 📖 Overview
+
+**VAJRA** (Virtual Assistant for Justice, Rights, and Accountability) is an advanced AI-driven legal assistant designed to demystify the **Bharatiya Nyaya Sanhita (BNS)**. Whether you are a legal professional, a student, or a citizen seeking to understand your rights, VAJRA provides accurate, instant, and easy-to-understand legal information.
+
+VAJRA is available in two powerful formats:
+1.  **💻 CLI (Command Line Interface)**: For quick, distraction-free desktop access.
+2.  **📱 WhatsApp Bot**: For on-the-go legal assistance directly on your phone.
+
+---
+
+## ✨ Key Features
+
+-   **🏛️ Deep Legal Expertise**: Specifically trained on the Bharatiya Nyaya Sanhita (BNS) to provide relevant and up-to-date legal information.
+-   **🔍 Smart Semantic Search**: Uses FAISS vector search to find the most relevant legal sections, even if you don't use exact legal terminology.
+-   **🧠 AI-Powered Explanations**: Powered by Google's Gemini AI to translate complex legal jargon into plain, understandable English.
+-   **📚 Precise Citations**: Every answer is backed by specific section references from the BNS, ensuring credibility.
+-   **💬 Natural Conversation**: Interact naturally—ask follow-up questions and get context-aware responses.
+
+---
+
+## 🛠️ Tech Stack
+
+-   **Language**: Python 3.7+
+-   **AI Model**: Google Gemini (Generative AI)
+-   **Vector Database**: FAISS (Facebook AI Similarity Search)
+-   **Web Framework**: Flask (for the WhatsApp webhook)
+-   **Messaging Integration**: Twilio API (for WhatsApp)
+
+---
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+-   Python 3.7 or higher installed.
+-   A Google Gemini API Key.
+-   (Optional) A Twilio account for WhatsApp integration.
+
+### 1. Clone the Repository
 ```bash
-# Double-click start_vajra.bat or run:
+git clone https://github.com/yourusername/vajra-chatbot.git
+cd vajra-chatbot
+```
+
+### 2. Install Dependencies
+The setup script will automatically install all required packages.
+```bash
+# Windows
+python setup_cli.py
+
+# Linux/Mac
+python3 setup_cli.py
+```
+
+---
+
+## 💻 Usage
+
+### Option A: Command Line Interface (CLI)
+The CLI is the fastest way to test and use VAJRA locally.
+
+**Windows:**
+Double-click `start_vajra.bat` or run:
+```bash
 start_vajra.bat
 ```
 
-### Linux/Mac
+**Linux/Mac:**
 ```bash
-# Setup (run once)
-python3 setup_cli.py
-
-# Start VAJRA
 python3 run_cli.py
 ```
 
-## Features
+**Commands:**
+-   `search <query>`: Find relevant legal sections.
+-   `sections`: Check the number of loaded sections.
+-   `clear`: Clear the screen.
+-   `quit` / `exit`: Close the application.
 
-- 🏛️ **Legal Expertise**: Trained on Bharatiya Nyaya Sanhita (BNS)
-- 🔍 **Smart Search**: AI-powered retrieval of relevant legal sections
-- 💬 **Interactive Chat**: Natural language legal queries
-- 📚 **Source Attribution**: Every answer includes specific section references
-- 🎯 **Plain Language**: Complex legal concepts explained simply
+### Option B: WhatsApp Bot
+To run VAJRA as a WhatsApp bot, you need to set up a local server and expose it to the internet (e.g., using ngrok).
 
-## Commands
+1.  **Start the Flask Server:**
+    ```bash
+    python app.py
+    ```
+2.  **Expose Localhost (using ngrok):**
+    ```bash
+    ngrok http 5000
+    ```
+3.  **Configure Twilio:**
+    -   Copy the ngrok URL (e.g., `https://your-url.ngrok.io/whatsapp`).
+    -   Paste it into your Twilio Sandbox "When a message comes in" webhook field.
 
-- `help` - Show available commands
-- `quit/exit` - Exit the application
-- `clear` - Clear the screen
-- `sections` - Show number of loaded legal sections
-- `search <term>` - Search for specific legal sections
-- `examples` - Show example questions
+4.  **Chat:**
+    -   Send a message to your Twilio Sandbox number to start chatting with VAJRA!
 
-## Example Questions
+---
 
-- "What is theft under BNS?"
-- "What are the punishments for assault?"
-- "Can I file a case for cybercrime?"
-- "What is the difference between murder and culpable homicide?"
-- "What are the rights during arrest?"
-- "Is dowry harassment a crime?"
+## 📂 Project Structure
 
-## Requirements
-
-- Python 3.7+
-- Internet connection (for AI model access)
-- Required packages (auto-installed by setup):
-  - google-generativeai
-  - faiss-cpu
-  - numpy
-
-## Troubleshooting
-
-### "Module not found" errors
-Run the setup script:
-```bash
-python setup_cli.py
+```
+vajra-chatbot/
+├── 📄 app.py              # Flask application for WhatsApp bot
+├── 📄 run_cli.py          # Entry point for the CLI
+├── 📄 setup_cli.py        # Setup script for dependencies and data
+├── 📄 start_vajra.bat     # Windows batch file for easy start
+├── 📄 requirements.txt    # Python dependencies
+├── 📂 backend/            # Core logic
+│   ├── 📄 cli_agent.py    # Main agent logic (RAG pipeline)
+│   └── 📄 embed.py        # Embedding generation utilities
+└── 📂 data/               # Data storage
+    ├── 📄 bns_data.json   # Legal text data
+    └── 📄 bns_index.faiss # Vector index for fast searching
 ```
 
-### "API key" errors
-The system uses a pre-configured API key. If you encounter issues, check your internet connection.
+---
 
-### "Data files not found"
-Make sure you're running from the vajra directory and that the data folder contains:
-- `bns_data.json`
-- `bns_index.faiss` (created automatically)
+## 🤝 Contributing
 
-## Disclaimer
+Contributions are welcome! If you'd like to improve VAJRA, please:
+1.  Fork the repository.
+2.  Create a feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
 
-This is AI-generated legal information for educational purposes. Always consult a qualified lawyer for specific legal advice and representation.
+---
 
-## Support
+## 📜 Disclaimer
 
-For issues or questions, check that all files are in the correct directory structure:
-```
-vajra/
-├── run_cli.py
-├── setup_cli.py
-├── start_vajra.bat
-├── backend/
-│   ├── cli_agent.py
-│   ├── embed.py
-│   └── requirements.txt
-└── data/
-    ├── bns_data.json
-    └── bns_index.faiss
-```
+> **Note:** VAJRA provides information for educational and informational purposes only. It is not a substitute for professional legal advice. Always consult with a qualified attorney for specific legal matters.
+
+---
+
+Made with ❤️ for Justice and Rights.
