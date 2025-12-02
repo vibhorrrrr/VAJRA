@@ -1,0 +1,12 @@
+flask
+twilio
+python-dotenv
+sentence-transformers
+transformers
+faiss-cpu          # if using local retrieval
+pandas
+langdetect
+pycryptodome       # for simple encryption example
+gunicorn
+numpy
+google-generativeai

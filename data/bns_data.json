@@ -1,0 +1,3224 @@
+[
+  {
+    "section_number": "Section 1",
+    "section_title": "Short title, extent and commencement",
+    "description": "Names the law as the Bharatiya Nyaya Sanhita, 2023, states it applies across India (with any specified exceptions), and notes when it comes into force.",
+    "examples": [
+      "A police officer cites BNS 2023 in a charge, confirming the law’s name and applicability.",
+      "A case filed after July 1, 2024 proceeds under BNS because it has commenced."
+    ]
+  },
+  {
+    "section_number": "Section 2",
+    "section_title": "Definitions",
+    "description": "Provides key definitions used throughout the Act, such as terms for documents, property, injury, valuable security, and other concepts needed to interpret offences.",
+    "examples": [
+      "In a forgery case, the meaning of 'document' is taken from Section 2.",
+      "A theft case turns on whether an item qualifies as 'property' under the definitions."
+    ]
+  },
+  {
+    "section_number": "Section 3",
+    "section_title": "General explanations",
+    "description": "Explains how words and phrases should be read in context across the Act, and clarifies general interpretive rules.",
+    "examples": [
+      "A court uses general explanations to interpret gendered terms as inclusive where specified.",
+      "Ambiguous wording in an offence clause is clarified using this section’s interpretive rules."
+    ]
+  },
+  {
+    "section_number": "Section 4",
+    "section_title": "Punishment of offences committed within India",
+    "description": "Anyone committing an offence within India is liable to be punished under this law, regardless of nationality, unless an exception applies.",
+    "examples": [
+      "A foreign tourist committing fraud in Delhi is prosecuted under BNS.",
+      "A resident of India committing assault in Mumbai is charged under BNS."
+    ]
+  },
+  {
+    "section_number": "Section 5",
+    "section_title": "Extra-territorial offences",
+    "description": "Certain offences committed outside India can still be tried in India when the law gives jurisdiction, such as offences by Indian citizens abroad or on Indian-registered ships/aircraft.",
+    "examples": [
+      "An Indian citizen commits cyber fraud while abroad; they can be tried in India.",
+      "An offence on an Indian-registered vessel on the high seas is triable in India."
+    ]
+  },
+  {
+    "section_number": "Section 6",
+    "section_title": "Act not to affect special or local laws",
+    "description": "Where a special or local law provides differently, that law can prevail over the general provisions of this Act.",
+    "examples": [
+      "A special anti-terror law procedure overrides general BNS procedure for that case.",
+      "A state-specific law on a narrow subject governs instead of the general rule here."
+    ]
+  },
+  {
+    "section_number": "Section 7",
+    "section_title": "Offences by companies",
+    "description": "When a company commits an offence, persons in charge and responsible for its conduct may be deemed guilty, subject to defences like lack of knowledge or due diligence.",
+    "examples": [
+      "A firm’s manager is prosecuted with the company for environmental violations.",
+      "A director shows due diligence to avoid liability for the company’s fraud."
+    ]
+  },
+  {
+    "section_number": "Section 8",
+    "section_title": "Act done by several persons in furtherance of common intention",
+    "description": "When multiple people share a common intention and act together, each is responsible for the act as if they did it alone.",
+    "examples": [
+      "Two people plan and jointly assault someone; both are liable for the assault.",
+      "A group distracts a shopkeeper while one steals; all share liability."
+    ]
+  },
+  {
+    "section_number": "Section 9",
+    "section_title": "Voluntariness and consent",
+    "description": "Clarifies when an act is considered voluntary and when consent is valid or invalid for the purpose of offences.",
+    "examples": [
+      "Consent obtained by threat is invalid for sexual or bodily offences.",
+      "A person acting without free will due to intoxication may negate 'consent'."
+    ]
+  },
+  {
+    "section_number": "Section 10",
+    "section_title": "Things done in good faith",
+    "description": "Good faith actions, done with due care and attention, can provide protection in certain contexts defined by the Act.",
+    "examples": [
+      "A doctor administers treatment in an emergency with due care; this may be protected.",
+      "A citizen restrains a thief believing it lawful and with care; good faith applies."
+    ]
+  },
+  {
+    "section_number": "Section 11",
+    "section_title": "Words denoting gender and number",
+    "description": "States that words importing the masculine include the feminine and vice versa, and singular includes plural, unless the context shows otherwise.",
+    "examples": [
+      "A provision using 'he' applies equally to 'she' or 'they' where intended.",
+      "A rule mentioning 'document' can also cover multiple documents."
+    ]
+  },
+  {
+    "section_number": "Section 12",
+    "section_title": "Public servant",
+    "description": "Defines and explains who counts as a 'public servant' for offences involving public duty or corruption.",
+    "examples": [
+      "A municipal engineer is treated as a public servant in a bribery case.",
+      "An officer in a public-sector company is covered for misuse of office."
+    ]
+  },
+  {
+    "section_number": "Section 13",
+    "section_title": "Movable property",
+    "description": "Clarifies what counts as movable property for offences like theft, mischief, and criminal breach of trust.",
+    "examples": [
+      "A laptop and phone are movable property for theft.",
+      "Goods in transit qualify as movable property for misappropriation."
+    ]
+  },
+  {
+    "section_number": "Section 14",
+    "section_title": "Dishonestly",
+    "description": "Defines acting 'dishonestly' as doing something with the intention of causing wrongful gain or wrongful loss.",
+    "examples": [
+      "Selling someone else’s bike as your own to profit is dishonest.",
+      "Hiding a found wallet to keep the cash causes wrongful loss to the owner."
+    ]
+  },
+  {
+    "section_number": "Section 15",
+    "section_title": "Fraudulently",
+    "description": "Defines 'fraudulently' as doing an act with intent to defraud—deceiving someone to their prejudice.",
+    "examples": [
+      "Creating a fake invoice to obtain payment is fraudulent.",
+      "Using a forged signature to get a loan is done fraudulently."
+    ]
+  },
+  {
+    "section_number": "Section 16",
+    "section_title": "Reason to believe",
+    "description": "A person has 'reason to believe' something when there are sufficient grounds to think it is true, not just suspicion.",
+    "examples": [
+      "A jeweler buying gold at far below market price has reason to believe it’s stolen.",
+      "An email from a bank domain looks genuine—without red flags, no reason to believe it’s fake."
+    ]
+  },
+  {
+    "section_number": "Section 17",
+    "section_title": "Counterfeit",
+    "description": "Explains when something is considered counterfeit, such as making an imitation to deceive.",
+    "examples": [
+      "Producing fake currency notes qualifies as counterfeiting.",
+      "Copying a brand hologram to pass off goods as genuine is counterfeit."
+    ]
+  },
+  {
+    "section_number": "Section 18",
+    "section_title": "Document",
+    "description": "Defines 'document' broadly to include any matter expressed or described upon any substance by letters, figures, or marks intended to be used as evidence.",
+    "examples": [
+      "A printed contract and a PDF agreement are documents.",
+      "A digital certificate stored in a phone wallet is a document."
+    ]
+  },
+  {
+    "section_number": "Section 19",
+    "section_title": "Valuable security",
+    "description": "Describes instruments that create or acknowledge a legal right, liability, or obligation, making them valuable security.",
+    "examples": [
+      "A signed promissory note is a valuable security.",
+      "A share certificate that establishes ownership is a valuable security."
+    ]
+  },
+  {
+    "section_number": "Section 20",
+    "section_title": "Offence",
+    "description": "Defines 'offence' as any act or omission punishable under the BNS or any law in force.",
+    "examples": [
+      "Failure to act when the law requires it can be an offence.",
+      "Assault as defined in BNS is an offence."
+    ]
+  },
+  {
+    "section_number": "Section 21",
+    "section_title": "Harbour",
+    "description": "Explains what it means to 'harbour' a person—providing shelter, assistance, or concealment to help them evade arrest or detection.",
+    "examples": [
+      "Giving a fugitive a room and hiding them from police is harbouring.",
+      "Supplying food and money to help a wanted person escape is harbouring."
+    ]
+  },
+  {
+    "section_number": "Section 22",
+    "section_title": "Act and omission",
+    "description": "States that the word 'act' includes both actions and illegal omissions where the law imposes a duty.",
+    "examples": [
+      "Leaving a dangerous animal unrestrained in breach of duty is an 'act' here.",
+      "A parent failing to provide necessary care when legally bound is an omission."
+    ]
+  },
+  {
+    "section_number": "Section 23",
+    "section_title": "Voluntarily",
+    "description": "An act is done voluntarily when it proceeds from the will, with knowledge of likely effects, rather than by accident.",
+    "examples": [
+      "Throwing a stone at a window and breaking it is voluntary.",
+      "Accidentally brushing someone while walking is not voluntary assault."
+    ]
+  },
+  {
+    "section_number": "Section 24",
+    "section_title": "Force",
+    "description": "Defines the use of force against a person and when force is considered applied.",
+    "examples": [
+      "Pushing someone in a crowd is applying force.",
+      "Grabbing a person’s arm to restrain them involves force."
+    ]
+  },
+  {
+    "section_number": "Section 25",
+    "section_title": "Injury",
+    "description": "Defines 'injury' as any harm illegally caused to body, mind, reputation, or property.",
+    "examples": [
+      "Punching someone causes bodily injury.",
+      "Publishing a false statement that harms reputation is an injury."
+    ]
+  },
+  {
+    "section_number": "Section 26",
+    "section_title": "Life",
+    "description": "Clarifies references to 'life' include the life of a human being after birth.",
+    "examples": [
+      "Homicide provisions apply only after a child is born alive.",
+      "Feticide is addressed under specific provisions, not general homicide."
+    ]
+  },
+  {
+    "section_number": "Section 27",
+    "section_title": "Death",
+    "description": "Explains the meaning of 'death' as the death of a human being.",
+    "examples": [
+      "Homicide charges require proof a person has died.",
+      "Causing death by negligence uses this definition of death."
+    ]
+  },
+  {
+    "section_number": "Section 28",
+    "section_title": "Good faith and due care",
+    "description": "Refines what counts as good faith, emphasizing due care and attention in actions.",
+    "examples": [
+      "A pharmacist dispenses medicine per prescription, showing due care.",
+      "A rescuer breaks a car window to save a child with reasonable care."
+    ]
+  },
+  {
+    "section_number": "Section 29",
+    "section_title": "Special law and local law",
+    "description": "Distinguishes special or local laws from general law for conflict and interpretation.",
+    "examples": [
+      "A municipal bye-law is a local law overriding general provisions for that municipality.",
+      "A securities statute is a special law for market offences."
+    ]
+  },
+  {
+    "section_number": "Section 30",
+    "section_title": "Public place",
+    "description": "Defines what is considered a public place for offences that depend on location or public access.",
+    "examples": [
+      "A railway platform is a public place.",
+      "A privately owned mall’s common areas open to the public are public places."
+    ]
+  },
+  {
+    "section_number": "Section 31",
+    "section_title": "Computation of fractions of terms",
+    "description": "Explains how to calculate fractions of imprisonment or fines where needed.",
+    "examples": [
+      "A sentence of 1.5 years is computed as 18 months.",
+      "A proportionate fine is calculated per this rule."
+    ]
+  },
+  {
+    "section_number": "Section 32",
+    "section_title": "Abetment",
+    "description": "Defines abetment as instigating, engaging in conspiracy, or intentionally aiding the commission of an offence.",
+    "examples": [
+      "Encouraging someone to commit arson is abetment.",
+      "Supplying tools knowing they will be used for burglary is abetment."
+    ]
+  },
+  {
+    "section_number": "Section 33",
+    "section_title": "Punishment for abetment",
+    "description": "Sets liability for abettors, often similar to the principal offence, with adjustments as specified.",
+    "examples": [
+      "A person who planned a robbery can get similar punishment as the robber.",
+      "Abetting a minor’s offence leads to liability even if the minor is not punished."
+    ]
+  },
+  {
+    "section_number": "Section 34",
+    "section_title": "Conspiracy to commit offences",
+    "description": "Criminalizes agreements to commit offences, even if the act is not completed, when the law so provides.",
+    "examples": [
+      "Two people agree to counterfeit currency and start preparations.",
+      "A group plans a large fraud and takes steps like creating shell firms."
+    ]
+  },
+  {
+    "section_number": "Section 35",
+    "section_title": "Attempts",
+    "description": "Punishes attempts to commit offences where the act goes beyond mere preparation but falls short of completion.",
+    "examples": [
+      "Trying to pick a lock but getting caught is an attempt to commit house-breaking.",
+      "Administering poison that fails to kill is attempted murder."
+    ]
+  },
+  {
+    "section_number": "Section 36",
+    "section_title": "Consent and misconception of fact",
+    "description": "Consent is invalid if given under fear, coercion, fraud, or misunderstanding of facts.",
+    "examples": [
+      "Consent to sexual activity obtained by impersonation is invalid.",
+      "Agreeing to a contract because of a critical lie voids 'consent'."
+    ]
+  },
+  {
+    "section_number": "Section 37",
+    "section_title": "Act done by mistake of fact",
+    "description": "Protects a person who, acting in good faith, does an act by mistake of fact and not by mistake of law in certain cases.",
+    "examples": [
+      "A person takes another’s umbrella genuinely believing it to be theirs.",
+      "A guard arrests someone believing they match a wanted description in good faith."
+    ]
+  },
+  {
+    "section_number": "Section 38",
+    "section_title": "Necessity",
+    "description": "Recognizes that acts done to avoid greater harm may be excused when done in good faith and proportionately.",
+    "examples": [
+      "Breaking a car window to rescue a baby in heat.",
+      "Trespassing briefly to warn of a gas leak and evacuate people."
+    ]
+  },
+  {
+    "section_number": "Section 39",
+    "section_title": "Private defence",
+    "description": "Allows reasonable force to protect one’s body or property, or that of others, against certain offences, within limits.",
+    "examples": [
+      "Pushing away an attacker to prevent assault.",
+      "Detaining a thief caught inside your house using reasonable force."
+    ]
+  },
+  {
+    "section_number": "Section 40",
+    "section_title": "When right of private defence extends to causing death",
+    "description": "Specifies grave situations where lethal force may be justified, such as preventing murder, rape, or grievous hurt, subject to necessity and proportionality.",
+    "examples": [
+      "Using deadly force to stop an armed intruder threatening life.",
+      "Preventing a sexual assault where no lesser force would suffice."
+    ]
+  },
+  {
+    "section_number": "Section 41",
+    "section_title": "Limits to private defence",
+    "description": "Sets boundaries where private defence does not apply or ceases, such as when there is time to seek authorities or when force becomes excessive.",
+    "examples": [
+      "Chasing and beating a fleeing thief after the danger has ended is not protected.",
+      "Using a weapon against a minor non-violent trespass is excessive."
+    ]
+  },
+  {
+    "section_number": "Section 42",
+    "section_title": "Acts of public servants",
+    "description": "Provides protection to public servants acting in good faith within their legal authority.",
+    "examples": [
+      "A police officer lawfully seizing property under warrant is protected.",
+      "A health inspector closing a shop for violations in good faith is protected."
+    ]
+  },
+  {
+    "section_number": "Section 43",
+    "section_title": "Intoxication",
+    "description": "Explains when intoxication affects criminal responsibility, typically not excusing voluntary intoxication but relevant to intention.",
+    "examples": [
+      "Voluntarily drunk driving causing injury is not excused by intoxication.",
+      "Involuntary intoxication may negate intent in rare cases."
+    ]
+  },
+  {
+    "section_number": "Section 44",
+    "section_title": "Unsoundness of mind",
+    "description": "Provides a defence when, due to mental illness, the person was incapable of understanding the nature of the act or that it was wrong or unlawful.",
+    "examples": [
+      "A person in psychosis not understanding their act may be exempt.",
+      "A proven severe mental disorder at the time can negate criminal intent."
+    ]
+  },
+  {
+    "section_number": "Section 45",
+    "section_title": "Age of discretion",
+    "description": "Sets age-related rules for criminal responsibility, recognizing that children below a certain age may not have requisite intent.",
+    "examples": [
+      "A 9-year-old taking a toy is not criminally liable.",
+      "A 12-year-old’s capacity is assessed based on understanding."
+    ]
+  },
+  {
+    "section_number": "Section 46",
+    "section_title": "Accident",
+    "description": "Acts done by accident without criminal intention or knowledge in lawful acts with lawful means and proper care may be excused.",
+    "examples": [
+      "Accidentally injuring someone while performing a lawful sport with due care.",
+      "Tripping and causing minor damage unintentionally during normal activity."
+    ]
+  },
+  {
+    "section_number": "Section 47",
+    "section_title": "Communication made in good faith",
+    "description": "Protects good faith communications made for the benefit of the person receiving them.",
+    "examples": [
+      "A doctor warns a patient about a serious risk in blunt terms, acting in good faith.",
+      "A teacher informs parents about a student’s dangerous behavior to protect them."
+    ]
+  },
+  {
+    "section_number": "Section 48",
+    "section_title": "Confession and compulsion safeguards (general)",
+    "description": "Clarifies that confessions obtained by inducement, threat, or promise, or without safeguards, are unreliable and restricted by law.",
+    "examples": [
+      "A confession under police pressure is inadmissible.",
+      "An accused’s voluntary statement with safeguards may be considered."
+    ]
+  },
+  {
+    "section_number": "Section 49",
+    "section_title": "Electronic records and signatures",
+    "description": "Recognizes electronic records, signatures, and digital evidence, harmonizing with IT law for offences and proof.",
+    "examples": [
+      "A digitally signed contract is treated as a valid document.",
+      "Chat logs and server records may be used as electronic evidence."
+    ]
+  },
+  {
+    "section_number": "Section 50",
+    "section_title": "Territorial waters, ships and aircraft",
+    "description": "Extends application to offences on Indian ships, aircraft, and possibly territorial waters as defined.",
+    "examples": [
+      "An assault on an Indian flight over international airspace is triable in India.",
+      "Smuggling on an Indian-registered ship falls under Indian jurisdiction."
+    ]
+  },
+  {
+    "section_number": "Section 51",
+    "section_title": "Common object and unlawful assembly",
+    "description": "Defines unlawful assembly and liability where a group with a shared unlawful object commits offences.",
+    "examples": [
+      "A mob gathers to vandalize property; all members may be liable.",
+      "Violence during a banned assembly leads to group liability."
+    ]
+  },
+  {
+    "section_number": "Section 52",
+    "section_title": "Public nuisance",
+    "description": "Deals with acts that cause common injury or annoyance to the public or obstruct public rights.",
+    "examples": [
+      "Dumping toxic waste that pollutes a neighborhood water source.",
+      "Blocking a public road without permission causing widespread disruption."
+    ]
+  },
+  {
+    "section_number": "Section 53",
+    "section_title": "Obscenity and indecent material",
+    "description": "Criminalizes obscene, indecent content distribution or public display, with modern consideration for digital media.",
+    "examples": [
+      "Selling explicit obscene videos to minors.",
+      "Posting obscene content publicly on social media."
+    ]
+  },
+  {
+    "section_number": "Section 54",
+    "section_title": "Defamation",
+    "description": "Punishes making or publishing false imputations harming a person’s reputation, with exceptions for good faith opinion, truth for public good, and privilege.",
+    "examples": [
+      "Publishing a false article accusing someone of bribery without proof.",
+      "Spreading a baseless rumor that harms a teacher’s reputation."
+    ]
+  },
+  {
+    "section_number": "Section 55",
+    "section_title": "Criminal intimidation",
+    "description": "Threatening someone with injury to person, reputation, or property to cause alarm or force action or inaction.",
+    "examples": [
+      "Threatening to release private photos unless money is paid.",
+      "Threatening harm to a shopkeeper to force a discount."
+    ]
+  },
+  {
+    "section_number": "Section 56",
+    "section_title": "Insult and provocation to breach of peace",
+    "description": "Punishes deliberate insults and provocations intended or likely to cause a breach of peace.",
+    "examples": [
+      "Using fighting words in public to provoke a brawl.",
+      "Displaying inflammatory posters to incite a scuffle."
+    ]
+  },
+  {
+    "section_number": "Section 57",
+    "section_title": "Affray",
+    "description": "When two or more persons fight in a public place, disturbing public peace, all are liable.",
+    "examples": [
+      "Two people fistfight on a busy road, causing panic.",
+      "A group brawl in a market creating public disturbance."
+    ]
+  },
+  {
+    "section_number": "Section 58",
+    "section_title": "Forgery",
+    "description": "Making a false document or electronic record with intent to cause damage, support a claim, or commit fraud.",
+    "examples": [
+      "Altering a mark-sheet to show higher grades.",
+      "Creating a fake company seal to sign contracts."
+    ]
+  },
+  {
+    "section_number": "Section 59",
+    "section_title": "Using as genuine a forged document",
+    "description": "Knowingly using a forged document as if it were genuine is an offence.",
+    "examples": [
+      "Submitting a forged salary slip for a loan.",
+      "Presenting a fake birth certificate to get a passport."
+    ]
+  },
+  {
+    "section_number": "Section 60",
+    "section_title": "Counterfeit currency and bank-notes",
+    "description": "Criminalizes making, possessing, or trafficking counterfeit currency or instruments, with enhanced penalties.",
+    "examples": [
+      "Printing fake ₹500 notes.",
+      "Carrying a bundle of counterfeit notes for distribution."
+    ]
+  },
+  {
+    "section_number": "Section 61",
+    "section_title": "Possession of instruments or materials for forging or counterfeiting",
+    "description": "Having tools or materials intended for forgery or counterfeiting is punishable.",
+    "examples": [
+      "Possessing specialized plates to print fake notes.",
+      "Storing hologram stickers to counterfeit branded goods."
+    ]
+  },
+  {
+    "section_number": "Section 62",
+    "section_title": "Cheating",
+    "description": "Deceiving a person to deliver property or to consent to retain property, or to do/omit something they wouldn’t otherwise do, causing damage.",
+    "examples": [
+      "Promising a job to extract money with no intention to deliver.",
+      "Selling a fake product claiming it is genuine to get payment."
+    ]
+  },
+  {
+    "section_number": "Section 63",
+    "section_title": "Cheating by personation",
+    "description": "Cheating by pretending to be another person or falsely representing to be someone else.",
+    "examples": [
+      "Impersonating a government officer to collect 'fees'.",
+      "Using someone’s identity to obtain a SIM card."
+    ]
+  },
+  {
+    "section_number": "Section 64",
+    "section_title": "Criminal breach of trust",
+    "description": "Dishonestly misappropriating or converting to one’s own use property entrusted to them, or violating any legal direction of trust.",
+    "examples": [
+      "A cashier keeps customer payments instead of depositing them.",
+      "A trustee uses trust funds for personal expenses."
+    ]
+  },
+  {
+    "section_number": "Section 65",
+    "section_title": "Dishonest misappropriation of property",
+    "description": "Dishonestly taking or using movable property for oneself that belongs to another, without consent.",
+    "examples": [
+      "Keeping a found phone and selling it instead of returning it.",
+      "Using office equipment for personal profit without permission."
+    ]
+  },
+  {
+    "section_number": "Section 66",
+    "section_title": "Receiving stolen property",
+    "description": "Receiving or retaining stolen property knowing or having reason to believe it to be stolen.",
+    "examples": [
+      "Buying a laptop at a suspiciously low price from a stranger.",
+      "Holding goods for a friend while knowing they were stolen."
+    ]
+  },
+  {
+    "section_number": "Section 67",
+    "section_title": "Theft",
+    "description": "Dishonestly taking movable property out of someone’s possession without consent.",
+    "examples": [
+      "Stealing a phone from a café table.",
+      "Taking cash from a roommate’s wallet without permission."
+    ]
+  },
+  {
+    "section_number": "Section 68",
+    "section_title": "Snatching",
+    "description": "A form of theft involving sudden grabbing, often from the person, causing surprise without grievous force.",
+    "examples": [
+      "Snatching a chain from someone’s neck and running.",
+      "Grabbing a phone from a person’s hand in traffic."
+    ]
+  },
+  {
+    "section_number": "Section 69",
+    "section_title": "Extortion",
+    "description": "Intentionally putting a person in fear of injury to induce them to deliver property or valuable security.",
+    "examples": [
+      "Threatening to harm a shop unless they pay 'protection money'.",
+      "Blackmailing with private information to get cash."
+    ]
+  },
+  {
+    "section_number": "Section 70",
+    "section_title": "Robbery",
+    "description": "Theft or extortion becomes robbery when there is imminent fear or actual violence during the act.",
+    "examples": [
+      "Pointing a knife to take a wallet from a victim.",
+      "Beating someone until they transfer money via UPI."
+    ]
+  },
+  {
+    "section_number": "Section 71",
+    "section_title": "Dacoity",
+    "description": "Robbery committed by five or more persons acting together.",
+    "examples": [
+      "A gang of six breaks into a house and robs the family.",
+      "An armed group stops a car convoy and loots valuables."
+    ]
+  },
+  {
+    "section_number": "Section 72",
+    "section_title": "House-trespass",
+    "description": "Entering into or remaining in any building or premises used as a human dwelling or place of custody of property with intent to commit an offence.",
+    "examples": [
+      "Breaking into a home to steal.",
+      "Entering a warehouse at night intending to commit theft."
+    ]
+  },
+  {
+    "section_number": "Section 73",
+    "section_title": "House-breaking",
+    "description": "House-trespass with specific aggravating methods like breaking open entry, using force, or at certain times.",
+    "examples": [
+      "Entering by breaking a window at night to steal.",
+      "Using a duplicate key secretly to commit theft inside."
+    ]
+  },
+  {
+    "section_number": "Section 74",
+    "section_title": "Mischief",
+    "description": "Causing destruction or change to property with intent to cause wrongful loss or damage.",
+    "examples": [
+      "Damaging a rival shop’s signboard.",
+      "Spoiling stored grain by contaminating it."
+    ]
+  },
+  {
+    "section_number": "Section 75",
+    "section_title": "Criminal trespass",
+    "description": "Entering or remaining on property unlawfully to commit an offence, intimidate, insult, or annoy.",
+    "examples": [
+      "Entering a neighbor’s yard after being told not to.",
+      "Staying inside an office after hours intending to steal."
+    ]
+  },
+  {
+    "section_number": "Section 76",
+    "section_title": "Assault",
+    "description": "An act causing another to apprehend immediate use of criminal force.",
+    "examples": [
+      "Raising a fist to strike someone, making them fear a hit.",
+      "Lunging with a stick as if to strike."
+    ]
+  },
+  {
+    "section_number": "Section 77",
+    "section_title": "Criminal force",
+    "description": "Intentional use of force to any person without consent, in order to commit an offence or cause injury, fear, or annoyance.",
+    "examples": [
+      "Pushing someone out of a queue intentionally.",
+      "Throwing water on someone to humiliate them."
+    ]
+  },
+  {
+    "section_number": "Section 78",
+    "section_title": "Voluntarily causing hurt",
+    "description": "Causing bodily pain, disease, or infirmity to any person.",
+    "examples": [
+      "Slapping someone causing pain.",
+      "Injecting a person with a harmful substance causing illness."
+    ]
+  },
+  {
+    "section_number": "Section 79",
+    "section_title": "Voluntarily causing grievous hurt",
+    "description": "Causing serious bodily harm like permanent disfigurement, fracture, or severe injury as defined.",
+    "examples": [
+      "Breaking someone’s arm in a fight.",
+      "Throwing acid causing permanent facial scars."
+    ]
+  },
+  {
+    "section_number": "Section 80",
+    "section_title": "Wrongful restraint",
+    "description": "Unlawfully obstructing a person so they cannot proceed in a direction they have a right to go.",
+    "examples": [
+      "Blocking a coworker from exiting a room.",
+      "Standing in front of a scooter to stop the rider unlawfully."
+    ]
+  },
+  {
+    "section_number": "Section 81",
+    "section_title": "Wrongful confinement",
+    "description": "Wrongfully restraining a person in a way that prevents them from going beyond certain limits.",
+    "examples": [
+      "Locking a tenant inside their room over a rent dispute.",
+      "Detaining a customer in a back room without legal authority."
+    ]
+  },
+  {
+    "section_number": "Section 82",
+    "section_title": "Kidnapping",
+    "description": "Taking or enticing a person away without lawful authority; includes specific rules for minors and persons of unsound mind.",
+    "examples": [
+      "Luring a minor from school without parental consent.",
+      "Taking a dependent adult away to control their property."
+    ]
+  },
+  {
+    "section_number": "Section 83",
+    "section_title": "Abduction",
+    "description": "Compelling or inducing someone to go from any place by force or deceit.",
+    "examples": [
+      "Forcing a person into a vehicle and driving off.",
+      "Deceiving someone to follow to a remote place for exploitation."
+    ]
+  },
+  {
+    "section_number": "Section 84",
+    "section_title": "Trafficking of persons",
+    "description": "Recruiting, transporting, harboring, or receiving persons for exploitation by means like threat, coercion, abduction, fraud, deception, abuse of power, or inducement.",
+    "examples": [
+      "Moving workers across states with confiscated IDs for forced labor.",
+      "Luring women with job offers for sexual exploitation."
+    ]
+  },
+  {
+    "section_number": "Section 85",
+    "section_title": "Sexual offences: definitions",
+    "description": "Provides definitions used for sexual offences, including consent, penetrative acts, and circumstances vitiating consent.",
+    "examples": [
+      "Clarifying when consent is valid in a rape case.",
+      "Defining acts that constitute penetrative sexual assault."
+    ]
+  },
+  {
+    "section_number": "Section 86",
+    "section_title": "Rape",
+    "description": "Defines rape, circumstances where consent is invalid, and prescribes punishments with graded severity for aggravated forms.",
+    "examples": [
+      "Sexual intercourse without consent.",
+      "Rape of a minor triggers enhanced punishment."
+    ]
+  },
+  {
+    "section_number": "Section 87",
+    "section_title": "Gang rape and aggravated rape",
+    "description": "Punishes gang rape and specific aggravated circumstances with higher minimum sentences.",
+    "examples": [
+      "Multiple offenders sexually assault a victim together.",
+      "Rape causing grievous injury attracts enhanced penalties."
+    ]
+  },
+  {
+    "section_number": "Section 88",
+    "section_title": "Outraging modesty and sexual harassment",
+    "description": "Covers acts like unwelcome physical contact, stalking, showing pornography without consent, and other harassment.",
+    "examples": [
+      "Touching a woman inappropriately in public.",
+      "Sending explicit images repeatedly without consent."
+    ]
+  },
+  {
+    "section_number": "Section 89",
+    "section_title": "Voyeurism and stalking",
+    "description": "Criminalizes watching or capturing images of a person in private acts without consent, and persistently following or contacting despite disinterest.",
+    "examples": [
+      "Filming someone bathing without consent.",
+      "Following a person daily and messaging them despite clear refusal."
+    ]
+  },
+  {
+    "section_number": "Section 90",
+    "section_title": "Adultery and marital sexual offences (as defined)",
+    "description": "Addresses specified marital context offences as enacted in BNS, aligned with Supreme Court rulings removing criminal adultery against consenting adults.",
+    "examples": [
+      "Where applicable, punishes conduct specifically criminalized post-judgment.",
+      "No prosecution for consensual adult adultery in line with precedent."
+    ]
+  },
+  {
+    "section_number": "Section 91",
+    "section_title": "Causing death by negligence",
+    "description": "Death caused by rash or negligent act not amounting to culpable homicide.",
+    "examples": [
+      "A driver speeding through a red light causes a fatal crash.",
+      "Negligent handling of industrial machinery leads to a worker’s death."
+    ]
+  },
+  {
+    "section_number": "Section 92",
+    "section_title": "Culpable homicide",
+    "description": "Causing death with the intention of causing death, or with knowledge that the act is likely to cause death, but not meeting the full definition of murder.",
+    "examples": [
+      "Beating someone knowing it could be fatal, but without intent to kill.",
+      "Firing a gun into a crowd causing death with knowledge of likely consequences."
+    ]
+  },
+  {
+    "section_number": "Section 93",
+    "section_title": "Murder",
+    "description": "Culpable homicide becomes murder when done with specific, higher degrees of intent or in specified circumstances.",
+    "examples": [
+      "Stabbing a person in the chest to kill.",
+      "Poisoning a rival with clear intent to cause death."
+    ]
+  },
+  {
+    "section_number": "Section 94",
+    "section_title": "Abetment of suicide",
+    "description": "Encouraging or aiding someone to commit suicide is punishable.",
+    "examples": [
+      "Constantly instigating and supplying means to a victim to end their life.",
+      "Blackmailing a person to the point of suicide and aiding it."
+    ]
+  },
+  {
+    "section_number": "Section 95",
+    "section_title": "Attempt to murder",
+    "description": "Doing an act with intent to cause death that falls short of killing is attempt to murder.",
+    "examples": [
+      "Shooting at someone but missing.",
+      "Stabbing a person in a vital area but they survive."
+    ]
+  },
+  {
+    "section_number": "Section 96",
+    "section_title": "Causing miscarriage and offences against unborn children",
+    "description": "Criminalizes causing miscarriage without lawful reason and certain acts endangering an unborn child, consistent with medical law exceptions.",
+    "examples": [
+      "Assaulting a pregnant woman causing miscarriage.",
+      "Administering drugs to terminate pregnancy without medical authorization."
+    ]
+  },
+  {
+    "section_number": "Section 97",
+    "section_title": "Hurt by dangerous weapons or means",
+    "description": "Enhanced punishment when hurt is caused by dangerous weapons, acid, fire, or similar means.",
+    "examples": [
+      "Attacking with a knife causing injuries.",
+      "Throwing acid causing burns."
+    ]
+  },
+  {
+    "section_number": "Section 98",
+    "section_title": "Acid attacks",
+    "description": "Specific offence for using acid to cause harm, with stringent minimum sentences and rehabilitation/compensation considerations.",
+    "examples": [
+      "Throwing acid on someone after a rejected proposal.",
+      "Supplying acid knowing it will be used for an attack."
+    ]
+  },
+  {
+    "section_number": "Section 99",
+    "section_title": "Rash or negligent act causing hurt",
+    "description": "Punishes rash or negligent acts that cause hurt but not grievous hurt or death.",
+    "examples": [
+      "Recklessly flying a drone that injures a passerby.",
+      "Negligently handling fireworks causing minor burns."
+    ]
+  },
+  {
+    "section_number": "Section 100",
+    "section_title": "Dowry death and cruelty related to marriage (as specified)",
+    "description": "Addresses dowry death and cruelty to a married woman by husband or relatives, with presumptions and enhanced penalties in defined situations.",
+    "examples": [
+      "A woman dies under suspicious circumstances after dowry harassment.",
+      "Repeated cruelty by in-laws linked to dowry demands."
+    ]
+  },
+  {
+    "section_number": "Section 101",
+    "section_title": "Cruelty by husband or relatives of husband",
+    "description": "Punishes cruelty to a married woman by her husband or his relatives, including harassment for unlawful demands or conduct likely to drive her to suicide or cause grave injury.",
+    "examples": [
+      "Relatives repeatedly harass a woman to bring more dowry.",
+      "Husband subjects wife to sustained physical and mental abuse causing severe trauma."
+    ]
+  },
+  {
+    "section_number": "Section 102",
+    "section_title": "Kidnapping for ransom",
+    "description": "Taking or detaining a person and demanding money, property, or other benefit for their release.",
+    "examples": [
+      "Abducting a businessman and demanding ₹50 lakh.",
+      "Holding a child and threatening harm unless payment is made."
+    ]
+  },
+  {
+    "section_number": "Section 103",
+    "section_title": "Kidnapping or maiming for begging",
+    "description": "Kidnapping or maiming a person, particularly minors, to exploit them for begging is a serious offence with enhanced punishment.",
+    "examples": [
+      "Forcing a child to beg at traffic lights after abducting them.",
+      "Injuring a person to evoke sympathy and collect money."
+    ]
+  },
+  {
+    "section_number": "Section 104",
+    "section_title": "Slavery and forced labour",
+    "description": "Prohibits selling, purchasing, or compelling any person into slavery, servitude, or forced labour.",
+    "examples": [
+      "Confiscating workers’ IDs and forcing them to work without pay.",
+      "Selling a person into bonded labour to repay an inflated debt."
+    ]
+  },
+  {
+    "section_number": "Section 105",
+    "section_title": "Unnatural offences (as defined)",
+    "description": "Criminalizes specific non-consensual or exploitative sexual acts as defined by law, in line with constitutional protections for consenting adults.",
+    "examples": [
+      "Sexual assault involving acts defined as unnatural without consent.",
+      "Exploitative acts against minors under this head."
+    ]
+  },
+  {
+    "section_number": "Section 106",
+    "section_title": "Outraging religious feelings",
+    "description": "Deliberately and maliciously insulting the religion or religious beliefs of any class of citizens with intent to outrage their feelings.",
+    "examples": [
+      "Publishing a targeted, malicious insult of a religion to provoke anger.",
+      "Desecrating a place of worship to inflame sentiments."
+    ]
+  },
+  {
+    "section_number": "Section 107",
+    "section_title": "Promoting enmity between groups",
+    "description": "Acts that promote enmity, hatred, or ill-will between different groups on grounds like religion, race, language, etc., or that disturb harmony.",
+    "examples": [
+      "Spreading hateful pamphlets urging violence against a community.",
+      "Inciting crowds with speeches that pit one group against another."
+    ]
+  },
+  {
+    "section_number": "Section 108",
+    "section_title": "Statements conducing to public mischief",
+    "description": "Publishing or circulating statements or rumours with intent to cause fear, alarm, or disturbances, or to induce offences against the State or public order.",
+    "examples": [
+      "Circulating false panic-inducing messages about a bank run.",
+      "Spreading fabricated communal rumours to cause riots."
+    ]
+  },
+  {
+    "section_number": "Section 109",
+    "section_title": "Seductive or exploitative material targeting minors",
+    "description": "Prohibits creating, possessing, or distributing sexual or exploitative content involving minors, with stringent penalties.",
+    "examples": [
+      "Sharing explicit images of a minor online.",
+      "Possessing child sexual abuse material for distribution."
+    ]
+  },
+  {
+    "section_number": "Section 110",
+    "section_title": "Obstruction to public servant",
+    "description": "Voluntarily obstructing a public servant in the discharge of their public functions.",
+    "examples": [
+      "Blocking a health inspector from entering premises during inspection.",
+      "Physically stopping a police officer from making a lawful arrest."
+    ]
+  },
+  {
+    "section_number": "Section 111",
+    "section_title": "Assault or criminal force to deter public servant",
+    "description": "Using assault or criminal force to deter or prevent a public servant from performing official duty.",
+    "examples": [
+      "Shoving a traffic cop who is issuing a challan.",
+      "Throwing objects at a tax officer during a raid."
+    ]
+  },
+  {
+    "section_number": "Section 112",
+    "section_title": "False personation of public servant",
+    "description": "Falsely pretending to be a public servant and acting in that capacity.",
+    "examples": [
+      "Posing as a municipal officer to extort 'fines'.",
+      "Impersonating a police officer to search a house."
+    ]
+  },
+  {
+    "section_number": "Section 113",
+    "section_title": "Disobedience to order duly promulgated by public servant",
+    "description": "Knowingly disobeying a lawful order issued by a competent public servant to prevent obstruction, injury, or disturbance.",
+    "examples": [
+      "Defying a curfew order during a riot.",
+      "Ignoring a building evacuation order during a gas leak."
+    ]
+  },
+  {
+    "section_number": "Section 114",
+    "section_title": "Bribery of public servant",
+    "description": "Giving or offering gratification to a public servant to influence official acts, separate from specialized anti-corruption laws.",
+    "examples": [
+      "Offering cash to get a licence approved faster.",
+      "Paying a bribe to avoid a regulatory penalty."
+    ]
+  },
+  {
+    "section_number": "Section 115",
+    "section_title": "Taking gratification by public servant",
+    "description": "Public servant accepting gratification other than legal remuneration as a motive or reward for doing or forbearing official acts.",
+    "examples": [
+      "An officer accepts money to overlook violations.",
+      "A clerk takes a 'fee' for issuing a certificate quickly."
+    ]
+  },
+  {
+    "section_number": "Section 116",
+    "section_title": "Public servant unlawfully buying or bidding",
+    "description": "Public servants misusing position to buy property or bid in auctions connected with their official duties.",
+    "examples": [
+      "An officer overseeing a land auction secretly bids via a proxy.",
+      "A procurement official buys from a vendor they regulate."
+    ]
+  },
+  {
+    "section_number": "Section 117",
+    "section_title": "Public servant framing incorrect document",
+    "description": "Preparing or signing any document knowing it to be incorrect to cause injury or benefit.",
+    "examples": [
+      "Issuing a false inspection certificate.",
+      "Backdating an official order to favor a party."
+    ]
+  },
+  {
+    "section_number": "Section 118",
+    "section_title": "Omission by public servant to apprehend or proceed against offender",
+    "description": "A public servant deliberately fails to apprehend an offender or intentionally omits steps required by law.",
+    "examples": [
+      "A police officer ignores an arrest warrant for a bribe.",
+      "An inspector avoids issuing a mandatory closure order despite violations."
+    ]
+  },
+  {
+    "section_number": "Section 119",
+    "section_title": "Escape or rescue from lawful custody",
+    "description": "Whoever escapes from lawful custody, or whoever rescues or attempts to rescue a person from such custody.",
+    "examples": [
+      "Breaking out of a police lock-up.",
+      "Friends overpower guards to free a detainee."
+    ]
+  },
+  {
+    "section_number": "Section 120",
+    "section_title": "Harbouring offender",
+    "description": "Harbouring a person known or believed to have committed an offence to shield them from legal consequences.",
+    "examples": [
+      "Hiding a fugitive in your house.",
+      "Providing resources to help a convict avoid capture."
+    ]
+  },
+  {
+    "section_number": "Section 121",
+    "section_title": "Giving false information to public servant",
+    "description": "Knowingly providing false information to a public servant to cause them to use their lawful power to the injury of another.",
+    "examples": [
+      "Filing a false complaint to get a rival arrested.",
+      "Submitting fake documents to obtain a government benefit."
+    ]
+  },
+  {
+    "section_number": "Section 122",
+    "section_title": "False evidence and perjury",
+    "description": "Giving false evidence in judicial proceedings or making false statements under oath/affirmation.",
+    "examples": [
+      "Lying under oath about an alibi.",
+      "Submitting an affidavit with knowingly false facts."
+    ]
+  },
+  {
+    "section_number": "Section 123",
+    "section_title": "Fabricating false evidence",
+    "description": "Creating false documents, records, or circumstances to mislead courts or authorities.",
+    "examples": [
+      "Planting forged bills to implicate a shopkeeper.",
+      "Editing CCTV footage to fabricate a timeline."
+    ]
+  },
+  {
+    "section_number": "Section 124",
+    "section_title": "Screening offender",
+    "description": "Causing any evidence of an offence to disappear or giving false information to shield an offender from punishment.",
+    "examples": [
+      "Destroying blood-stained clothes after a crime.",
+      "Cleaning a crime scene to erase fingerprints."
+    ]
+  },
+  {
+    "section_number": "Section 125",
+    "section_title": "Waging war against the Government of India",
+    "description": "Acts of waging war, attempting to wage war, or abetting waging war against India.",
+    "examples": [
+      "Organizing armed attacks against state forces.",
+      "Supplying arms to a group to wage war on the State."
+    ]
+  },
+  {
+    "section_number": "Section 126",
+    "section_title": "Conspiracy to commit offences against the State",
+    "description": "Conspiring to wage war or commit serious offences against the State’s sovereignty and security.",
+    "examples": [
+      "Planning coordinated attacks on military bases.",
+      "Plotting to sabotage critical infrastructure."
+    ]
+  },
+  {
+    "section_number": "Section 127",
+    "section_title": "Sedition-like acts affecting sovereignty, unity and integrity",
+    "description": "Punishes acts with intent to endanger sovereignty, unity and integrity of India by incitement to violence or public disorder, in the form specified by the statute.",
+    "examples": [
+      "Inciting violent uprising against the State.",
+      "Organized calls for armed secession causing public disorder."
+    ]
+  },
+  {
+    "section_number": "Section 128",
+    "section_title": "Assault on President, Governor, etc., to compel or restrain the exercise of any lawful power",
+    "description": "Using criminal force against high constitutional authorities to influence their lawful powers.",
+    "examples": [
+      "Attacking a Governor to force withdrawal of assent.",
+      "Assaulting the President’s staff to obstruct an official act."
+    ]
+  },
+  {
+    "section_number": "Section 129",
+    "section_title": "Public tranquillity: unlawful assembly and rioting",
+    "description": "Defines rioting and punishes members who use force or violence in pursuit of a common unlawful purpose.",
+    "examples": [
+      "A mob damages vehicles during a protest.",
+      "Group attacks on shops under a common plan."
+    ]
+  },
+  {
+    "section_number": "Section 130",
+    "section_title": "Arms and deadly weapons in unlawful assembly",
+    "description": "Enhanced punishment when members of an unlawful assembly carry deadly weapons.",
+    "examples": [
+      "Rioters carry swords and guns.",
+      "A group brings petrol bombs to a protest turned violent."
+    ]
+  },
+  {
+    "section_number": "Section 131",
+    "section_title": "Harbouring persons hired for unlawful assembly",
+    "description": "Harbouring individuals hired or employed to join unlawful assemblies or riots.",
+    "examples": [
+      "Providing shelter to hired goons before a planned riot.",
+      "Paying and hosting outsiders to swell a violent crowd."
+    ]
+  },
+  {
+    "section_number": "Section 132",
+    "section_title": "Promoting enmity during elections and public gatherings",
+    "description": "Using elections or mass events to promote hatred or disturb public harmony attracts punishment under public order offences.",
+    "examples": [
+      "Spreading communal hate during a campaign rally.",
+      "Provoking clashes at a festival gathering."
+    ]
+  },
+  {
+    "section_number": "Section 133",
+    "section_title": "Public nuisance affecting health, safety or convenience",
+    "description": "Acts or omissions that cause common injury, danger, or annoyance to the public or obstruct public rights.",
+    "examples": [
+      "Releasing untreated sewage into a public drain.",
+      "Blocking a busy road with unauthorized construction."
+    ]
+  },
+  {
+    "section_number": "Section 134",
+    "section_title": "Adulteration of food or drink intended for sale",
+    "description": "Adulterating food or drink so as to make it noxious or harmful, or selling such items knowing them to be adulterated.",
+    "examples": [
+      "Adding harmful chemicals to milk to increase volume.",
+      "Selling oil mixed with unsafe substances as edible oil."
+    ]
+  },
+  {
+    "section_number": "Section 135",
+    "section_title": "Sale of noxious food or drink",
+    "description": "Selling food or drink that is unfit for consumption or harmful, regardless of adulteration method.",
+    "examples": [
+      "Selling spoiled meat as fresh.",
+      "Selling homemade liquor contaminated with methanol."
+    ]
+  },
+  {
+    "section_number": "Section 136",
+    "section_title": "Adulteration of drugs",
+    "description": "Adulterating drugs or medical preparations to reduce quality or make them harmful, or selling/possessing such drugs.",
+    "examples": [
+      "Diluting antibiotics with inert powder.",
+      "Selling counterfeit painkillers with toxic fillers."
+    ]
+  },
+  {
+    "section_number": "Section 137",
+    "section_title": "Sale of adulterated drugs",
+    "description": "Selling or offering for sale any adulterated or spurious drugs knowing or with reason to believe them to be such.",
+    "examples": [
+      "A pharmacist knowingly sells counterfeit tablets.",
+      "A distributor circulates fake vaccines."
+    ]
+  },
+  {
+    "section_number": "Section 138",
+    "section_title": "Rash or negligent act endangering life or personal safety",
+    "description": "Doing any rash or negligent act that endangers human life or personal safety of others.",
+    "examples": [
+      "Flying drones over crowds dangerously.",
+      "Leaving live electrical wires exposed in a public area."
+    ]
+  },
+  {
+    "section_number": "Section 139",
+    "section_title": "Public servants disobeying directions under law",
+    "description": "Public servants who knowingly disobey legal directions intending to save a person from punishment or property from forfeiture.",
+    "examples": [
+      "Officer ignores court attachment orders to protect a debtor.",
+      "Police refuse to register a mandated case to shield an offender."
+    ]
+  },
+  {
+    "section_number": "Section 140",
+    "section_title": "Omission to give information of offence to public servant",
+    "description": "Legally bound persons who intentionally omit to give information about certain offences to authorities.",
+    "examples": [
+      "A hospital conceals a medico-legal injury case.",
+      "A manager fails to report a serious workplace accident required by law."
+    ]
+  },
+  {
+    "section_number": "Section 141",
+    "section_title": "Giving or fabricating false information to cause public servant to use power wrongfully",
+    "description": "Providing or creating false information intending that a public servant uses lawful power to harm or annoy someone.",
+    "examples": [
+      "Forging a complaint to get a competitor’s shop sealed.",
+      "Submitting a fake medical report to block a licence."
+    ]
+  },
+  {
+    "section_number": "Section 142",
+    "section_title": "Escape from confinement or custody through negligence",
+    "description": "Custodial officers who negligently allow escape may be liable; escapees are separately liable.",
+    "examples": [
+      "A guard leaves a cell unlocked leading to escape.",
+      "Transporting prisoners without restraints who then flee."
+    ]
+  },
+  {
+    "section_number": "Section 143",
+    "section_title": "Concealment of design to commit offence",
+    "description": "Knowing of a plan to commit an offence and intentionally concealing it when legally bound to inform authorities.",
+    "examples": [
+      "Withholding knowledge of a planned dacoity from police.",
+      "Not reporting a known bomb plot despite duty."
+    ]
+  },
+  {
+    "section_number": "Section 144",
+    "section_title": "Fabrication or destruction of evidence",
+    "description": "Causing disappearance of evidence or fabricating evidence to mislead courts or investigations.",
+    "examples": [
+      "Erasing CCTV recordings after a theft.",
+      "Creating fake call logs to establish an alibi."
+    ]
+  },
+  {
+    "section_number": "Section 145",
+    "section_title": "Resisting or obstructing lawful apprehension",
+    "description": "Resisting lawful arrest or rescuing a person from such arrest is punishable.",
+    "examples": [
+      "A suspect fights officers to avoid being handcuffed.",
+      "Friends block the police vehicle and free the detainee."
+    ]
+  },
+  {
+    "section_number": "Section 146",
+    "section_title": "Personation in elections",
+    "description": "Applying for, voting, or acting in an election as another person, or abetting such personation.",
+    "examples": [
+      "Casting a vote using someone else’s ID.",
+      "Aiding multiple fake voters during polling."
+    ]
+  },
+  {
+    "section_number": "Section 147",
+    "section_title": "False statements in connection with elections",
+    "description": "Making false statements or accounts relating to elections with intent to affect results or mislead authorities.",
+    "examples": [
+      "Submitting false expense accounts to the election authority.",
+      "Announcing fabricated results to influence voters."
+    ]
+  },
+  {
+    "section_number": "Section 148",
+    "section_title": "Public servant unlawfully engaging in trade",
+    "description": "Public servants engaging in trade or business forbidden by their office or creating conflicts of interest.",
+    "examples": [
+      "A judge running a private arbitration business while in office.",
+      "A tax officer trading in regulated commodities they oversee."
+    ]
+  },
+  {
+    "section_number": "Section 149",
+    "section_title": "Disclosure of identity of victims and witnesses in protected offences",
+    "description": "Publishing identity of victims in specified offences (like sexual offences) without legal authority is punishable.",
+    "examples": [
+      "Revealing a rape survivor’s name in media.",
+      "Posting a victim’s address in an online forum."
+    ]
+  },
+  {
+    "section_number": "Section 150",
+    "section_title": "Bigamy",
+    "description": "Marrying again during the lifetime of a spouse when the first marriage is valid and subsisting, except under lawful exceptions.",
+    "examples": [
+      "A man marries a second time without divorce from his first wife.",
+      "A woman enters a second marriage while her first is still valid."
+    ]
+  },
+  {
+    "section_number": "Section 151",
+    "section_title": "Marriage ceremony fraudulently performed without lawful authority",
+    "description": "Performing or officiating a marriage without lawful authority or knowing legal requirements are not met.",
+    "examples": [
+      "A person conducts a sham marriage without required consents.",
+      "Officiating a marriage knowing one party is underage."
+    ]
+  },
+  {
+    "section_number": "Section 152",
+    "section_title": "Concealment of former marriage",
+    "description": "Concealing the fact of a prior subsisting marriage while contracting a second marriage.",
+    "examples": [
+      "Hiding an existing marriage from a new spouse.",
+      "Suppressing divorce status to induce a new marriage."
+    ]
+  },
+  {
+    "section_number": "Section 153",
+    "section_title": "Cruelty to animals and mischief by killing or maiming animals",
+    "description": "Punishes killing, maiming, or rendering useless any animal of another, with cruelty or malice.",
+    "examples": [
+      "Poisoning a neighbor’s dog out of spite.",
+      "Slashing a farmer’s cattle to cause loss."
+    ]
+  },
+  {
+    "section_number": "Section 154",
+    "section_title": "Injury to or defilement of place of worship",
+    "description": "Damaging, defiling, or trespassing in places of worship with intent to insult religion.",
+    "examples": [
+      "Spray-painting insults inside a temple.",
+      "Breaking idols to provoke a community."
+    ]
+  },
+  {
+    "section_number": "Section 155",
+    "section_title": "Criminal trespass on burial places",
+    "description": "Trespassing on places set apart for funeral rites or sepulture with intent to insult or disturb.",
+    "examples": [
+      "Disrupting a burial ceremony by entering and shouting slurs.",
+      "Damaging graves to offend mourners."
+    ]
+  },
+  {
+    "section_number": "Section 156",
+    "section_title": "Maritime offences: piracy and depredation on the high seas",
+    "description": "Punishes piracy, armed robbery, or depredation at sea, including aiding or abetting such acts.",
+    "examples": [
+      "Hijacking a merchant ship on the high seas.",
+      "Organizing an armed raid on an offshore vessel."
+    ]
+  },
+  {
+    "section_number": "Section 157",
+    "section_title": "Counterfeiting government stamps, currency marks, or seals",
+    "description": "Counterfeiting or possessing instruments for counterfeiting government stamps, currency identifiers, or official seals.",
+    "examples": [
+      "Printing fake revenue stamps.",
+      "Manufacturing counterfeit government seals for documents."
+    ]
+  },
+  {
+    "section_number": "Section 158",
+    "section_title": "Using as genuine a counterfeit government instrument",
+    "description": "Using counterfeit government stamps, seals, or marks as genuine is an offence.",
+    "examples": [
+      "Affixing fake revenue stamps to agreements.",
+      "Using a forged government seal to authenticate a certificate."
+    ]
+  },
+  {
+    "section_number": "Section 159",
+    "section_title": "Falsification of accounts",
+    "description": "Dishonestly altering, destroying, or fabricating accounts, books, or documents to defraud.",
+    "examples": [
+      "Cooking company books to siphon funds.",
+      "Deleting ledger entries to hide embezzlement."
+    ]
+  },
+  {
+    "section_number": "Section 160",
+    "section_title": "Criminal breach of contract of service",
+    "description": "Breach of service contract with intent to cause wrongful loss or to endanger life, property, or public safety may attract criminal liability.",
+    "examples": [
+      "A security guard abandons post to enable a planned theft.",
+      "A pilot deserts duty knowing it will endanger passengers."
+    ]
+  },
+  {
+    "section_number": "Section 161",
+    "section_title": "Cheating involving electronic means or identity fraud",
+    "description": "Cheating conducted through electronic communications or identity theft methods attracts punishment, in harmony with IT laws.",
+    "examples": [
+      "Phishing victims via fake banking websites.",
+      "SIM-swap fraud to drain bank accounts."
+    ]
+  },
+  {
+    "section_number": "Section 162",
+    "section_title": "House-trespass to commit offence punishable with imprisonment",
+    "description": "House-trespass with intent to commit any imprisonable offence attracts enhanced punishment.",
+    "examples": [
+      "Breaking into a home to commit sexual assault.",
+      "Entering a warehouse to sabotage equipment."
+    ]
+  },
+  {
+    "section_number": "Section 163",
+    "section_title": "Voyeurism, image-based abuse, and distribution without consent",
+    "description": "Capturing, sharing, or threatening to share intimate images without consent is punishable, with higher penalties for repeat offences.",
+    "examples": [
+      "Sharing a partner’s private photos after a breakup.",
+      "Threatening to leak private images to extort money."
+    ]
+  },
+  {
+    "section_number": "Section 164",
+    "section_title": "Stalking (physical or digital)",
+    "description": "Repeatedly following, contacting, or monitoring a person despite clear disinterest, including via electronic means.",
+    "examples": [
+      "Following a colleague from office to home daily.",
+      "Using spyware to track someone’s location and messages."
+    ]
+  },
+  {
+    "section_number": "Section 165",
+    "section_title": "Sale or hire of minors for immoral purposes",
+    "description": "Selling, letting to hire, or otherwise dealing with minors for prostitution or immoral purposes.",
+    "examples": [
+      "Trafficking a minor to a brothel.",
+      "Renting a minor for sexual exploitation."
+    ]
+  },
+  {
+    "section_number": "Section 166",
+    "section_title": "Procuration of minor",
+    "description": "Procuring or inducing a minor to go from any place for unlawful sexual purposes.",
+    "examples": [
+      "Luring a minor with gifts to a hotel for exploitation.",
+      "Arranging travel for a minor to another city for abuse."
+    ]
+  },
+  {
+    "section_number": "Section 167",
+    "section_title": "Buying or disposing of any person as a slave",
+    "description": "Buying, selling, transferring, or disposing of any person as if they were property.",
+    "examples": [
+      "Selling a person to work without pay and freedom.",
+      "Purchasing a kidnapped person to force labour."
+    ]
+  },
+  {
+    "section_number": "Section 168",
+    "section_title": "Unlawful compulsory labour",
+    "description": "Compelling a person to labour against their will with threats or coercion.",
+    "examples": [
+      "Confiscating wages and threatening violence if the worker leaves.",
+      "Forcing villagers to perform work without payment."
+    ]
+  },
+  {
+    "section_number": "Section 169",
+    "section_title": "Hurt by corrosive substances other than acid",
+    "description": "Punishes causing hurt using corrosive or harmful chemicals other than classic acid, recognizing varied attack methods.",
+    "examples": [
+      "Throwing alkaline drain cleaner causing burns.",
+      "Using industrial solvent to injure someone’s face."
+    ]
+  },
+  {
+    "section_number": "Section 170",
+    "section_title": "Murder by group or in course of organized crime (aggravation)",
+    "description": "Enhanced punishment for murder committed by a group, in course of organized crime, or in specified aggravated contexts.",
+    "examples": [
+      "Gang executes a rival as part of organized extortion.",
+      "Contract killing arranged by a criminal syndicate."
+    ]
+  },
+  {
+    "section_number": "Section 171",
+    "section_title": "Homicide by rash or negligent driving",
+    "description": "Causing death by rash or negligent driving of any vehicle, with graded punishment based on circumstances like intoxication or hit-and-run.",
+    "examples": [
+      "Speeding drunk driver kills a pedestrian.",
+      "Truck driver flees after fatally hitting a cyclist."
+    ]
+  },
+  {
+    "section_number": "Section 172",
+    "section_title": "Causing grievous hurt by rash or negligent act",
+    "description": "Rash or negligent acts causing grievous hurt attract higher penalties.",
+    "examples": [
+      "Unsafe demolition causes severe injuries to neighbors.",
+      "Negligent handling of fireworks blinds a bystander."
+    ]
+  },
+  {
+    "section_number": "Section 173",
+    "section_title": "Organized theft, robbery or dacoity",
+    "description": "Participation in criminal organizations committing theft, robbery, or dacoity carries stiffer punishments.",
+    "examples": [
+      "Joining a gang specialized in highway lootings.",
+      "Coordinating a series of ATM break-ins across districts."
+    ]
+  },
+  {
+    "section_number": "Section 174",
+    "section_title": "Habitual offenders: theft, house-breaking, or receiving stolen property",
+    "description": "Repeat offenders in property crimes face enhanced liabilities.",
+    "examples": [
+      "A habitual burglar caught again faces higher punishment.",
+      "A fence routinely buying stolen goods is punished more severely."
+    ]
+  },
+  {
+    "section_number": "Section 175",
+    "section_title": "Criminal breach of trust by public servant or banker",
+    "description": "Enhanced punishment when breach of trust is by a public servant, banker, merchant, or agent.",
+    "examples": [
+      "A bank manager misuses deposits for personal trading.",
+      "A public treasurer diverts funds to private accounts."
+    ]
+  },
+  {
+    "section_number": "Section 176",
+    "section_title": "Dishonest or fraudulent removal of property to prevent seizure",
+    "description": "Removing, concealing, or transferring property to prevent lawful seizure.",
+    "examples": [
+      "Shifting goods at night to avoid attachment by court.",
+      "Transferring a car to a relative to evade repossession."
+    ]
+  },
+  {
+    "section_number": "Section 177",
+    "section_title": "Fraudulent deeds and dispositions of property",
+    "description": "Executing transfers to defeat creditors or legal claims is an offence.",
+    "examples": [
+      "Gifting property to family to avoid paying debts.",
+      "Backdating a sale deed to frustrate a court decree."
+    ]
+  },
+  {
+    "section_number": "Section 178",
+    "section_title": "Mischief by fire or explosive substance",
+    "description": "Causing damage by fire or explosives attracts stringent penalties, especially endangering life or public property.",
+    "examples": [
+      "Setting a warehouse on fire to claim insurance.",
+      "Using explosives to damage railway tracks."
+    ]
+  },
+  {
+    "section_number": "Section 179",
+    "section_title": "Mischief causing damage to public infrastructure",
+    "description": "Damaging roads, bridges, waterworks, or other public infrastructure is an aggravated form of mischief.",
+    "examples": [
+      "Breaking streetlights across a neighborhood.",
+      "Damaging a water treatment plant’s equipment."
+    ]
+  },
+  {
+    "section_number": "Section 180",
+    "section_title": "Tampering with public utilities and safety systems",
+    "description": "Interfering with systems like electricity, gas, telecom, or emergency services that endangers life or service continuity.",
+    "examples": [
+      "Cutting power lines to an area causing hazards.",
+      "Disabling fire suppression systems in a mall."
+    ]
+  },
+  {
+    "section_number": "Section 181",
+    "section_title": "Fraudulent cancellation or destruction of valuable security",
+    "description": "Fraudulently destroying, canceling, or secreting a valuable security or instrument to cause loss.",
+    "examples": [
+      "Burning a promissory note to erase debt.",
+      "Destroying a signed cheque to prevent payment to the holder."
+    ]
+  },
+  {
+    "section_number": "Section 182",
+    "section_title": "Forgery of valuable security, will, or authority to adopt",
+    "description": "Forgery related to valuable securities, wills, or legal authorities carries higher punishment.",
+    "examples": [
+      "Forging a will to inherit property.",
+      "Creating a fake power of attorney to transfer assets."
+    ]
+  },
+  {
+    "section_number": "Section 183",
+    "section_title": "Counterfeiting currency: possession and trafficking",
+    "description": "Possessing or trafficking counterfeit currency or instruments knowing them to be counterfeit.",
+    "examples": [
+      "Supplying fake notes to small vendors.",
+      "Carrying bundles of counterfeit currency for exchange."
+    ]
+  },
+  {
+    "section_number": "Section 184",
+    "section_title": "Making or possessing counterfeit seals, plates, or instruments",
+    "description": "Making or possessing devices used to create counterfeit documents or currency.",
+    "examples": [
+      "Owning plates to print fake passports.",
+      "Holding embossers to forge company seals."
+    ]
+  },
+  {
+    "section_number": "Section 185",
+    "section_title": "Using forged or counterfeit documents in public office",
+    "description": "Using forged documents in official processes is separately punishable.",
+    "examples": [
+      "Submitting a fake caste certificate for reservation.",
+      "Using forged land records in court filings."
+    ]
+  },
+  {
+    "section_number": "Section 186",
+    "section_title": "Affray and public fighting with weapons",
+    "description": "Public fighting that disturbs peace, with aggravation when weapons are used.",
+    "examples": [
+      "Two groups clash with sticks in a market.",
+      "Knife fight in a public square causing panic."
+    ]
+  },
+  {
+    "section_number": "Section 187",
+    "section_title": "Public obscenity and indecent acts",
+    "description": "Obscene acts in public places or distribution of obscene material causing public annoyance.",
+    "examples": [
+      "Displaying pornographic videos on a public screen.",
+      "Performing obscene gestures towards passersby."
+    ]
+  },
+  {
+    "section_number": "Section 188",
+    "section_title": "Cheating at gaming or betting",
+    "description": "Cheating or swindling in games, betting, or wagering, including electronic formats.",
+    "examples": [
+      "Using hacks to win online betting fraudulently.",
+      "Marking cards in a gambling den to cheat players."
+    ]
+  },
+  {
+    "section_number": "Section 189",
+    "section_title": "Insult intended to provoke breach of peace",
+    "description": "Uttering words or gestures intended or likely to provoke a person to break the peace.",
+    "examples": [
+      "Hurling targeted slurs to start a fight.",
+      "Throwing provocative insults at a rival team’s supporters."
+    ]
+  },
+  {
+    "section_number": "Section 190",
+    "section_title": "Criminal intimidation by anonymous communication or electronic means",
+    "description": "Threats delivered anonymously or through electronic messages attract punishment.",
+    "examples": [
+      "Anonymous emails threatening violence unless paid.",
+      "Using a fake account to threaten to leak private data."
+    ]
+  },
+  {
+    "section_number": "Section 191",
+    "section_title": "Extortion by threat of accusation",
+    "description": "Extorting by threatening to accuse someone of an offence unless they deliver property.",
+    "examples": [
+      "Threatening to file a false rape case unless money is paid.",
+      "Demanding cash by threatening a bogus corruption complaint."
+    ]
+  },
+  {
+    "section_number": "Section 192",
+    "section_title": "Extortion by putting a person in fear of death or grievous hurt",
+    "description": "Extortion involving threats of death or grievous hurt carries higher punishment.",
+    "examples": [
+      "Threatening to shoot unless money is transferred.",
+      "Gang threatens to break a shopkeeper’s legs for protection money."
+    ]
+  },
+  {
+    "section_number": "Section 193",
+    "section_title": "Robbery with attempt to cause death or grievous hurt",
+    "description": "Robbery aggravated by attempts to cause death or grievous hurt, or actual causing thereof.",
+    "examples": [
+      "Stabbing a victim during a wallet snatch.",
+      "Beating a victim severely to force a bank transfer."
+    ]
+  },
+  {
+    "section_number": "Section 194",
+    "section_title": "Dacoity with murder",
+    "description": "When during dacoity, murder is committed, all participants may face enhanced punishment.",
+    "examples": [
+      "A gang kills a guard while robbing a bank.",
+      "Home invasion by five where a resident is killed."
+    ]
+  },
+  {
+    "section_number": "Section 195",
+    "section_title": "Receiving property stolen in dacoity",
+    "description": "Receiving or dealing in property known to be obtained through dacoity.",
+    "examples": [
+      "Buying jewelry from a known dacoity gang.",
+      "Storing loot from a highway robbery for resale."
+    ]
+  },
+  {
+    "section_number": "Section 196",
+    "section_title": "Belonging to a gang of dacoits",
+    "description": "Membership or association with a gang of dacoits is punishable.",
+    "examples": [
+      "Being part of a group planning serial highway robberies.",
+      "Serving as a lookout for a dacoity gang."
+    ]
+  },
+  {
+    "section_number": "Section 197",
+    "section_title": "Making preparation to commit dacoity",
+    "description": "Preparing to commit dacoity, such as assembling weapons or planning routes, is punishable.",
+    "examples": [
+      "Stockpiling weapons and masks for a planned heist.",
+      "Reconnoitering a bank with a five-person team."
+    ]
+  },
+  {
+    "section_number": "Section 198",
+    "section_title": "Counterfeit coin and government tokens",
+    "description": "Making, possessing, or using counterfeit coins or government tokens is an offence.",
+    "examples": [
+      "Minting fake ₹10 coins.",
+      "Using counterfeit tokens in public transport."
+    ]
+  },
+  {
+    "section_number": "Section 199",
+    "section_title": "Using as genuine a counterfeit coin",
+    "description": "Using counterfeit coin as if genuine, knowing or having reason to believe it to be counterfeit.",
+    "examples": [
+      "Paying a shop with fake coins.",
+      "Feeding counterfeit coins into vending machines."
+    ]
+  },
+  {
+    "section_number": "Section 200",
+    "section_title": "Possession of counterfeit coin with knowledge",
+    "description": "Possessing counterfeit coins knowing them to be counterfeit and intending to use them as genuine.",
+    "examples": [
+      "Carrying a bag of fake coins to circulate in markets.",
+      "Stocking counterfeit coins to pay street vendors."
+    ]
+  },
+  {
+    "section_number": "Section 201",
+    "section_title": "Criminal breach of trust by carrier, warehouse-keeper, etc.",
+    "description": "Entrusted carriers, warehouse-keepers, or similar custodians who dishonestly misappropriate or convert entrusted goods are liable to enhanced punishment.",
+    "examples": [
+      "A courier company diverts parcels to sell the contents.",
+      "A warehouse operator secretly sells stored goods."
+    ]
+  },
+  {
+    "section_number": "Section 202",
+    "section_title": "Criminal breach of trust by clerk or servant",
+    "description": "Clerks or employees who dishonestly misappropriate employer’s property entrusted to them are punished more severely.",
+    "examples": [
+      "An accounts assistant transfers client refunds to a personal account.",
+      "A store clerk skims cash from daily sales."
+    ]
+  },
+  {
+    "section_number": "Section 203",
+    "section_title": "Possession of property suspected to be stolen",
+    "description": "Having property reasonably suspected to be stolen and failing to account for its possession can be punishable.",
+    "examples": [
+      "Found with multiple new phones without bills and no credible explanation.",
+      "Holding jewelry with tampered serials and inconsistent story."
+    ]
+  },
+  {
+    "section_number": "Section 204",
+    "section_title": "Dishonest concealment of stolen property",
+    "description": "Concealing or keeping stolen property knowing or having reason to believe it to be stolen.",
+    "examples": [
+      "Hiding a friend’s stolen laptop in your house.",
+      "Storing stolen bikes in a rented garage."
+    ]
+  },
+  {
+    "section_number": "Section 205",
+    "section_title": "Criminal trespass with preparation for causing hurt",
+    "description": "Trespass accompanied by preparation for causing hurt or restraint attracts higher punishment.",
+    "examples": [
+      "Entering a house with weapons to intimidate residents.",
+      "Trespassing with ropes and tape to tie occupants."
+    ]
+  },
+  {
+    "section_number": "Section 206",
+    "section_title": "Lurking house-trespass or house-breaking by night",
+    "description": "Secret or forceful entry into a dwelling at night is punished more severely.",
+    "examples": [
+      "Breaking a window at midnight to steal.",
+      "Entering stealthily after dark to commit theft."
+    ]
+  },
+  {
+    "section_number": "Section 207",
+    "section_title": "Robbery or dacoity with attempt to cause death",
+    "description": "During robbery/dacoity, attempting to cause death or grievous hurt is an aggravating factor.",
+    "examples": [
+      "Pointing a loaded gun and pulling the trigger but misfiring.",
+      "Swinging a machete at a victim during a robbery."
+    ]
+  },
+  {
+    "section_number": "Section 208",
+    "section_title": "Collecting arms, etc., with intention to wage war",
+    "description": "Collecting men, arms, or ammunition with intent to wage war against the Government is punishable.",
+    "examples": [
+      "Stockpiling rifles to mount attacks on security forces.",
+      "Training cadres and amassing explosives for insurrection."
+    ]
+  },
+  {
+    "section_number": "Section 209",
+    "section_title": "Assaulting public servant to obstruct duty during riots",
+    "description": "Assaulting or obstructing public servants during riots or unlawful assemblies attracts higher penalties.",
+    "examples": [
+      "Attacking firefighters trying to douse a riot fire.",
+      "Assaulting police dispersing a violent crowd."
+    ]
+  },
+  {
+    "section_number": "Section 210",
+    "section_title": "Public nuisance by negligent acts likely to spread infection",
+    "description": "Negligent acts likely to spread disease dangerous to life constitute an offence.",
+    "examples": [
+      "Knowingly violating quarantine rules and mingling in public.",
+      "Operating a business while symptomatic in a declared outbreak."
+    ]
+  },
+  {
+    "section_number": "Section 211",
+    "section_title": "Malicious prosecution and false charge",
+    "description": "Instituting or causing to be instituted false criminal proceedings with intent to injure.",
+    "examples": [
+      "Filing a fake theft FIR against a rival to harm reputation.",
+      "Coercing a witness to lodge a false complaint."
+    ]
+  },
+  {
+    "section_number": "Section 212",
+    "section_title": "Defamation: printing or sale of defamatory material",
+    "description": "Printing, engraving, or selling material containing defamatory matter, knowing it to be defamatory.",
+    "examples": [
+      "Publishing a pamphlet with false allegations to damage reputation.",
+      "Selling a magazine issue known to carry defamatory content."
+    ]
+  },
+  {
+    "section_number": "Section 213",
+    "section_title": "Forgery for purpose of cheating",
+    "description": "Forging documents specifically to cheat or defraud another person.",
+    "examples": [
+      "Creating fake bank statements to obtain a loan.",
+      "Forging a property deed to sell land you don’t own."
+    ]
+  },
+  {
+    "section_number": "Section 214",
+    "section_title": "Making or possessing counterfeit currency notes or instruments",
+    "description": "Manufacturing or possessing counterfeit currency notes or instruments with intent to use them as genuine is punishable.",
+    "examples": [
+      "Running a clandestine currency-printing setup.",
+      "Keeping stacks of high-quality fake notes for circulation."
+    ]
+  },
+  {
+    "section_number": "Section 215",
+    "section_title": "Cheating with knowledge that wrongful loss may ensue",
+    "description": "Cheating where the offender knows it is likely to cause wrongful loss to the person deceived.",
+    "examples": [
+      "Selling a car with tampered odometer knowing the buyer will overpay.",
+      "Misrepresenting critical defects in a house sale."
+    ]
+  },
+  {
+    "section_number": "Section 216",
+    "section_title": "Cheating and dishonestly inducing delivery of property",
+    "description": "Deceiving a person and dishonestly inducing them to deliver property or valuable security.",
+    "examples": [
+      "Impersonating a bank official to get OTPs and drain funds.",
+      "Convincing a victim to transfer money to a 'safe account'."
+    ]
+  },
+  {
+    "section_number": "Section 217",
+    "section_title": "Matrimonial cruelty and dowry harassment: aggravated cases",
+    "description": "Aggravated forms of cruelty or harassment relating to dowry with specified presumptions and penalties.",
+    "examples": [
+      "Sustained harassment leading to serious injury or attempt to suicide.",
+      "Demanding large sums with threats of expulsion from the home."
+    ]
+  },
+  {
+    "section_number": "Section 218",
+    "section_title": "Hurt by dangerous weapons with intent to disfigure or disable",
+    "description": "Causing hurt using dangerous weapons with intent to permanently disfigure or disable attracts higher penalties.",
+    "examples": [
+      "Slashing a face intending permanent scarring.",
+      "Attacking hands with a blade to disable fingers."
+    ]
+  },
+  {
+    "section_number": "Section 219",
+    "section_title": "Grievous hurt by dangerous weapons",
+    "description": "Causing grievous hurt with dangerous weapons, including fractures, emasculation, or permanent loss of senses.",
+    "examples": [
+      "Breaking a leg with an iron rod.",
+      "Blinding someone with a chemical thrown in the eyes."
+    ]
+  },
+  {
+    "section_number": "Section 220",
+    "section_title": "Maiming by corrosive substances or fire",
+    "description": "Using corrosive substances or fire to maim or cause grievous disfigurement.",
+    "examples": [
+      "Throwing caustic soda to burn skin deeply.",
+      "Setting someone on fire causing lasting deformities."
+    ]
+  },
+  {
+    "section_number": "Section 221",
+    "section_title": "Snatching with violence",
+    "description": "Snatching accompanied by violence or causing hurt is punished more severely.",
+    "examples": [
+      "Dragging a victim with a bike while snatching a bag.",
+      "Punching a person to grab their phone."
+    ]
+  },
+  {
+    "section_number": "Section 222",
+    "section_title": "Theft in dwelling house or place of worship",
+    "description": "Theft committed in a dwelling house, place of worship, or custody place attracts enhanced punishment.",
+    "examples": [
+      "Stealing jewelry from a home safe.",
+      "Taking donation money from a temple box."
+    ]
+  },
+  {
+    "section_number": "Section 223",
+    "section_title": "Theft by clerk or servant",
+    "description": "Employee theft from employer’s possession is specially punished.",
+    "examples": [
+      "A cashier quietly pockets part of the day’s collection.",
+      "A warehouse staffer steals inventory items regularly."
+    ]
+  },
+  {
+    "section_number": "Section 224",
+    "section_title": "Theft after preparation for causing death or hurt",
+    "description": "Theft where the offender makes preparation for causing death, hurt, or restraint if resisted.",
+    "examples": [
+      "Carrying a knife to threaten a victim during theft.",
+      "Planning to tie up residents if confronted."
+    ]
+  },
+  {
+    "section_number": "Section 225",
+    "section_title": "Robbery on highway at night",
+    "description": "Robbery committed on a highway during nighttime is an aggravated offence.",
+    "examples": [
+      "Stopping cars at night to loot passengers.",
+      "Holding up a trucker on a deserted highway after dark."
+    ]
+  },
+  {
+    "section_number": "Section 226",
+    "section_title": "House-breaking by night",
+    "description": "House-breaking committed during night time attracts greater punishment.",
+    "examples": [
+      "Entering a home via roof at night to steal.",
+      "Breaking a backdoor lock after midnight."
+    ]
+  },
+  {
+    "section_number": "Section 227",
+    "section_title": "Criminal trespass into place of worship or custody",
+    "description": "Trespass into places of worship or where property is kept with intent to commit an offence.",
+    "examples": [
+      "Entering a temple’s inner room to steal idols.",
+      "Trespassing into a bank’s vault area."
+    ]
+  },
+  {
+    "section_number": "Section 228",
+    "section_title": "Mischief by killing or maiming cattle",
+    "description": "Causing death or maiming of cattle or valuable livestock constituting mischief.",
+    "examples": [
+      "Poisoning a neighbor’s cows.",
+      "Cutting tendons of a bull to disable it."
+    ]
+  },
+  {
+    "section_number": "Section 229",
+    "section_title": "Mischief by fire or explosive with intent to destroy dwelling",
+    "description": "Setting fire or using explosives intending to destroy a dwelling or make it unsafe.",
+    "examples": [
+      "Arson targeting a rival’s home.",
+      "Planting an explosive to collapse a house wall."
+    ]
+  },
+  {
+    "section_number": "Section 230",
+    "section_title": "Mischief to public property by fire or explosive",
+    "description": "Damaging public property through fire or explosives attracts stringent penalties.",
+    "examples": [
+      "Burning buses during protests.",
+      "Blowing up electrical transformers."
+    ]
+  },
+  {
+    "section_number": "Section 231",
+    "section_title": "Mischief causing diminution of water supply",
+    "description": "Acts that corrupt or diminish water supply to the public or a community.",
+    "examples": [
+      "Breaking pipes feeding a village’s only water tank.",
+      "Polluting a reservoir to render water unusable."
+    ]
+  },
+  {
+    "section_number": "Section 232",
+    "section_title": "Mischief to works of irrigation or public drainage",
+    "description": "Damaging canals, embankments, or drainage systems affecting public utility.",
+    "examples": [
+      "Breaching a canal bund to flood fields.",
+      "Blocking a public drainage leading to flooding."
+    ]
+  },
+  {
+    "section_number": "Section 233",
+    "section_title": "Mischief to telegraph, telephone, or electronic communication lines",
+    "description": "Destroying or tampering with communication lines or infrastructure.",
+    "examples": [
+      "Cutting fiber optic cables to disrupt internet.",
+      "Damaging mobile towers’ cables during unrest."
+    ]
+  },
+  {
+    "section_number": "Section 234",
+    "section_title": "Mischief to railway, aircraft, or navigation works",
+    "description": "Damaging tracks, signals, aircraft systems, or navigation aids, endangering safety.",
+    "examples": [
+      "Removing fishplates to derail a train.",
+      "Tampering with airport runway lights."
+    ]
+  },
+  {
+    "section_number": "Section 235",
+    "section_title": "Mischief by injury to public road, bridge, or river",
+    "description": "Acts causing damage to roads, bridges, rivers or navigable channels.",
+    "examples": [
+      "Digging a trench across a public road.",
+      "Dumping debris to block a navigable canal."
+    ]
+  },
+  {
+    "section_number": "Section 236",
+    "section_title": "Mischief by injury to works of art or historical monuments",
+    "description": "Damaging statues, heritage sites, or public art.",
+    "examples": [
+      "Defacing a protected monument with acid.",
+      "Breaking parts of a historical statue."
+    ]
+  },
+  {
+    "section_number": "Section 237",
+    "section_title": "Criminal intimidation: aggravated forms",
+    "description": "Aggravated intimidation involving threats to cause death, grievous hurt, arson, or to a woman’s modesty attracts higher punishment.",
+    "examples": [
+      "Threatening to burn a family’s house unless paid.",
+      "Threatening sexual violence to force compliance."
+    ]
+  },
+  {
+    "section_number": "Section 238",
+    "section_title": "Word, gesture or act intended to insult modesty",
+    "description": "Intentionally insulting the modesty of a person through words, gestures, or acts.",
+    "examples": [
+      "Making lewd gestures at someone in public.",
+      "Shouting sexually suggestive remarks to humiliate."
+    ]
+  },
+  {
+    "section_number": "Section 239",
+    "section_title": "Obscene acts and songs",
+    "description": "Obscene acts, songs, or material in public places causing annoyance or violating decency.",
+    "examples": [
+      "Playing obscene videos loudly in public.",
+      "Singing vulgar songs to offend passersby."
+    ]
+  },
+  {
+    "section_number": "Section 240",
+    "section_title": "Statements creating or promoting enmity, hatred or ill-will",
+    "description": "Publishing or making statements promoting enmity between groups, or prejudicial to harmony, with intent and likelihood of public disorder.",
+    "examples": [
+      "Posting inflammatory content targeting a community.",
+      "Delivering a speech urging hostility against a linguistic group."
+    ]
+  },
+  {
+    "section_number": "Section 241",
+    "section_title": "Deliberate and malicious acts intended to outrage religious feelings",
+    "description": "Deliberate insults or acts intended to outrage religious feelings of any class by insulting their religion or beliefs.",
+    "examples": [
+      "Destroying religious texts to provoke.",
+      "Posting malicious caricatures to inflame devotees."
+    ]
+  },
+  {
+    "section_number": "Section 242",
+    "section_title": "Promoting enmity at places of worship or during ceremonies",
+    "description": "Acts at religious places or during ceremonies that promote enmity or disturb harmony.",
+    "examples": [
+      "Provocations during a procession to start clashes.",
+      "Inciting one group against another in a shrine."
+    ]
+  },
+  {
+    "section_number": "Section 243",
+    "section_title": "Lurking house-trespass or house-breaking with preparation for hurt",
+    "description": "Secret or forceful entry with preparation to cause hurt, restraint, or fear.",
+    "examples": [
+      "Entering with duct tape and weapons to subdue residents.",
+      "Carrying chilli powder to blind victims during burglary."
+    ]
+  },
+  {
+    "section_number": "Section 244",
+    "section_title": "Attempt to commit robbery",
+    "description": "Attempting robbery by taking steps beyond preparation, even if not completed.",
+    "examples": [
+      "Pointing a knife and demanding a wallet before being caught.",
+      "Tying up a victim but fleeing before taking valuables."
+    ]
+  },
+  {
+    "section_number": "Section 245",
+    "section_title": "Attempt to commit dacoity",
+    "description": "Attempting dacoity with five or more persons taking overt steps.",
+    "examples": [
+      "A group of five arrives armed at the target but is intercepted.",
+      "Breaking into a bank vault room before being foiled."
+    ]
+  },
+  {
+    "section_number": "Section 246",
+    "section_title": "Preparation to commit dacoity",
+    "description": "Preparatory acts for dacoity such as gathering weapons or planning routes are punishable.",
+    "examples": [
+      "Mapping guard shifts and escape routes.",
+      "Acquiring vehicles with fake plates for the heist."
+    ]
+  },
+  {
+    "section_number": "Section 247",
+    "section_title": "Belonging to a gang of thieves",
+    "description": "Membership of a gang associated for theft is an offence.",
+    "examples": [
+      "Being part of an organized pickpocket ring.",
+      "Serving as a safe-house operator for a theft gang."
+    ]
+  },
+  {
+    "section_number": "Section 248",
+    "section_title": "Habitually dealing in stolen property",
+    "description": "Habitual receivers, disposers, or dealers in stolen property are punished more severely.",
+    "examples": [
+      "Running a shop that routinely buys stolen phones.",
+      "Operating an online channel to resell stolen bikes."
+    ]
+  },
+  {
+    "section_number": "Section 249",
+    "section_title": "Assault with intent to wrongfully confine",
+    "description": "Assaulting someone with the intention of wrongfully confining them.",
+    "examples": [
+      "Beating a debtor to lock him in a room.",
+      "Attacking a worker to force them into a factory dorm."
+    ]
+  },
+  {
+    "section_number": "Section 250",
+    "section_title": "Wrongful confinement for extortion",
+    "description": "Wrongfully confining a person to extort property or valuable security.",
+    "examples": [
+      "Detaining a businessman until he signs over assets.",
+      "Locking someone to force a digital transfer."
+    ]
+  },
+  {
+    "section_number": "Section 251",
+    "section_title": "Taking or detaining for ransom",
+    "description": "Taking or detaining any person with intent to demand ransom for release.",
+    "examples": [
+      "Abducting a child and demanding money for return.",
+      "Detaining a tourist and negotiating a payoff."
+    ]
+  },
+  {
+    "section_number": "Section 252",
+    "section_title": "Kidnapping or abduction to murder",
+    "description": "Kidnapping or abducting with intent to murder or put the person in danger of being murdered.",
+    "examples": [
+      "Forcing a rival into a car to drive to a remote spot for execution.",
+      "Abducting a witness intending to kill them."
+    ]
+  },
+  {
+    "section_number": "Section 253",
+    "section_title": "Kidnapping or abduction to cause hurt or slavery",
+    "description": "Kidnapping or abducting with intent to cause hurt, slavery, or unnatural lust.",
+    "examples": [
+      "Abducting a worker for bonded labour.",
+      "Kidnapping to force manual labour with beatings."
+    ]
+  },
+  {
+    "section_number": "Section 254",
+    "section_title": "Trafficking for exploitation: aggravated forms",
+    "description": "Aggravated trafficking involving minors, organized groups, or cross-border movement carries enhanced punishment.",
+    "examples": [
+      "Trafficking minors across states for sex work.",
+      "Organized ring transporting workers for forced labour."
+    ]
+  },
+  {
+    "section_number": "Section 255",
+    "section_title": "Import, export, sale or distribution of obscene material",
+    "description": "Dealing in obscene or indecent material for commercial gain is punishable, with higher penalties for minors’ involvement.",
+    "examples": [
+      "Running a subscription site with obscene content targeting teens.",
+      "Importing obscene videos for sale."
+    ]
+  },
+  {
+    "section_number": "Section 256",
+    "section_title": "Disobedience to quarantine rule",
+    "description": "Knowingly disobeying quarantine or containment rules lawfully made by public authority.",
+    "examples": [
+      "Skipping mandated home isolation despite being COVID-positive.",
+      "Running a public event during a legally declared containment."
+    ]
+  },
+  {
+    "section_number": "Section 257",
+    "section_title": "Negligent act likely to spread infection",
+    "description": "Negligent acts likely to spread infectious disease dangerous to life.",
+    "examples": [
+      "Restaurant keeps working with a contagious kitchen staff.",
+      "Ignoring sanitation protocols in a hospital ward."
+    ]
+  },
+  {
+    "section_number": "Section 258",
+    "section_title": "Sale of adulterated seeds or agricultural inputs",
+    "description": "Selling adulterated or spurious seeds/fertilizers/pesticides likely to cause crop failure.",
+    "examples": [
+      "Selling fake high-yield seeds to farmers.",
+      "Supplying diluted pesticide that ruins crops."
+    ]
+  },
+  {
+    "section_number": "Section 259",
+    "section_title": "Tampering with public health measures",
+    "description": "Interfering with vaccination, sanitation, or disease control programs to the detriment of public health.",
+    "examples": [
+      "Destroying vaccine vials at a clinic.",
+      "Sabotaging municipal fogging operations."
+    ]
+  },
+  {
+    "section_number": "Section 260",
+    "section_title": "Attempt to commit murder by life convict",
+    "description": "A life convict attempting to commit murder faces enhanced penalties.",
+    "examples": [
+      "A life-term prisoner attacks a guard intending to kill.",
+      "A life convict stabs a fellow inmate in a lethal manner."
+    ]
+  },
+  {
+    "section_number": "Section 261",
+    "section_title": "Threatening or bribing to screen offender",
+    "description": "Threatening, bribing, or inducing a person to conceal or screen an offender from legal punishment.",
+    "examples": [
+      "Paying a witness to destroy evidence.",
+      "Threatening a neighbor to stay silent about a crime."
+    ]
+  },
+  {
+    "section_number": "Section 262",
+    "section_title": "Failure to appear after proclamation",
+    "description": "Ignoring a court’s proclamation requiring appearance is punishable.",
+    "examples": [
+      "Not appearing in court after public proclamation in a case.",
+      "Evading court despite being declared a proclaimed offender."
+    ]
+  },
+  {
+    "section_number": "Section 263",
+    "section_title": "Absconding to avoid service of summons or warrant",
+    "description": "Deliberately hiding or leaving jurisdiction to avoid legal process.",
+    "examples": [
+      "Moving cities to avoid arrest on a warrant.",
+      "Changing identity to dodge court summons."
+    ]
+  },
+  {
+    "section_number": "Section 264",
+    "section_title": "Resistance to taking of property by lawful authority",
+    "description": "Resisting or obstructing seizure of property by lawful authority is punishable.",
+    "examples": [
+      "Blocking officials from attaching property under court order.",
+      "Forming a crowd to prevent sealing of a shop by authorities."
+    ]
+  },
+  {
+    "section_number": "Section 265",
+    "section_title": "Contempt of lawful authority of public servants",
+    "description": "Disobedience or obstruction of orders promulgated by public servants maintaining public order or safety.",
+    "examples": [
+      "Defying Section 144 prohibitory orders.",
+      "Ignoring evacuation orders during a dam breach warning."
+    ]
+  },
+  {
+    "section_number": "Section 266",
+    "section_title": "Threatening or insulting public servant",
+    "description": "Threatening or insulting a public servant to compel or deter them from duty.",
+    "examples": [
+      "Threatening a tax inspector to drop a case.",
+      "Abusing a judge to influence a ruling."
+    ]
+  },
+  {
+    "section_number": "Section 267",
+    "section_title": "Bribery in private sector causing public harm",
+    "description": "Corrupt inducements in private organizations that cause public harm or safety risks are punishable under specified conditions.",
+    "examples": [
+      "Bribing a lab technician to falsify safety tests.",
+      "Paying kickbacks to overlook building safety norms."
+    ]
+  },
+  {
+    "section_number": "Section 268",
+    "section_title": "False claim to hold public office",
+    "description": "Falsely claiming to hold a public office to gain advantage or influence others.",
+    "examples": [
+      "Claiming to be an IAS officer to intimidate.",
+      "Pretending to be a food inspector to obtain free meals."
+    ]
+  },
+  {
+    "section_number": "Section 269",
+    "section_title": "Falsification of government records",
+    "description": "Altering or destroying government records or entries with intent to cause injury or gain.",
+    "examples": [
+      "Changing land records to benefit a buyer.",
+      "Deleting registry entries to erase encumbrances."
+    ]
+  },
+  {
+    "section_number": "Section 270",
+    "section_title": "Offences relating to weights and measures: fraud",
+    "description": "Using false weights or measures or tampering with them to cheat consumers.",
+    "examples": [
+      "Fuel pump rigged to deliver less than shown.",
+      "Grocery shop uses underweight scales."
+    ]
+  },
+  {
+    "section_number": "Section 271",
+    "section_title": "Counterfeiting property marks",
+    "description": "Counterfeiting property marks used by manufacturers or owners to indicate property or quality.",
+    "examples": [
+      "Imitating a brand’s quality seal.",
+      "Copying a factory’s proprietary mark to pass off goods."
+    ]
+  },
+  {
+    "section_number": "Section 272",
+    "section_title": "Using as genuine a counterfeit property mark",
+    "description": "Using counterfeit property marks as genuine to sell goods.",
+    "examples": [
+      "Selling garments with fake brand tags.",
+      "Affixing counterfeit ISI marks to appliances."
+    ]
+  },
+  {
+    "section_number": "Section 273",
+    "section_title": "Tampering with evidence in electronic form",
+    "description": "Destroying, altering, or manipulating electronic records to mislead investigations or courts.",
+    "examples": [
+      "Wiping phone data after receiving a legal hold notice.",
+      "Editing server logs to hide unauthorized access."
+    ]
+  },
+  {
+    "section_number": "Section 274",
+    "section_title": "Identity theft and impersonation using electronic means",
+    "description": "Stealing identity information and impersonating others electronically for fraud.",
+    "examples": [
+      "Using stolen Aadhaar and PAN to open bank accounts.",
+      "SIM cloning to access OTPs and transfer funds."
+    ]
+  },
+  {
+    "section_number": "Section 275",
+    "section_title": "Cyberstalking and online harassment",
+    "description": "Persistent online harassment, monitoring, or threats using digital platforms.",
+    "examples": [
+      "Creating multiple accounts to harass someone online.",
+      "Doxxing and threats across platforms to silence a critic."
+    ]
+  },
+  {
+    "section_number": "Section 276",
+    "section_title": "Publishing false electronic statements causing public mischief",
+    "description": "Publishing false electronic content likely to cause panic, riots, or harm to public order.",
+    "examples": [
+      "Spreading fake news about bank failures causing rushes.",
+      "False alerts about communal attacks inciting violence."
+    ]
+  },
+  {
+    "section_number": "Section 277",
+    "section_title": "Tampering with critical information infrastructure",
+    "description": "Interfering with systems designated as critical information infrastructure endangering national security or economy.",
+    "examples": [
+      "Hacking power grid control systems.",
+      "Disabling air traffic control software."
+    ]
+  },
+  {
+    "section_number": "Section 278",
+    "section_title": "Terror financing and property support",
+    "description": "Providing funds, property, or services to support terrorist acts or groups is punishable under special laws and referenced here.",
+    "examples": [
+      "Transferring crypto to fund a banned outfit.",
+      "Providing safe houses for terror operatives."
+    ]
+  },
+  {
+    "section_number": "Section 279",
+    "section_title": "Abetment via electronic communication",
+    "description": "Instigating, aiding, or conspiring to commit offences using electronic communication is punishable.",
+    "examples": [
+      "Running a Telegram group to plan communal violence.",
+      "Providing step-by-step guidance online to commit fraud."
+    ]
+  },
+  {
+    "section_number": "Section 280",
+    "section_title": "Organized cybercrime",
+    "description": "Participation in organized groups conducting cybercrimes like phishing, ransomware, or large-scale identity theft.",
+    "examples": [
+      "Operating a call center scam defrauding seniors.",
+      "Coordinating ransomware attacks on hospitals."
+    ]
+  },
+  {
+    "section_number": "Section 281",
+    "section_title": "Public servant disobeying law with intent to cause injury",
+    "description": "A public servant who knowingly disobeys legal directions intending to cause injury to any person commits an offence.",
+    "examples": [
+      "An officer ignores a court order to release seized goods to harm a trader’s business.",
+      "A registrar refuses to record a lawful document to disadvantage a party."
+    ]
+  },
+  {
+    "section_number": "Section 282",
+    "section_title": "Public servant framing incorrect record or writing",
+    "description": "A public servant who frames or writes a document or record knowing it to be incorrect, to cause or knowing it likely to cause injury.",
+    "examples": [
+      "Entering false land measurements to reduce someone’s plot.",
+      "Issuing a deliberately incorrect birth certificate."
+    ]
+  },
+  {
+    "section_number": "Section 283",
+    "section_title": "Public servant unlawfully engaging in trade",
+    "description": "Public servants who engage in trade or business prohibited by their position or creating conflict of interest commit an offence.",
+    "examples": [
+      "A licensing officer runs a side business selling licences.",
+      "A regulator secretly owns shares in a company they oversee."
+    ]
+  },
+  {
+    "section_number": "Section 284",
+    "section_title": "Public nuisance by obstruction or negligence",
+    "description": "Causing danger, obstruction, or injury to the public by negligent or unlawful acts affecting public ways or places.",
+    "examples": [
+      "Leaving construction debris blocking a public road.",
+      "Placing stalls on a footpath causing accidents."
+    ]
+  },
+  {
+    "section_number": "Section 285",
+    "section_title": "Negligent conduct with respect to fire or combustible matter",
+    "description": "Negligently handling fire or combustible materials endangering life or property attracts liability.",
+    "examples": [
+      "Burning waste near a fuel depot causing a blaze.",
+      "Storing fireworks carelessly in a crowded market."
+    ]
+  },
+  {
+    "section_number": "Section 286",
+    "section_title": "Negligent conduct with respect to poisonous substances",
+    "description": "Careless handling of poisonous substances endangering life or health is punishable.",
+    "examples": [
+      "Improperly storing pesticides that leak into a water source.",
+      "Leaving cyanide unsecured in a lab accessible to the public."
+    ]
+  },
+  {
+    "section_number": "Section 287",
+    "section_title": "Negligent conduct with respect to machinery",
+    "description": "Negligently handling or maintaining machinery so as to endanger human life or safety.",
+    "examples": [
+      "Running a factory machine without guards causing injuries.",
+      "Operating a crane with faulty brakes over a crowd."
+    ]
+  },
+  {
+    "section_number": "Section 288",
+    "section_title": "Negligent conduct with respect to building or repair",
+    "description": "Negligent building, demolition, or repair work that endangers life or property is an offence.",
+    "examples": [
+      "Removing a supporting wall causing collapse risk.",
+      "Demolishing without barricades near a busy footpath."
+    ]
+  },
+  {
+    "section_number": "Section 289",
+    "section_title": "Negligent conduct with respect to animals",
+    "description": "Failing to control dangerous animals so as to endanger others is punishable.",
+    "examples": [
+      "Letting an aggressive dog roam in a public park.",
+      "Riding a horse recklessly through a crowded lane."
+    ]
+  },
+  {
+    "section_number": "Section 290",
+    "section_title": "Rash driving or riding on a public way",
+    "description": "Driving or riding a vehicle rashly or negligently on a public way endangering life or safety.",
+    "examples": [
+      "Speeding through a crowded market street.",
+      "Dangerous wheelies on a motorcycle amid traffic."
+    ]
+  },
+  {
+    "section_number": "Section 291",
+    "section_title": "Public nuisance not otherwise provided for",
+    "description": "Minor acts or omissions causing common injury, danger, or annoyance to the public are punishable when not specifically covered elsewhere.",
+    "examples": [
+      "Blasting loud music late at night disturbing a neighborhood.",
+      "Letting sewage flow on a public street."
+    ]
+  },
+  {
+    "section_number": "Section 292",
+    "section_title": "Sale of obscene books, etc.",
+    "description": "Sale, distribution, or public exhibition of obscene materials that tend to deprave or corrupt is punishable, with exceptions for public good.",
+    "examples": [
+      "Selling obscene magazines to the general public.",
+      "Displaying explicit posters at a shopfront."
+    ]
+  },
+  {
+    "section_number": "Section 293",
+    "section_title": "Sale of obscene objects to young persons",
+    "description": "Selling or distributing obscene objects to persons below the prescribed age attracts higher punishment.",
+    "examples": [
+      "Selling pornographic material to minors.",
+      "Providing obscene videos to schoolchildren."
+    ]
+  },
+  {
+    "section_number": "Section 294",
+    "section_title": "Obscene acts and songs in public",
+    "description": "Performing obscene acts or singing obscene songs to the annoyance of others in public places is punishable.",
+    "examples": [
+      "Publicly performing explicit acts to attract attention.",
+      "Shouting vulgar songs near a school."
+    ]
+  },
+  {
+    "section_number": "Section 295",
+    "section_title": "Injuring or defiling place of worship with intent to insult religion",
+    "description": "Damaging or defiling a place of worship with intent to insult a religion or religious beliefs is an offence.",
+    "examples": [
+      "Vandalizing a shrine to provoke devotees.",
+      "Smearing filth inside a prayer hall to insult a faith."
+    ]
+  },
+  {
+    "section_number": "Section 296",
+    "section_title": "Disturbing religious assembly",
+    "description": "Voluntarily causing disturbance to any lawful religious assembly.",
+    "examples": [
+      "Shouting and disrupting a prayer service.",
+      "Blasting loud music outside during a religious ceremony."
+    ]
+  },
+  {
+    "section_number": "Section 297",
+    "section_title": "Trespassing on burial places; indignity to human corpses",
+    "description": "Trespassing on burial places or deliberately insulting or outraging the dignity of human corpses is punishable.",
+    "examples": [
+      "Damaging graves during a funeral.",
+      "Defiling a corpse to insult the deceased’s family."
+    ]
+  },
+  {
+    "section_number": "Section 298",
+    "section_title": "Uttering words or acts with deliberate intent to wound religious feelings",
+    "description": "Deliberately using words, signs, or visible representations intended to wound religious feelings is an offence.",
+    "examples": [
+      "Publicly issuing malicious slurs against a religion to hurt followers.",
+      "Displaying a poster intended to insult religious sentiments."
+    ]
+  },
+  {
+    "section_number": "Section 299",
+    "section_title": "Rash or negligent driving causing hurt",
+    "description": "Causing hurt to any person by rash or negligent driving or riding is punishable.",
+    "examples": [
+      "Knocking down a pedestrian while speeding.",
+      "Hitting a cyclist by changing lanes without checking."
+    ]
+  },
+  {
+    "section_number": "Section 300",
+    "section_title": "Rash or negligent act endangering human life",
+    "description": "Any rash or negligent act not covered elsewhere that endangers human life or personal safety is punishable.",
+    "examples": [
+      "Flying kites with metal-coated strings near power lines.",
+      "Leaving manholes open without warning signs."
+    ]
+  },
+  {
+    "section_number": "Section 301",
+    "section_title": "Causing death by rash or negligent act (non-vehicle)",
+    "description": "Causing death by a rash or negligent act in contexts other than driving is punishable.",
+    "examples": [
+      "Negligently handling a loaded firearm causing death.",
+      "Unsafe fireworks display resulting in a fatality."
+    ]
+  },
+  {
+    "section_number": "Section 302",
+    "section_title": "Culpable homicide not amounting to murder: punishment",
+    "description": "Provides punishment for culpable homicide not amounting to murder according to gravity and circumstances.",
+    "examples": [
+      "Killing in a sudden fight without premeditation.",
+      "Inflicting injuries known to be likely fatal without intent to kill."
+    ]
+  },
+  {
+    "section_number": "Section 303",
+    "section_title": "Murder: punishment",
+    "description": "Sets out punishments for murder, including life imprisonment or death in the rarest of rare cases as per law.",
+    "examples": [
+      "Premeditated killing for financial gain.",
+      "Poisoning a spouse with calculated intent."
+    ]
+  },
+  {
+    "section_number": "Section 304",
+    "section_title": "Causing death by negligence: punishment",
+    "description": "Punishment for causing death by a rash or negligent act, with higher penalties for aggravating circumstances.",
+    "examples": [
+      "Leaving live wires exposed leading to a fatal electrocution.",
+      "Negligent gas cylinder storage causing fatal explosion."
+    ]
+  },
+  {
+    "section_number": "Section 305",
+    "section_title": "Attempt to commit suicide: abetment and assistance",
+    "description": "Abetment or assistance of suicide attempts is punishable; separate social welfare measures may apply to attempt itself as per current law.",
+    "examples": [
+      "Encouraging and providing poison to someone to take their life.",
+      "Coercing a person to attempt suicide via threats."
+    ]
+  },
+  {
+    "section_number": "Section 306",
+    "section_title": "Dowry death: punishment and presumption",
+    "description": "Punishes dowry death and provides for legal presumptions where a woman’s death occurs under specified conditions within marriage.",
+    "examples": [
+      "A bride dies due to burns after persistent dowry harassment.",
+      "Unnatural death within seven years of marriage linked to cruelty."
+    ]
+  },
+  {
+    "section_number": "Section 307",
+    "section_title": "Voluntarily causing hurt",
+    "description": "Punishment provisions for causing hurt, including simple injury, aligned to earlier definitions.",
+    "examples": [
+      "Slapping and bruising someone during an argument.",
+      "Throwing a small object causing minor pain."
+    ]
+  },
+  {
+    "section_number": "Section 308",
+    "section_title": "Voluntarily causing grievous hurt",
+    "description": "Punishment for causing grievous hurt such as permanent damage, fractures, or severe injuries.",
+    "examples": [
+      "Smashing someone’s jaw causing a fracture.",
+      "Severing a finger with a sharp weapon."
+    ]
+  },
+  {
+    "section_number": "Section 309",
+    "section_title": "Hurt by dangerous weapons or means: punishment",
+    "description": "Enhanced punishment for causing hurt using dangerous weapons or means like fire, acid, or corrosives.",
+    "examples": [
+      "Stabbing causing bleeding injuries.",
+      "Splashing corrosive liquid causing burns."
+    ]
+  },
+  {
+    "section_number": "Section 310",
+    "section_title": "Grievous hurt by dangerous weapons or means: punishment",
+    "description": "Higher punishment for grievous hurt caused using dangerous weapons or means.",
+    "examples": [
+      "Attacking with a sword causing loss of limb function.",
+      "Throwing acid resulting in permanent disfigurement."
+    ]
+  },
+  {
+    "section_number": "Section 311",
+    "section_title": "Acid attack: punishment and liability",
+    "description": "Specific punishment for acid attacks, including provisions for compensation and medical costs.",
+    "examples": [
+      "Throwing acid on a woman after rejection.",
+      "Supplying acid despite knowing it will be used to attack."
+    ]
+  },
+  {
+    "section_number": "Section 312",
+    "section_title": "Wrongful restraint: punishment",
+    "description": "Provides punishment for wrongfully restraining a person’s movement.",
+    "examples": [
+      "Blocking a colleague from leaving a room.",
+      "Standing in front of a vehicle to prevent lawful passage."
+    ]
+  },
+  {
+    "section_number": "Section 313",
+    "section_title": "Wrongful confinement: punishment",
+    "description": "Punishment for unlawfully confining a person within limits they cannot cross.",
+    "examples": [
+      "Locking a tenant inside over a dispute.",
+      "Detaining a customer in a store backroom."
+    ]
+  },
+  {
+    "section_number": "Section 314",
+    "section_title": "Criminal force: punishment",
+    "description": "Punishment for intentionally using force without consent to cause injury, fear, or annoyance.",
+    "examples": [
+      "Shoving someone out of a queue.",
+      "Throwing water on a person to humiliate them."
+    ]
+  },
+  {
+    "section_number": "Section 315",
+    "section_title": "Assault: punishment",
+    "description": "Punishment for causing another to apprehend immediate use of criminal force.",
+    "examples": [
+      "Raising a hand to strike making the person fear imminent hit.",
+      "Lunging forward as if to punch."
+    ]
+  },
+  {
+    "section_number": "Section 316",
+    "section_title": "Assault or criminal force to woman with intent to outrage modesty: punishment",
+    "description": "Punishment for acts intended to outrage modesty, including unwelcome physical contact.",
+    "examples": [
+      "Groping a woman in a crowded bus.",
+      "Attempting to disrobe someone in public."
+    ]
+  },
+  {
+    "section_number": "Section 317",
+    "section_title": "Sexual harassment: punishment",
+    "description": "Punishes sexual harassment such as unwelcome physical contact, demanding sexual favors, showing pornography without consent, or making sexually colored remarks.",
+    "examples": [
+      "Repeated lewd comments at workplace.",
+      "Sending explicit images without consent."
+    ]
+  },
+  {
+    "section_number": "Section 318",
+    "section_title": "Stalking: punishment",
+    "description": "Punishment for stalking, including monitoring or contacting despite clear disinterest; with exceptions for reasonable or legal conduct.",
+    "examples": [
+      "Following a person daily from work to home.",
+      "Flooding messages after being told to stop."
+    ]
+  },
+  {
+    "section_number": "Section 319",
+    "section_title": "Voyeurism: punishment",
+    "description": "Punishes watching or capturing images of private acts without consent, and sharing such content.",
+    "examples": [
+      "Recording someone in a changing room.",
+      "Sharing intimate images taken without consent."
+    ]
+  },
+  {
+    "section_number": "Section 320",
+    "section_title": "Rape: definition and punishment",
+    "description": "Defines rape and prescribes punishments, including aggravated forms with higher minimums.",
+    "examples": [
+      "Sexual intercourse without consent.",
+      "Rape of a minor with enhanced penalties."
+    ]
+  },
+  {
+    "section_number": "Section 321",
+    "section_title": "Gang rape: punishment",
+    "description": "Punishment for gang rape, with stringent minimum sentences and further enhancements in specified cases.",
+    "examples": [
+      "Multiple offenders assault a victim together.",
+      "Gang rape leading to grievous injury."
+    ]
+  },
+  {
+    "section_number": "Section 322",
+    "section_title": "Sexual offences: aggravated circumstances",
+    "description": "Provides aggravated circumstances for higher punishment in sexual offences.",
+    "examples": [
+      "Assault by a person in authority.",
+      "Offence committed during communal violence."
+    ]
+  },
+  {
+    "section_number": "Section 323",
+    "section_title": "Kidnapping: punishment",
+    "description": "Punishment for kidnapping, including from lawful guardianship and for specified exploitative intents.",
+    "examples": [
+      "Taking a minor from school without consent.",
+      "Kidnapping an adult for forced labour."
+    ]
+  },
+  {
+    "section_number": "Section 324",
+    "section_title": "Abduction: punishment",
+    "description": "Punishment for compelling or deceitfully inducing a person to go from any place.",
+    "examples": [
+      "Forcing someone into a car and driving away.",
+      "Luring a person to a remote area for exploitation."
+    ]
+  },
+  {
+    "section_number": "Section 325",
+    "section_title": "Trafficking of persons: punishment",
+    "description": "Punishes trafficking for exploitation; enhanced penalties for minors, organized crime, or cross-border elements.",
+    "examples": [
+      "Transporting workers under coercion for forced labour.",
+      "Trafficking minors for sexual exploitation."
+    ]
+  },
+  {
+    "section_number": "Section 326",
+    "section_title": "Criminal intimidation: punishment",
+    "description": "Punishment for threatening injury to person, reputation, or property to cause alarm or compel action.",
+    "examples": [
+      "Threatening to reveal private photos unless paid.",
+      "Threatening bodily harm to force a contract."
+    ]
+  },
+  {
+    "section_number": "Section 327",
+    "section_title": "Extortion: punishment",
+    "description": "Punishment for extortion, including aggravated forms involving threats of death or grievous hurt.",
+    "examples": [
+      "Demanding money under threat of violence.",
+      "Extorting by threatening a false criminal accusation."
+    ]
+  },
+  {
+    "section_number": "Section 328",
+    "section_title": "Robbery: punishment",
+    "description": "Punishment for robbery; enhanced punishment for causing grievous hurt or attempting to cause death.",
+    "examples": [
+      "Knife-point mugging on a street.",
+      "Beating a victim severely during a wallet snatch."
+    ]
+  },
+  {
+    "section_number": "Section 329",
+    "section_title": "Dacoity: punishment",
+    "description": "Punishment for robbery by five or more persons; aggravated forms carry higher penalties.",
+    "examples": [
+      "Armed gang loots a farmhouse.",
+      "Highway hold-up by a group of five."
+    ]
+  },
+  {
+    "section_number": "Section 330",
+    "section_title": "Dacoity with murder: punishment",
+    "description": "When murder is committed during dacoity, all participants may face enhanced punishment.",
+    "examples": [
+      "Killing a guard during a bank robbery by a gang.",
+      "Home invasion where a resident is murdered."
+    ]
+  },
+  {
+    "section_number": "Section 331",
+    "section_title": "Habitual offenders in robbery or dacoity",
+    "description": "Higher punishments for habitual participation in robbery or dacoity.",
+    "examples": [
+      "Repeat highway dacoit caught again.",
+      "Member of a robbery gang with prior convictions."
+    ]
+  },
+  {
+    "section_number": "Section 332",
+    "section_title": "Theft: punishment",
+    "description": "Punishment for theft, with enhancements for dwelling-house or place of worship and for preparation to cause hurt.",
+    "examples": [
+      "Stealing a phone from a café.",
+      "Theft from a home safe at night."
+    ]
+  },
+  {
+    "section_number": "Section 333",
+    "section_title": "Criminal breach of trust: punishment",
+    "description": "Punishment for breach of trust, with higher penalties for public servants, bankers, or agents.",
+    "examples": [
+      "A treasurer misappropriates entrusted funds.",
+      "A banker diverts deposits for personal use."
+    ]
+  },
+  {
+    "section_number": "Section 334",
+    "section_title": "Cheating and dishonestly inducing delivery of property: punishment",
+    "description": "Punishment for cheating that induces delivery of property or valuable security.",
+    "examples": [
+      "Phishing to obtain bank OTPs and steal funds.",
+      "Selling a fake product as genuine to get payment."
+    ]
+  },
+  {
+    "section_number": "Section 335",
+    "section_title": "Forgery: punishment",
+    "description": "Punishes making false documents or electronic records; aggravated when related to valuable securities, wills, or public records.",
+    "examples": [
+      "Forging a will to inherit property.",
+      "Creating fake land records for court use."
+    ]
+  },
+  {
+    "section_number": "Section 336",
+    "section_title": "Using as genuine a forged document: punishment",
+    "description": "Knowingly using a forged document or electronic record as genuine is punishable.",
+    "examples": [
+      "Submitting a forged caste certificate.",
+      "Using a fake birth certificate for a passport."
+    ]
+  },
+  {
+    "section_number": "Section 337",
+    "section_title": "Counterfeit currency and instruments: punishment",
+    "description": "Punishment for making, possessing, or trafficking counterfeit currency or related instruments.",
+    "examples": [
+      "Printing fake ₹500 notes.",
+      "Distributing counterfeit currency in markets."
+    ]
+  },
+  {
+    "section_number": "Section 338",
+    "section_title": "Possession of instruments or materials for counterfeiting: punishment",
+    "description": "Possessing tools or materials intended for counterfeiting currency or documents is punishable.",
+    "examples": [
+      "Owning plates for printing fake notes.",
+      "Stockpiling holograms to fake branded packaging."
+    ]
+  },
+  {
+    "section_number": "Section 339",
+    "section_title": "Offences relating to elections: personation and false statements",
+    "description": "Punishes personation, false statements, and related electoral frauds.",
+    "examples": [
+      "Voting using another’s identity.",
+      "Filing false expense statements to authorities."
+    ]
+  },
+  {
+    "section_number": "Section 340",
+    "section_title": "False evidence and perjury: punishment",
+    "description": "Punishment for giving false evidence in court or making false sworn statements.",
+    "examples": [
+      "Lying under oath about whereabouts.",
+      "Submitting a knowingly false affidavit."
+    ]
+  },
+  {
+    "section_number": "Section 341",
+    "section_title": "Fabricating false evidence: punishment",
+    "description": "Punishes creating false documents or circumstances to mislead judicial proceedings.",
+    "examples": [
+      "Editing CCTV footage to alter timelines.",
+      "Planting forged receipts to frame someone."
+    ]
+  },
+  {
+    "section_number": "Section 342",
+    "section_title": "Destruction of evidence and screening offender: punishment",
+    "description": "Punishes causing disappearance of evidence or screening offenders from legal punishment.",
+    "examples": [
+      "Burning clothes to remove blood stains.",
+      "Hiding a fugitive and misleading police search."
+    ]
+  },
+  {
+    "section_number": "Section 343",
+    "section_title": "Harbouring offender: punishment",
+    "description": "Punishes harbouring a person known to have committed an offence to help them evade justice.",
+    "examples": [
+      "Giving shelter to a robber on the run.",
+      "Providing money and transport to help escape."
+    ]
+  },
+  {
+    "section_number": "Section 344",
+    "section_title": "Obstruction of public servant: punishment",
+    "description": "Punishes voluntary obstruction of a public servant in discharge of duties; aggravated when force is used.",
+    "examples": [
+      "Blocking a health inspector’s entry.",
+      "Pushing a police officer to stop a lawful arrest."
+    ]
+  },
+  {
+    "section_number": "Section 345",
+    "section_title": "Disobedience to order duly promulgated by public servant: punishment",
+    "description": "Punishes knowing disobedience of lawful orders meant to prevent obstruction, injury, or disturbance.",
+    "examples": [
+      "Defying curfew orders during unrest.",
+      "Ignoring evacuation orders in emergency."
+    ]
+  },
+  {
+    "section_number": "Section 346",
+    "section_title": "Contempt of lawful authority: aggravated forms",
+    "description": "Enhanced punishment for contempt involving violence or large-scale disturbance.",
+    "examples": [
+      "Inciting a crowd to defy prohibitory orders violently.",
+      "Assaulting officers enforcing safety cordons."
+    ]
+  },
+  {
+    "section_number": "Section 347",
+    "section_title": "Waging war against the Government of India: punishment",
+    "description": "Punishes waging war, attempting, or abetting the same against India.",
+    "examples": [
+      "Organizing armed attacks on the State.",
+      "Supplying arms to insurgents to wage war."
+    ]
+  },
+  {
+    "section_number": "Section 348",
+    "section_title": "Acts endangering sovereignty, unity, and integrity of India",
+    "description": "Punishes acts intended to endanger sovereignty, unity, or integrity by incitement to violence or public disorder.",
+    "examples": [
+      "Inciting armed secession with calls for violence.",
+      "Organized campaigns urging violent overthrow."
+    ]
+  },
+  {
+    "section_number": "Section 349",
+    "section_title": "Assault or criminal force to President, Governor, etc.",
+    "description": "Punishes use of criminal force against high constitutional authorities to influence their powers.",
+    "examples": [
+      "Attacking a Governor’s convoy to obstruct a function.",
+      "Assaulting the President’s aide to stop an official act."
+    ]
+  },
+  {
+    "section_number": "Section 350",
+    "section_title": "Unlawful assembly and rioting: punishment",
+    "description": "Punishes members of an unlawful assembly that use force or violence; higher penalties when armed.",
+    "examples": [
+      "Participating in a mob damaging property.",
+      "Rioters carrying deadly weapons."
+    ]
+  },
+  {
+    "section_number": "Section 351",
+    "section_title": "Affray: punishment",
+    "description": "Punishes fighting in public that disturbs peace; aggravated when weapons are used.",
+    "examples": [
+      "Two groups brawl in a market.",
+      "Knife fight in a public square."
+    ]
+  },
+  {
+    "section_number": "Section 352",
+    "section_title": "Public nuisance: punishment",
+    "description": "General punishment for acts causing common injury, danger, or annoyance not otherwise provided.",
+    "examples": [
+      "Blocking drains leading to neighborhood flooding.",
+      "Burning toxic waste causing public harm."
+    ]
+  },
+  {
+    "section_number": "Section 353",
+    "section_title": "Defamation: punishment and exceptions",
+    "description": "Punishes defamation with statutory exceptions for truth in public good, fair comment, and privilege.",
+    "examples": [
+      "Publishing false allegations harming reputation.",
+      "Spreading malicious rumors about a colleague."
+    ]
+  },
+  {
+    "section_number": "Section 354",
+    "section_title": "Obscenity and indecent material: punishment",
+    "description": "Punishes obscene publications and displays; higher punishment for targeting minors.",
+    "examples": [
+      "Sharing obscene content in public groups.",
+      "Displaying explicit posters near schools."
+    ]
+  },
+  {
+    "section_number": "Section 355",
+    "section_title": "Public safety: tampering with utilities and infrastructure",
+    "description": "Punishes interference with electricity, gas, telecom, or safety systems endangering life or services.",
+    "examples": [
+      "Cutting power lines causing hazards.",
+      "Disabling fire alarms in a mall."
+    ]
+  },
+  {
+    "section_number": "Section 356",
+    "section_title": "Cyber offences: key punishments",
+    "description": "Provides punishments for specified cyber offences coordinated with IT laws and critical infrastructure protections.",
+    "examples": [
+      "Running large-scale phishing operations.",
+      "Attacking hospital systems with ransomware."
+    ]
+  },
+  {
+    "section_number": "Section 357",
+    "section_title": "General provision on attempts, abetment, and conspiracy",
+    "description": "Sets punishments for attempts, abetment, or conspiracy where not otherwise expressly provided, generally proportionate to the principal offence.",
+    "examples": [
+      "Attempting but failing to break into a vault.",
+      "Abetting a fraud by supplying forged IDs."
+    ]
+  },
+  {
+    "section_number": "Section 358",
+    "section_title": "Repeal, savings, and transition",
+    "description": "Provides for repeal of earlier corresponding provisions, saving of prior actions, and transitional arrangements upon commencement of the BNS.",
+    "examples": [
+      "Cases registered under IPC continue subject to savings.",
+      "Procedures shift to BNS on and after commencement date."
+    ]
+  }
+]

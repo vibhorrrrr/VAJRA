@@ -1,0 +1,1532 @@
+[
+  {
+    "section_number": "Section 1",
+    "section_title": "Short title, application and commencement",
+    "description": "Specifies the Act as the Bharatiya Sakshya Adhiniyam, 2023, applicable throughout India and notes the date it comes into force.",
+    "examples": [
+      "A court cites BSA 2023 for rules of evidence in a trial.",
+      "Evidence collected after the commencement date is admissible under BSA."
+    ]
+  },
+  {
+    "section_number": "Section 2",
+    "section_title": "Definitions",
+    "description": "Provides definitions for key terms such as evidence, fact, document, and court as used in the Act.",
+    "examples": [
+      "The meaning of 'evidence' is clarified in BSA for admitting digital records.",
+      "A dispute on the definition of 'court' is settled by Section 2."
+    ]
+  },
+  {
+    "section_number": "Section 3",
+    "section_title": "Evidence may be given of facts in issue and relevant facts",
+    "description": "Allows evidence to be presented relating to facts that are in dispute or are relevant to the matter under consideration.",
+    "examples": [
+      "Presenting witness testimony about the occurrence of an alleged event.",
+      "Admitting physical evidence related to a disputed contract."
+    ]
+  },
+  {
+    "section_number": "Section 4",
+    "section_title": "Relevancy of facts forming part of same transaction",
+    "description": "Establishes that facts forming part of the same transaction as the fact in issue are relevant to the case.",
+    "examples": [
+      "Statements made by a suspect during commission of a crime are admissible.",
+      "Video footage showing actions during the event under investigation."
+    ]
+  },
+  {
+    "section_number": "Section 5",
+    "section_title": "Facts which are occasion, cause or effect of facts in issue or relevant facts",
+    "description": "Facts that are the cause or consequence of facts in issue or relevant facts are themselves relevant.",
+    "examples": [
+      "Medical reports showing cause of injury presented in assault case.",
+      "Property damage following a disputed accident used as evidence."
+    ]
+  },
+  {
+    "section_number": "Section 6",
+    "section_title": "Motive, preparation and previous or subsequent conduct",
+    "description": "Admits facts showing motive, preparation, or conduct surrounding the fact in issue as relevant evidence.",
+    "examples": [
+      "Evidence of purchase of weapons prior to a crime.",
+      "Witness testimony about suspect’s behavior after alleged offense."
+    ]
+  },
+  {
+    "section_number": "Section 7",
+    "section_title": "Facts necessary to explain or introduce fact in issue or relevant facts",
+    "description": "Includes facts that help explain or introduce other relevant facts, aiding understanding of the case.",
+    "examples": [
+      "Background documents clarifying terms of a disputed contract.",
+      "Contextual information about a location where an event occurred."
+    ]
+  },
+  {
+    "section_number": "Section 8",
+    "section_title": "Things said or done by conspirator in reference to common design",
+    "description": "Statements or actions of a conspirator relating to the common plan are relevant against all conspirators.",
+    "examples": [
+      "Emails exchanged planning a coordinated fraud.",
+      "Phone calls between suspects agreeing on a course of action."
+    ]
+  },
+  {
+    "section_number": "Section 9",
+    "section_title": "When facts not otherwise relevant become relevant",
+    "description": "Allows facts to be considered relevant in certain legal exceptions even if normally irrelevant.",
+    "examples": [
+      "Evidence of previous good character introduced to counter bad character evidence.",
+      "Ancillary facts proved to establish authenticity of disputed documents."
+    ]
+  },
+  {
+    "section_number": "Section 10",
+    "section_title": "Facts tending to enable Court to determine amount are relevant in suits for damages",
+    "description": "Permits evidence that helps the Court assess damages or compensation to be admitted.",
+    "examples": [
+      "Financial records showing loss incurred due to breach of contract.",
+      "Valuation reports submitted in personal injury claims."
+    ]
+  },
+  {
+    "section_number": "Section 11",
+    "section_title": "Judgments and orders",
+    "description": "Judgments and orders from courts of law are relevant to prove the facts decided by them.",
+    "examples": [
+      "A final judgment on property ownership is used to establish title in a subsequent case.",
+      "Previous court order on custody is referenced to determine current guardianship."
+    ]
+  },
+  {
+    "section_number": "Section 12",
+    "section_title": "Admission defined",
+    "description": "An admission is a statement, oral or written, which suggests any inference as to any fact in issue or relevant fact.",
+    "examples": [
+      "A defendant admits to being present at the scene of the crime.",
+      "A written acknowledgment of debt is treated as an admission."
+    ]
+  },
+  {
+    "section_number": "Section 13",
+    "section_title": "Admissions by agents",
+    "description": "Admissions made by agents in the course of their employment are relevant against the principal.",
+    "examples": [
+      "A company’s employee admits fault during contract negotiation.",
+      "Statements by authorized agents can bind the organization."
+    ]
+  },
+  {
+    "section_number": "Section 14",
+    "section_title": "Confession to police officer",
+    "description": "Confessions made to a police officer are generally inadmissible, except under certain conditions specified in the Act.",
+    "examples": [
+      "A confession made under duress to an investigating officer is excluded.",
+      "Voluntary statement recorded properly may be considered."
+    ]
+  },
+  {
+    "section_number": "Section 15",
+    "section_title": "Confession caused by inducement, threat, or promise, to be irrelevant in criminal proceeding",
+    "description": "A confession obtained through inducement, threat, or promise is not admissible in criminal trials.",
+    "examples": [
+      "A suspect’s confession obtained during coercion is excluded.",
+      "Admissions made voluntarily without pressure are admissible."
+    ]
+  },
+  {
+    "section_number": "Section 16",
+    "section_title": "Statements by persons who cannot be called as witnesses",
+    "description": "Statements by persons who are dead or cannot be found may be relevant under specific circumstances.",
+    "examples": [
+      "A deceased witness’s prior statement recorded under oath.",
+      "Evidence from missing persons collected through affidavits."
+    ]
+  },
+  {
+    "section_number": "Section 17",
+    "section_title": "Admissions when relevant",
+    "description": "General rules on when admissions are relevant, including admissions by parties or persons interested in proceedings.",
+    "examples": [
+      "Admissions by co-defendants during trial.",
+      "Statements by relatives of parties that affect interests."
+    ]
+  },
+  {
+    "section_number": "Section 18",
+    "section_title": "Judgments when relevant",
+    "description": "Extent and limitations of admissibility of previous judgments in subsequent proceedings.",
+    "examples": [
+      "Using prior civil judgment in a subsequent criminal case.",
+      "Prior acquittals may influence charges in related crimes."
+    ]
+  },
+  {
+    "section_number": "Section 19",
+    "section_title": "Opinion of experts",
+    "description": "Expert opinions on technical matters are relevant and admissible to assist the Court in understanding the evidence.",
+    "examples": [
+      "Doctor’s opinion on cause of injury.",
+      "Forensic expert’s analysis of DNA evidence."
+    ]
+  },
+  {
+    "section_number": "Section 20",
+    "section_title": "How much of expert’s opinion to be proved",
+    "description": "Clarifies that only the facts or data forming basis of expert’s opinion need to be established in evidence.",
+    "examples": [
+      "Verifying correctness of medical records underlying expert testimony.",
+      "Corroborating scientific samples analyzed by expert."
+    ]
+  },
+{
+    "section_number": "Section 21",
+    "section_title": "Statements made under special circumstances",
+    "description": "Certain statements made under specific circumstances are considered relevant even if they would otherwise be inadmissible.",
+    "examples": [
+      "Confessions made in the presence of a magistrate.",
+      "Statements made in the course of duty like dying declarations."
+    ]
+  },
+  {
+    "section_number": "Section 22",
+    "section_title": "Admission of co-conspirators",
+    "description": "Statements made by co-conspirators during the course of the conspiracy are admissible against other conspirators.",
+    "examples": [
+      "Emails between conspirators discussing plan execution.",
+      "Phone conversations showing agreement to commit a crime."
+    ]
+  },
+  {
+    "section_number": "Section 23",
+    "section_title": "Relevancy of statements containing opinions of witnesses",
+    "description": "Witnesses' opinions may be relevant when they elucidate facts or circumstances related to the case.",
+    "examples": [
+      "A witness stating they believed the accused was angry immediately before the incident.",
+      "Eyewitness expressing opinion on speed of a vehicle involved."
+    ]
+  },
+  {
+    "section_number": "Section 24",
+    "section_title": "Relevancy of statements as to customary practices",
+    "description": "Statements describing customs or usage relevant to the case are admissible.",
+    "examples": [
+      "Testimony on local customs affecting contract interpretation.",
+      "Statements on trade practices to establish industry standards."
+    ]
+  },
+  {
+    "section_number": "Section 25",
+    "section_title": "Proof of execution of documents",
+    "description": "Evidence relating to the execution and authenticity of documents is admissible.",
+    "examples": [
+      "A witness testifying that a signature is genuine.",
+      "Expert handwriting analysis confirming authenticity."
+    ]
+  },
+  {
+    "section_number": "Section 26",
+    "section_title": "Documentary evidence",
+    "description": "Documents relevant to the case may be submitted and examined in court.",
+    "examples": [
+      "Contracts presented as proof of agreement.",
+      "Receipts used to verify transactions."
+    ]
+  },
+  {
+    "section_number": "Section 27",
+    "section_title": "Public documents",
+    "description": "Certified copies and records from public offices are admissible as evidence.",
+    "examples": [
+      "Government land records submitted in ownership disputes.",
+      "Certified birth and death certificates accepted in court."
+    ]
+  },
+  {
+    "section_number": "Section 28",
+    "section_title": "Presumption as to genuineness of certified copies and documents",
+    "description": "Certified copies of public documents are presumed to be genuine unless proved otherwise.",
+    "examples": [
+      "Court accepts certified copy of an official gazette without further proof.",
+      "Certified property registration papers admitted without dispute."
+    ]
+  },
+  {
+    "section_number": "Section 29",
+    "section_title": "Examination of witnesses",
+    "description": "Procedures and guidelines for the examination, cross-examination, and re-examination of witnesses.",
+    "examples": [
+      "Witness questioned on material facts and challenged on inconsistencies.",
+      "Re-examination clarifies points raised during cross-examination."
+    ]
+  },
+  {
+    "section_number": "Section 30",
+    "section_title": "Power to compel attendance of witnesses",
+    "description": "Courts have authority to compel witnesses to attend and produce evidence.",
+    "examples": [
+      "Issuing summons to a key witness to appear in court.",
+      "Contempt proceedings for witness refusing to appear."
+    ]
+  },
+  {
+    "section_number": "Section 31",
+    "section_title": "Order for production of documents",
+    "description": "Courts can order parties to produce relevant documents not voluntarily submitted.",
+    "examples": [
+      "Ordering a party to produce email correspondence as evidence.",
+      "Requiring submission of financial statements."
+    ]
+  },
+  {
+    "section_number": "Section 32",
+    "section_title": "Inspection of documents",
+    "description": "Parties and the court have the right to inspect documents presented as evidence.",
+    "examples": [
+      "Defendant inspecting contract alleged to have been breached.",
+      "Court reviewing original document to verify authenticity."
+    ]
+  },
+  {
+    "section_number": "Section 33",
+    "section_title": "Hearing of evidence by affidavit",
+    "description": "Under special circumstances, evidence can be presented via affidavit without oral examination.",
+    "examples": [
+      "Medical reports submitted by affidavit when doctor unavailable.",
+      "Affidavit statements of witnesses out of jurisdiction."
+    ]
+  },
+  {
+    "section_number": "Section 34",
+    "section_title": "Evidence of electronic records",
+    "description": "Electronic evidence including digital documents, emails, and metadata are admissible under prescribed conditions.",
+    "examples": [
+      "Email communications used to establish timelines.",
+      "Metadata verifying authenticity of digital contracts."
+    ]
+  },
+  {
+    "section_number": "Section 35",
+    "section_title": "Examination of persons alleged to be mentally ill",
+    "description": "Special procedures for examining mentally ill persons relevant to proceedings.",
+    "examples": [
+      "Medical assessment of accused’s mental condition.",
+      "Expert testimony on competency to stand trial."
+    ]
+  },
+  {
+    "section_number": "Section 36",
+    "section_title": "Protection of witnesses",
+    "description": "Measures to safeguard witnesses from intimidation or harm during evidence proceedings.",
+    "examples": [
+      "Witness anonymity for protection in sensitive cases.",
+      "Secure accommodations arranged during trials."
+    ]
+  },
+  {
+    "section_number": "Section 37",
+    "section_title": "Refusal to answer questions",
+    "description": "Circumstances where witnesses may refuse to answer questions including privilege or self-incrimination clauses.",
+    "examples": [
+      "Witness refusing to disclose confidential information.",
+      "Incriminating answers protected to prevent self-accusation."
+    ]
+  },
+  {
+    "section_number": "Section 38",
+    "section_title": "Cross-examination",
+    "description": "Right of the opposing party to question a witness to challenge credibility or accuracy.",
+    "examples": [
+      "Challenging witness inconsistencies during cross-examination.",
+      "Questioning of expert witnesses on methodology."
+    ]
+  },
+  {
+    "section_number": "Section 39",
+    "section_title": "Re-examination",
+    "description": "Opportunity to clarify or rebut points raised during cross-examination.",
+    "examples": [
+      "Witness explaining misunderstood statements after cross.",
+      "Additional expertise introduced in re-examination of technical testimony."
+    ]
+  },
+  {
+    "section_number": "Section 40",
+    "section_title": "Opinion of judges",
+    "description": "Judges may give their opinion in cases involving complex questions of fact or law.",
+    "examples": [
+      "Judge clarifies interpretation of evidentiary rules.",
+      "Chief Justice issuing opinion on novel procedural matters."
+    ]
+  },
+  {
+    "section_number": "41",
+    "section_title": "Opinion of the Court on the facts",
+    "description": "The court may give its opinion on facts when required for the due administration of justice.",
+    "examples": [
+      "Judge expressing opinion on conflicting witness statements.",
+      "Court providing clarity on disputed event timelines."
+    ]
+  },
+  {
+    "section_number": "42",
+    "section_title": "Judge to decide as to admissibility of evidence",
+    "description": "The judge has the discretion to determine the admissibility of evidence presented during proceedings.",
+    "examples": [
+      "Excluding hearsay evidence as inadmissible.",
+      "Allowing expert testimony following proper procedure."
+    ]
+  },
+  {
+    "section_number": "43",
+    "section_title": "Certificate of document",
+    "description": "Documents bearing a certificate issued by an authorized person are presumed genuine unless proven otherwise.",
+    "examples": [
+      "Certified copies of government records accepted in court.",
+      "Declarations by officers confirming authenticity of public documents."
+    ]
+  },
+  {
+    "section_number": "44",
+    "section_title": "Proof of signature and handwriting",
+    "description": "Evidence about the genuineness of signatures and handwriting may be provided by producing persons familiar with them.",
+    "examples": [
+      "A witness testifying that a signature on a contract is genuine.",
+      "Expert analysis confirming handwriting authenticity."
+    ]
+  },
+  {
+    "section_number": "45",
+    "section_title": "Proof as to electronic signature",
+    "description": "Rules regarding the admissibility and proof of electronic signatures in evidence.",
+    "examples": [
+      "A digitally signed email accepted as evidence.",
+      "Software stamps on electronic contracts verified in proceedings."
+    ]
+  },
+  {
+    "section_number": "46",
+    "section_title": "Public documents and electronic records",
+    "description": "Official documents and electronic records maintained by public authorities are admissible as evidence.",
+    "examples": [
+      "Government-issued certificates used in property disputes.",
+      "Digital archives from public departments presented in court."
+    ]
+  },
+  {
+    "section_number": "47",
+    "section_title": "Documents produced in public acts",
+    "description": "Documents produced in the course of public actions held in official capacities are presumed genuine.",
+    "examples": [
+      "Land registration documents produced by local authorities.",
+      "Official notices published in government gazette files."
+    ]
+  },
+  {
+    "section_number": "48",
+    "section_title": "Documents by a public servant",
+    "description": "Documents made by a public servant in executing public functions are admitted as evidence unless disproved.",
+    "examples": [
+      "Inspection reports by government officers accepted as evidence.",
+      "Statements contained in official records submitted to court."
+    ]
+  },
+  {
+    "section_number": "49",
+    "section_title": "Presumptions as to documents",
+    "description": "The court may presume the genuineness of certain documents until contrary evidence is presented.",
+    "examples": [
+      "Certificates from government archives considered genuine unless challenged.",
+      "Certified copies of documents accepted on their face value."
+    ]
+  },
+  {
+    "section_number": "50",
+    "section_title": "Public records",
+    "description": "Records kept in public offices and registers, including indexes and entries, are admissible as evidence.",
+    "examples": [
+      "Birth and death registers accessed to prove identity.",
+      "Property registrations referenced during civil litigation."
+    ]
+  },
+  {
+    "section_number": "51",
+    "section_title": "Presumption as to maps, charts, and plans",
+    "description": "Maps, charts, plans, and tracts regularly made by authorized persons are presumed genuine unless disproved.",
+    "examples": [
+      "Topographical maps produced by government survey teams.",
+      "Building plans submitted for municipal approvals."
+    ]
+  },
+  {
+    "section_number": "52",
+    "section_title": "Proof of facts admitted in reply",
+    "description": "Facts admitted by parties in pleadings or written statements are considered proved.",
+    "examples": [
+      "Admission of debt amount in written contract.",
+      "Acknowledgement of service receipt in court documentation."
+    ]
+  },
+  {
+    "section_number": "53",
+    "section_title": "Oral admissions",
+    "description": "Admissions made orally during proceedings may be used as evidence against the admitting party.",
+    "examples": [
+      "Defendant verbally acknowledging liability in court.",
+      "Statements made under oath during cross-examination."
+    ]
+  },
+  {
+    "section_number": "54",
+    "section_title": "Statements by persons who cannot be called as witnesses",
+    "description": "Statements made by unavailable persons—dead, otherwise incompetent, or beyond jurisdiction—can be admitted in evidence under specific conditions.",
+    "examples": [
+      "Dying declarations by victims admitted in homicide cases.",
+      "Statements recorded from missing witnesses during investigation."
+    ]
+  },
+  {
+    "section_number": "55",
+    "section_title": "Statements made in course of business",
+    "description": "Records and statements kept in the ordinary course of business are admissible as evidence.",
+    "examples": [
+      "Transaction logs from accounting software.",
+      "Shipping invoices regularly maintained by companies."
+    ]
+  },
+  {
+    "section_number": "56",
+    "section_title": "Ancient documents",
+    "description": "Documents which are thirty years old and produced from proper custody may be considered genuine.",
+    "examples": [
+      "Historical land records over thirty years old.",
+      "Old property titles retrieved from archives."
+    ]
+  },
+  {
+    "section_number": "57",
+    "section_title": "Official documents",
+    "description": "Documents issued by lawful public officers and government departments are admissible.",
+    "examples": [
+      "Certified copies of government orders.",
+      "Official notifications issued by regulators."
+    ]
+  },
+  {
+    "section_number": "58",
+    "section_title": "Electronic records",
+    "description": "Electronic records, including files, emails, social media content, and digital signatures, are admissible if they fulfill prescribed conditions.",
+    "examples": [
+      "Email communication used as evidence in contracts.",
+      "Digital metadata verifying the authenticity of video evidence."
+    ]
+  },
+  {
+    "section_number": "59",
+    "section_title": "Judgment of courts and public authorities",
+    "description": "Decisions, orders, and judgments from courts or public authorities are evidence of the facts determined therein.",
+    "examples": [
+      "Previous court ruling accepted as evidence of liability.",
+      "Regulatory orders upheld in legal disputes."
+    ]
+  },
+  {
+    "section_number": "60",
+    "section_title": "Proof of execution of documents",
+    "description": "Documents can be proved by persons who have signed them or by witnesses to their execution.",
+    "examples": [
+      "Witnesses testifying to the signing of a contract.",
+      "Handwriting experts verifying signatures."
+    ]
+  },
+    {
+    "section_number": "61",
+    "section_title": "Presumption as to documents thirty years old",
+    "description": "Documents that are over thirty years old and found in proper custody are presumed genuine unless proven otherwise.",
+    "examples": [
+      "Historical property titles over 30 years old admitted as proof of ownership.",
+      "Old government ledgers relied upon in inheritance disputes."
+    ]
+  },
+  {
+    "section_number": "62",
+    "section_title": "Presumption as to public documents",
+    "description": "Certain documents regularly issued by public authorities are presumed authentic and accurate.",
+    "examples": [
+      "Certified copies of birth certificates admitted as true records.",
+      "Official stamps and signatures on license documents upheld as genuine."
+    ]
+  },
+  {
+    "section_number": "63",
+    "section_title": "Presumption as to gazette notifications",
+    "description": "Government Gazette notifications published according to law are presumed genuine.",
+    "examples": [
+      "Public notice of land acquisition published in Gazette accepted as lawful record.",
+      "Notification of tax changes published in Gazette cited in court."
+    ]
+  },
+  {
+    "section_number": "64",
+    "section_title": "Certificate of documents by public officers",
+    "description": "Certificates signed by public officers relating to documents are presumed valid and accurate.",
+    "examples": [
+      "Certificate by registrar on document authenticity admitted without further proof.",
+      "Government certification of maps and plans accepted as reliable."
+    ]
+  },
+  {
+    "section_number": "65",
+    "section_title": "Presumption as to maps, plans, and sketches",
+    "description": "Maps, plans, drawings or charts made by authorized persons are presumed correct and authentic.",
+    "examples": [
+      "Surveyor's map submitted as accurate representation of land boundaries.",
+      "Official plan of a building submitted in construction dispute."
+    ]
+  },
+  {
+    "section_number": "66",
+    "section_title": "Dealings with government and official authorities",
+    "description": "Official acts, records, or notifications relating to dealings with government or authorities are presumed lawful and properly executed.",
+    "examples": [
+      "Official grant of land recognized as valid title.",
+      "Tax receipts issued by government accepted as proof of payment."
+    ]
+  },
+  {
+    "section_number": "67",
+    "section_title": "Relevancy of facts concerning property in suit",
+    "description": "Facts concerning possession, ownership, and dealings of property in suit are relevant to the case.",
+    "examples": [
+      "Testimony about who had custody of disputed property.",
+      "Documents establishing record of ownership."
+    ]
+  },
+  {
+    "section_number": "68",
+    "section_title": "Acts or customs to prove usage or immemorial right",
+    "description": "Evidence of acts or customs is relevant to establish usage or immemorial rights.",
+    "examples": [
+      "Witness accounts of customary land use over decades.",
+      "Local customs presented in boundary disputes."
+    ]
+  },
+  {
+    "section_number": "69",
+    "section_title": "Admission by party to suit or another person",
+    "description": "Admissions or acknowledgments made by a party or others related to the matter are relevant evidence.",
+    "examples": [
+      "Acknowledgment of debt by written admission.",
+      "Statements by business partners regarding contract terms."
+    ]
+  },
+  {
+    "section_number": "70",
+    "section_title": "Fact necessary to explain or introduce relevant fact",
+    "description": "Facts required to explain or introduce other evidence are themselves relevant.",
+    "examples": [
+      "Contextual documents clarifying contract clauses.",
+      "Evidence showing background circumstances for disputed events."
+    ]
+  },
+  {
+    "section_number": "71",
+    "section_title": "Relevancy of facts accompanying the fact",
+    "description": "Facts which naturally accompany a relevant fact and illustrate it are admissible.",
+    "examples": [
+      "Witness statements describing conditions surrounding an incident.",
+      "Photographs showing environment of the alleged event."
+    ]
+  },
+  {
+    "section_number": "72",
+    "section_title": "Previous judgment relevant",
+    "description": "Previous judgments, when relevant to the matter, may be relied upon as evidence.",
+    "examples": [
+      "Final decision from earlier suit admitted as evidence.",
+      "Precedent judgments used to establish legal principles."
+    ]
+  },
+  {
+    "section_number": "73",
+    "section_title": "Facts constituting offence or evidence of motive",
+    "description": "Evidence showing the commission of offence or motive of accused is relevant in prosecution.",
+    "examples": [
+      "Witnesses detailing the planning of criminal act.",
+      "Discovery of tools linked to alleged offence."
+    ]
+  },
+  {
+    "section_number": "74",
+    "section_title": "Facts which show or constitute a defence",
+    "description": "Facts indicating a defense or exception to alleged offence are admissible.",
+    "examples": [
+      "Evidence of alibi during time of offence.",
+      "Proof of consent in cases involving assault charges."
+    ]
+  },
+  {
+    "section_number": "75",
+    "section_title": "General principles relating to facts",
+    "description": "Principles guiding the admissibility and weight of facts under the Act.",
+    "examples": [
+      "Consideration of relevance, materiality, and admissibility by the court.",
+      "Evaluation of contradictory evidence with care."
+    ]
+  },
+  {
+    "section_number": "76",
+    "section_title": "Proof of facts by facts of general nature",
+    "description": "Evidence of generally accepted facts in a locality or industry may be accepted without formal proof.",
+    "examples": [
+      "Recognized trade practices admitted during commercial disputes.",
+      "Localized customs presented in property disputes."
+    ]
+  },
+  {
+    "section_number": "77",
+    "section_title": "Estoppels, res judicata and waiver",
+    "description": "Prevents parties from denying matters conclusively decided or waiving rights voluntarily.",
+    "examples": [
+      "Party barred from re-litigating settled issues.",
+      "Waiver of contractual rights established through actions."
+    ]
+  },
+  {
+    "section_number": "78",
+    "section_title": "Imitation of handwriting and signature",
+    "description": "Forgery or imitation of handwriting or signatures is punishable and evidence of fraud.",
+    "examples": [
+      "Forensic analysis detecting forged signatures.",
+      "Evidence of forged documents used in fraud."
+    ]
+  },
+  {
+    "section_number": "79",
+    "section_title": "Presumption as to electronic records",
+    "description": "Presumes the authenticity of electronic records maintained according to prescribed standards.",
+    "examples": [
+      "Government-issued digital certificates accepted as authentic.",
+      "Computer-generated logs treated as prima facie evidence."
+    ]
+  },
+  {
+    "section_number": "80",
+    "section_title": "Court’s power to require production of electronic evidence",
+    "description": "Courts may order production of electronic evidence relevant to the case under prescribed conditions.",
+    "examples": [
+      "Demanding original email data during civil litigation.",
+      "Court-approved access to social media data for investigation."
+    ]
+  },
+  {
+    "section_number": "81",
+    "section_title": "Burden of proof",
+    "description": "Defines which party is responsible for proving particular facts and issues in a case.",
+    "examples": [
+      "The prosecution must prove the guilt of the accused beyond a reasonable doubt.",
+      "The defendant may bear the burden of proving an affirmative defense."
+    ]
+  },
+  {
+    "section_number": "82",
+    "section_title": "Presumptions",
+    "description": "Specifies certain legal presumptions that the Court may make, unless disproved by contrary evidence.",
+    "examples": [
+      "Presumption of innocence of accused until proven guilty.",
+      "Presumption that official documents are authentic."
+    ]
+  },
+  {
+    "section_number": "83",
+    "section_title": "Residuary general provisions",
+    "description": "General provisions governing matters not specifically addressed elsewhere in the Act.",
+    "examples": [
+      "Rules for admissibility of evidence not explicitly covered in specific sections.",
+      "Application of principles to new forms of evidence."
+    ]
+  },
+  {
+    "section_number": "84",
+    "section_title": "Relevancy of previous judgment in civil proceedings",
+    "description": "Previous judgments are relevant for determining current disputes subject to exceptions.",
+    "examples": [
+      "Using a prior suit’s decision to support ownership claim.",
+      "Excluding facts already decided in another pending case."
+    ]
+  },
+  {
+    "section_number": "85",
+    "section_title": "Relevancy of previous judgment in criminal proceedings",
+    "description": "Rules for admitting previous criminal case judgments relevant to current prosecutions.",
+    "examples": [
+      "Prior conviction used to establish modus operandi.",
+      "Acquittals as defense against repeated prosecution for same offence."
+    ]
+  },
+  {
+    "section_number": "86",
+    "section_title": "Proof of character",
+    "description": "Rules governing the admissibility of evidence related to the character of parties or witnesses.",
+    "examples": [
+      "Character evidence introduced to impeach witness credibility.",
+      "Evidence of good character admitted to support defense."
+    ]
+  },
+  {
+    "section_number": "87",
+    "section_title": "Competency of witnesses",
+    "description": "Criteria determining who is competent to testify in judicial proceedings.",
+    "examples": [
+      "Minor witnesses evaluated for understanding before testifying.",
+      "Restrictions on testimony from mentally incapacitated persons."
+    ]
+  },
+  {
+    "section_number": "88",
+    "section_title": "Oath and affirmation",
+    "description": "Procedures and forms for administering oath or affirmation to witnesses and parties.",
+    "examples": [
+      "Witness swearing to tell the truth before testimony.",
+      "Affirmations allowed for those objecting to oath on religious grounds."
+    ]
+  },
+  {
+    "section_number": "89",
+    "section_title": "Examination, cross-examination and re-examination",
+    "description": "Guidelines for conducting examination, cross-examination, and re-examination of witnesses.",
+    "examples": [
+      "Initial questioning by calling party followed by the adverse party’s cross.",
+      "Re-examination to clarify issues raised during cross-examination."
+    ]
+  },
+  {
+    "section_number": "90",
+    "section_title": "Evidence by affidavit",
+    "description": "Conditions under which evidence may be submitted by affidavit instead of oral testimony.",
+    "examples": [
+      "Medical reports submitted by affidavit when doctor is unavailable.",
+      "Affidavit of a witness residing outside jurisdiction."
+    ]
+  },
+  {
+    "section_number": "91",
+    "section_title": "Powers of courts to call for production of documents",
+    "description": "Courts may order any party or third party to produce documents relevant to proceedings.",
+    "examples": [
+      "Court directing defendant to produce contract documents.",
+      "Subpoena issued to company for financial records."
+    ]
+  },
+  {
+    "section_number": "92",
+    "section_title": "Admission of electronic records",
+    "description": "Electronic records that satisfy prescribed authenticity conditions are admissible.",
+    "examples": [
+      "Bank digital transaction records accepted as evidence.",
+      "Emails submitted to prove contractual communications."
+    ]
+  },
+  {
+    "section_number": "93",
+    "section_title": "Authentication of digital signatures",
+    "description": "Rules for proving authenticity of digital signatures in electronic documents.",
+    "examples": [
+      "Verification of cryptographic signatures in emails.",
+      "Authentication certificates validating digital contracts."
+    ]
+  },
+  {
+    "section_number": "94",
+    "section_title": "Power to examine accused",
+    "description": "Procedures for the examination of accused persons in criminal matters.",
+    "examples": [
+      "Accused being asked questions in court under oath.",
+      "Mental health assessment of accused during trial."
+    ]
+  },
+  {
+    "section_number": "95",
+    "section_title": "Protection to witnesses",
+    "description": "Measures to protect witnesses from intimidation or harassment during trials.",
+    "examples": [
+      "Granting witness anonymity in sensitive cases.",
+      "Providing security to key prosecution witnesses."
+    ]
+  },
+  {
+    "section_number": "96",
+    "section_title": "Power to summon persons",
+    "description": "Courts have the authority to summon parties or witnesses to appear or produce documents.",
+    "examples": [
+      "Issuance of summons to a reluctant witness.",
+      "Order for a party to appear before court."
+    ]
+  },
+  {
+    "section_number": "97",
+    "section_title": "Procedure to collect evidence",
+    "description": "Guidelines and powers relating to collecting and recording evidence in trials.",
+    "examples": [
+      "Recording witness statements under oath.",
+      "Collection of physical evidence from crime scenes."
+    ]
+  },
+  {
+    "section_number": "98",
+    "section_title": "Presumption of innocence",
+    "description": "Every accused is presumed innocent until proven guilty beyond reasonable doubt.",
+    "examples": [
+      "Defendant granted benefit of doubt in uncertain cases.",
+      "No punishment without conclusive evidence of offence."
+    ]
+  },
+  {
+    "section_number": "99",
+    "section_title": "Proof of confession",
+    "description": "Rules for admitting confessions made by accused persons in evidence.",
+    "examples": [
+      "Voluntary confession taken before magistrate admitted.",
+      "Confession obtained under threat excluded as evidence."
+    ]
+  },
+  {
+    "section_number": "100",
+    "section_title": "Exclusion of illegally obtained evidence",
+    "description": "Evidence obtained through illegal means or violation of constitutional rights is inadmissible.",
+    "examples": [
+      "Confessions made under torture excluded from trial.",
+      "Evidence seized without proper warrant inadmissible."
+    ]
+  },
+  {
+    "section_number": "101",
+    "section_title": "Judicial notice of certain facts",
+    "description": "Courts may take judicial notice of facts of common knowledge or not subject to reasonable dispute.",
+    "examples": [
+      "Recognition of national holidays without proof.",
+      "Public facts like sunrise and sunset times taken as known."
+    ]
+  },
+  {
+    "section_number": "102",
+    "section_title": "Exclusion of irrelevant evidence",
+    "description": "Evidence that does not relate to the matter in issue is not admissible.",
+    "examples": [
+      "Testimony about unrelated past criminal history excluded.",
+      "Irrelevant hearsay statements dismissed by the court."
+    ]
+  },
+  {
+    "section_number": "103",
+    "section_title": "Order of leading evidence",
+    "description": "Regulates the order and manner in which evidence is presented in court.",
+    "examples": [
+      "Prosecution presents its evidence before the defense.",
+      "Parties lead witnesses in direct and cross-examination."
+    ]
+  },
+  {
+    "section_number": "104",
+    "section_title": "Summing up evidence",
+    "description": "At the close of evidence, parties may summarize key points before final arguments.",
+    "examples": [
+      "Attorney summarizing inconsistencies in evidence.",
+      "Highlighting admissions and contradictions in testimony."
+    ]
+  },
+  {
+    "section_number": "105",
+    "section_title": "Evidence in electronic form",
+    "description": "Permits use of electronic evidence in courts subject to verification and proper standards.",
+    "examples": [
+      "Digital signatures in e-contracts accepted by courts.",
+      "Video footage stored on digital devices admitted as proof."
+    ]
+  },
+  {
+    "section_number": "106",
+    "section_title": "Procedures relating to electronic evidence",
+    "description": "Specifies how electronic evidence should be collected, preserved, and presented to court.",
+    "examples": [
+      "Following chain-of-custody rules for digital evidence.",
+      "Ensuring integrity of electronic data during investigation."
+    ]
+  },
+  {
+    "section_number": "107",
+    "section_title": "Procedure for interpretation of evidence",
+    "description": "Guidelines on how courts should interpret and weigh different kinds of evidence.",
+    "examples": [
+      "Giving greater weight to direct eyewitness testimony.",
+      "Evaluating circumstantial evidence with caution."
+    ]
+  },
+  {
+    "section_number": "108",
+    "section_title": "Proof of relationship",
+    "description": "Defines the methods for establishing legal relationships like marriage, parentage, or guardianship.",
+    "examples": [
+      "Birth certificates admitted to prove parentage.",
+      "Marriage registration documents used to establish spousal relationship."
+    ]
+  },
+  {
+    "section_number": "109",
+    "section_title": "Proof of death",
+    "description": "Specifies evidence required to prove a person's death in legal proceedings.",
+    "examples": [
+      "Official death certificates admitted as conclusive proof.",
+      "Testimony of last known whereabouts prior to disappearance."
+    ]
+  },
+  {
+    "section_number": "110",
+    "section_title": "Presumption as to existence of certain facts",
+    "description": "Certain facts are presumed to exist unless disproved by evidence.",
+    "examples": [
+      "Presumption that documents properly certified are correct.",
+      "Presumption of legal guardian’s authority over minor."
+    ]
+  },
+  {
+    "section_number": "111",
+    "section_title": "Electronic proof of digital evidence",
+    "description": "Specifies procedures for proving authenticity and integrity of digitally stored evidence.",
+    "examples": [
+      "Demonstrating the origin and integrity of digital documents.",
+      "Validating timestamps on electronic records."
+    ]
+  },
+  {
+    "section_number": "112",
+    "section_title": "Evidence relating to electronic signature",
+    "description": "Rules governing the admissibility and verification of electronic signatures in legal matters.",
+    "examples": [
+      "Verification of digital certificates accompanying contracts.",
+      "Use of cryptographic methods to authenticate signatures."
+    ]
+  },
+  {
+    "section_number": "113",
+    "section_title": "Protection of witnesses",
+    "description": "Measures for the safeguarding of witnesses against threats or harassment during trials.",
+    "examples": [
+      "Granting anonymity to witnesses in sensitive cases.",
+      "Providing police protection to key witnesses."
+    ]
+  },
+  {
+    "section_number": "114",
+    "section_title": "Examination of witness by Court",
+    "description": "Power of the Court to examine any witness on any matter relevant to the case.",
+    "examples": [
+      "Judge questioning a witness to clarify testimony.",
+      "Court eliciting information directly from expert witness."
+    ]
+  },
+  {
+    "section_number": "115",
+    "section_title": "Witness competency",
+    "description": "Criteria for determining whether a witness is competent to testify.",
+    "examples": [
+      "Assessing mental capacity of witness before allowing testimony.",
+      "Limiting testimony of children based on understanding."
+    ]
+  },
+  {
+    "section_number": "116",
+    "section_title": "Examination in chief",
+    "description": "The initial examination of a witness conducted by the party who called the witness.",
+    "examples": [
+      "Prosecutor questioning a witness about the facts of the case.",
+      "Plaintiff examining a witness to establish claim."
+    ]
+  },
+  {
+    "section_number": "117",
+    "section_title": "Cross-examination",
+    "description": "The examination of a witness by the opposing party to test credibility and truthfulness.",
+    "examples": [
+      "Defence counsel questioning prosecution witness to find contradictions.",
+      "Challenging discrepancies in eyewitness accounts."
+    ]
+  },
+  {
+    "section_number": "118",
+    "section_title": "Re-examination",
+    "description": "Further questioning of a witness by the party who called them, aimed at clarifying issues raised during cross-examination.",
+    "examples": [
+      "Witness explaining ambiguous statements made in cross-examination.",
+      "Addressing new points raised by opposing counsel."
+    ]
+  },
+  {
+    "section_number": "119",
+    "section_title": "Hostile witness",
+    "description": "A witness who is adverse or reluctant to the party who called them may be declared hostile and subjected to crossexamination.",
+    "examples": [
+      "Witness giving testimony unfavourable to the calling party.",
+      "Judge permitting cross-examination by calling party after hostile declaration."
+    ]
+  },
+  {
+    "section_number": "120",
+    "section_title": "Power to order attendance of witnesses",
+    "description": "Courts can order witnesses to attend and give evidence when necessary.",
+    "examples": [
+      "Issuing summons to reluctant witness.",
+      "Penalties for failing to appear in court as ordered."
+    ]
+  },
+  {
+    "section_number": "121",
+    "section_title": "Order for production of document",
+    "description": "Courts can compel the production of documents necessary for the proper adjudication of the case.",
+    "examples": [
+      "Court ordering a company to submit financial records.",
+      "Demanding contract copies for examination during litigation."
+    ]
+  },
+  {
+    "section_number": "122",
+    "section_title": "Inspection of documents",
+    "description": "The right of parties or the court to inspect documents presented as evidence.",
+    "examples": [
+      "Examining original will to verify authenticity.",
+      "Reviewing photographs submitted during trial."
+    ]
+  },
+  {
+    "section_number": "123",
+    "section_title": "Affidavit evidence",
+    "description": "Conditions under which affidavits are admissible as evidence.",
+    "examples": [
+      "Submitting notarized exception statements.",
+      "Affidavits filed in lieu of witness testimony."
+    ]
+  },
+  {
+    "section_number": "124",
+    "section_title": "Electronic evidence admissibility",
+    "description": "Guidelines for admissibility of electronic documents and data in legal proceedings.",
+    "examples": [
+      "Admitting digital contracts signed with valid electronic signatures.",
+      "Use of CCTV footage stored in digital format."
+    ]
+  },
+  {
+    "section_number": "125",
+    "section_title": "Certification of electronic records",
+    "description": "Certification of electronic records pursuant to prescribed standards for admissibility.",
+    "examples": [
+      "Official seal certifying authenticity of digital records.",
+      "Trusted timestamping of submitted electronic evidence."
+    ]
+  },
+  {
+    "section_number": "126",
+    "section_title": "Power to issue warrant for possession of evidence",
+    "description": "Courts can issue orders to seize evidence necessary for investigation or trial.",
+    "examples": [
+      "Warrant to seize computers containing digital evidence.",
+      "Order for confiscation of forged documents."
+    ]
+  },
+  {
+    "section_number": "127",
+    "section_title": "Protection of accused during evidence collection",
+    "description": "Safeguards to ensure accused persons’ rights during evidence gathering.",
+    "examples": [
+      "Ensuring medical examiners obtain consent before examinations.",
+      "Protecting privacy during collection of samples."
+    ]
+  },
+  {
+    "section_number": "128",
+    "section_title": "Rajiv Gandhi Institute for Contemporary Studies",
+    "description": "Provision establishing the Rajiv Gandhi Institute for Contemporary Studies.",
+    "examples": [
+      "Institute conducting research on evidence law reforms.",
+      "Training programs for legal professionals."
+    ]
+  },
+  {
+    "section_number": "129",
+    "section_title": "Amendments and repeals",
+    "description": "Details regarding amendments to existing laws and repeal of prior provisions.",
+    "examples": [
+      "Repealing outdated Evidence Act provisions.",
+      "Implementing new evidence standards under BSA."
+    ]
+  },
+  {
+    "section_number": "130",
+    "section_title": "General provisions",
+    "description": "Miscellaneous provisions related to the interpretation and application of the Act.",
+    "examples": [
+      "Rules of construction for ambiguous clauses.",
+      "Provisions relating to jurisdiction and application."
+    ]
+  },
+ {
+    "section_number": "131",
+    "section_title": "Repeal and savings",
+    "description": "Provides for repeal of the Indian Evidence Act, 1872, while saving certain actions and proceedings under previous laws.",
+    "examples": [
+      "Pending cases under the prior Evidence Act continue subject to old provisions.",
+      "Certain rights and liabilities preserved despite repeal."
+    ]
+  },
+  {
+    "section_number": "132",
+    "section_title": "Interpretation of terms",
+    "description": "Clarifies interpretation of commonly used terms throughout the Act to ensure consistent understanding.",
+    "examples": [
+      "Definition of terms such as 'court', 'document', and 'fact'.",
+      "Guidelines on gender-neutral and singular/plural usage."
+    ]
+  },
+  {
+    "section_number": "133",
+    "section_title": "Presumption as to digital evidence",
+    "description": "Presumes electronic evidence to be genuine if produced in accordance with prescribed conditions unless disproved.",
+    "examples": [
+      "Digital contracts accepted as genuine upon proper certification.",
+      "Electronic transaction logs presumed valid."
+    ]
+  },
+  {
+    "section_number": "134",
+    "section_title": "Admissibility of electronic records",
+    "description": "Outlines conditions for the admissibility of electronic records as evidence.",
+    "examples": [
+      "Email communications admitted upon verification of source.",
+      "Electronic health records used as proof of treatment."
+    ]
+  },
+  {
+    "section_number": "135",
+    "section_title": "Power to review evidence",
+    "description": "Court’s authority to review documents and evidence submitted during proceedings.",
+    "examples": [
+      "Reconsideration of submitted expert reports.",
+      "Direction to produce additional clarifying documents."
+    ]
+  },
+  {
+    "section_number": "136",
+    "section_title": "Procedure for electronic evidence",
+    "description": "Specifies protocols for collecting, preserving, and presenting electronic evidence.",
+    "examples": [
+      "Ensuring chain of custody in digital forensics.",
+      "Admission of metadata as corroborating evidence."
+    ]
+  },
+  {
+    "section_number": "137",
+    "section_title": "Protection against self-incrimination",
+    "description": "Safeguards individuals against being compelled to incriminate themselves during evidence proceedings.",
+    "examples": [
+      "Witness exercising right to remain silent.",
+      "Non-admissibility of forced confessions."
+    ]
+  },
+  {
+    "section_number": "138",
+    "section_title": "Evidence of character",
+    "description": "Restrictions and conditions for admitting evidence regarding character of persons involved.",
+    "examples": [
+      "Character evidence admitted only when relevant to the case.",
+      "Restrictions on use of bad character evidence."
+    ]
+  },
+  {
+    "section_number": "139",
+    "section_title": "Proof of handwriting and voice",
+    "description": "Allows proof of authenticity of handwriting and voice through expert testimony or familiarity evidence.",
+    "examples": [
+      "Expert calligraphy expert verifying signatures.",
+      "Familiar witnesses confirming voice recordings."
+    ]
+  },
+  {
+    "section_number": "140",
+    "section_title": "Means of proof",
+    "description": "Recognizes multiple lawful means to prove facts including oral, documentary, and electronic evidence.",
+    "examples": [
+      "Using emails alongside oral witness testimony.",
+      "Admission of contracts in both paper and digital forms."
+    ]
+  },
+  {
+    "section_number": "141",
+    "section_title": "Summoning and examining witnesses",
+    "description": "Provides authority to summons witnesses and conduct their examination during judicial proceedings.",
+    "examples": [
+      "Issuing a summons to an eyewitness to appear in court.",
+      "Conducting examination in chief and cross-examination of witnesses."
+    ]
+  },
+  {
+    "section_number": "142",
+    "section_title": "Clarification of statements",
+    "description": "Allows courts to clarify ambiguous or vague statements made during testimony or evidence presentation.",
+    "examples": [
+      "Requesting the witness to elaborate on unclear answers.",
+      "Seeking explanation for contradictory evidence."
+    ]
+  },
+  {
+    "section_number": "143",
+    "section_title": "Power to examine person accused of offence",
+    "description": "Empowers the court or authorized officer to examine the accused regarding the allegations.",
+    "examples": [
+      "Judge questioning accused to confirm alibi.",
+      "Medical examination ordered to determine fitness for trial."
+    ]
+  },
+  {
+    "section_number": "144",
+    "section_title": "Right of accused to cross-examine",
+    "description": "Grants the accused or defense the right to cross-examine prosecution witnesses.",
+    "examples": [
+      "Defense counsel asking probing questions to challenge witness credibility.",
+      "Highlighting inconsistencies in testimony during cross-examination."
+    ]
+  },
+  {
+    "section_number": "145",
+    "section_title": "Witness protection measures",
+    "description": "Outlines provisions to safeguard witnesses from threats, intimidation, or harm.",
+    "examples": [
+      "Granting anonymity to vulnerable witnesses.",
+      "Providing police protection during high-profile cases."
+    ]
+  },
+  {
+    "section_number": "146",
+    "section_title": "Judicial discretion in admitting evidence",
+    "description": "Empowers judges to admit or exclude evidence based on relevance, reliability, and legal standards.",
+    "examples": [
+      "Excluding irrelevant circumstantial evidence.",
+      "Admitting authenticated digital records."
+    ]
+  },
+  {
+    "section_number": "147",
+    "section_title": "Examination of expert witnesses",
+    "description": "Sets guidelines for the presentation and questioning of expert witnesses during trials.",
+    "examples": [
+      "Expert testifies on forensic analysis methods.",
+      "Cross-examination focuses on expert’s qualifications and methodology."
+    ]
+  },
+  {
+    "section_number": "148",
+    "section_title": "Admissibility of scientific evidence",
+    "description": "Formalizes the acceptance of scientific tests, experiments, and reports as evidence.",
+    "examples": [
+      "DNA analysis results admitted in a criminal case.",
+      "Chemical residue tests submitted during prosecution."
+    ]
+  },
+  {
+    "section_number": "149",
+    "section_title": "Use of recordings",
+    "description": "Allows admission of audio-visual recordings as evidence where certified and relevant.",
+    "examples": [
+      "CCTV footage admitted to establish presence at crime scene.",
+      "Recorded telephone conversations used to prove intent."
+    ]
+  },
+  {
+    "section_number": "150",
+    "section_title": "Inspection of places and things",
+    "description": "Permits courts to authorize inspection of relevant places or objects connected to the case.",
+    "examples": [
+      "Visit to alleged accident site to verify conditions.",
+      "Inspection of seized goods in store’s warehouse."
+    ]
+  },
+    {
+    "section_number": "151",
+    "section_title": "Evidence of motive",
+    "description": "Evidence showing the motive behind an act is relevant to proving the commission of the act.",
+    "examples": [
+      "Showing financial difficulties as motive for embezzlement.",
+      "Demonstrating prior disputes as motive for assault."
+    ]
+  },
+  {
+    "section_number": "152",
+    "section_title": "Admission as to general character",
+    "description": "Admissions relating to the general character of a person are relevant in proceedings.",
+    "examples": [
+      "Admission of dishonest nature in fraud cases.",
+      "Acknowledgment of reputation for violence in assault cases."
+    ]
+  },
+  {
+    "section_number": "153",
+    "section_title": "Production of documents",
+    "description": "Parties may be required to produce documents relevant to the matter in proceedings.",
+    "examples": [
+      "Order to produce contract documents in breach of contract suit.",
+      "Request for company records during fraud investigation."
+    ]
+  },
+  {
+    "section_number": "154",
+    "section_title": "Proof of document contents",
+    "description": "Proof of the contents of a document can be given by the document itself or by oral evidence where admissible.",
+    "examples": [
+      "Reading aloud contract clauses in court.",
+      "Using copies of original documents when originals are unavailable."
+    ]
+  },
+  {
+    "section_number": "155",
+    "section_title": "Public documents and certified copies",
+    "description": "Public documents and their certified copies are admissible and presumed genuine unless disproved.",
+    "examples": [
+      "Certified property register entries accepted as evidence.",
+      "Certified extracts from government archives."
+    ]
+  },
+  {
+    "section_number": "156",
+    "section_title": "Presumption as to official acts",
+    "description": "Official acts done in accordance with law are presumed valid unless proven otherwise.",
+    "examples": [
+      "Presumption of validity of court orders.",
+      "Presumption of proper execution of government procedures."
+    ]
+  },
+  {
+    "section_number": "157",
+    "section_title": "Proof of foreign laws and judgments",
+    "description": "Foreign laws and judgments may be proved by expert opinion or diplomatic documents.",
+    "examples": [
+      "Expert testimony on foreign commercial regulations.",
+      "Certified copies of foreign court rulings."
+    ]
+  },
+  {
+    "section_number": "158",
+    "section_title": "Admissibility of evidence relating to foreign matters",
+    "description": "Evidence regarding foreign laws, customs, or events may be admitted where relevant.",
+    "examples": [
+      "Evidence of international contracts in cross-border disputes.",
+      "Testimony on foreign transactions affecting case."
+    ]
+  },
+  {
+    "section_number": "159",
+    "section_title": "Evidence of facts admitted under special circumstances",
+    "description": "Certain facts admitted by parties under specific colloquy or circumstances are admitted in evidence.",
+    "examples": [
+      "Admissions made during plea bargaining.",
+      "Statements made under formal deposition procedures."
+    ]
+  },
+  {
+    "section_number": "160",
+    "section_title": "Judgment as evidence of facts decided",
+    "description": "Judgments of courts are evidence of matters decided therein but not evidence for other facts.",
+    "examples": [
+      "Proven guilt in previous case presented in sentencing.",
+      "Cascade effect of civil judgments in related suits."
+    ]
+  },
+  {
+    "section_number": "161",
+    "section_title": "Exclusion of evidence illegally obtained",
+    "description": "Evidence obtained through violation of constitutional rights or illegal means shall be excluded.",
+    "examples": [
+      "Forcibly obtained confessions excluded from trial.",
+      "Illegally seized documents inadmissible as evidence."
+    ]
+  },
+  {
+    "section_number": "162",
+    "section_title": "Non-consideration of irrelevant facts",
+    "description": "Irrelevant facts that do not assist in proving points at issue shall not be considered.",
+    "examples": [
+      "Ignoring unrelated personal background evidence.",
+      "Excluding anecdotal stories unrelated to charges."
+    ]
+  },
+  {
+    "section_number": "163",
+    "section_title": "Admissibility of electronic evidence",
+    "description": "Electronic evidence shall be admissible if it conforms to prescribed procedures for authenticity and integrity.",
+    "examples": [
+      "E-mails with proper digital signatures admitted.",
+      "Surveillance footage stored digitally used in prosecution."
+    ]
+  },
+  {
+    "section_number": "164",
+    "section_title": "Exclusion of documents without proper authentication",
+    "description": "Documents lacking prescribed authentication shall not be admitted in evidence.",
+    "examples": [
+      "Unauthenticated scanned documents excluded.",
+      "Unsigned electronic records rejected."
+    ]
+  },
+  {
+    "section_number": "165",
+    "section_title": "Proof of electronic records",
+    "description": "Rules governing the proof of authenticity and accuracy of electronic records.",
+    "examples": [
+      "Certificates verifying data integrity of electronic documents.",
+      "Chain of custody for electronical evidence maintained."
+    ]
+  },
+  {
+    "section_number": "166",
+    "section_title": "Judicial notice of digital documents",
+    "description": "Courts may take judicial notice of digital documents meeting specified criteria without requiring formal proof.",
+    "examples": [
+      "Considering government web publications as evidence.",
+      "Accepting digital government notifications."
+    ]
+  },
+  {
+    "section_number": "167",
+    "section_title": "Admissibility of electronic data message",
+    "description": "Electronic data messages sent and received in due course are admissible as evidence.",
+    "examples": [
+      "Instant messages exchanged related to contractual terms.",
+      "Texts submitted to show communication timeline."
+    ]
+  },
+  {
+    "section_number": "168",
+    "section_title": "Presumption as to electronic messages",
+    "description": "Presumption of genuineness applies to electronic messages transmitted through legitimate systems.",
+    "examples": [
+      "Emails from official accounts presumed authentic.",
+      "System-generated alerts taken as valid."
+    ]
+  },
+  {
+    "section_number": "169",
+    "section_title": "Disclosure of contents of electronic records",
+    "description": "Conditions under which the contents of electronic records can be disclosed in proceedings.",
+    "examples": [
+      "Court order for decryption of encrypted files.",
+      "Access granted to emails in investigation."
+    ]
+  },
+  {
+    "section_number": "170",
+    "section_title": "Miscellaneous provisions",
+    "description": "General rules governing the application and interpretation of the Act.",
+    "examples": [
+      "Application of rules to all courts except specified tribunals.",
+      "Clarifications on continuing validity of earlier provisions."
+    ]
+  }
+]

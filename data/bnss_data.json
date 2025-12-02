@@ -1,0 +1,1455 @@
+[
+  {
+    "section_number": "Section 1",
+    "section_title": "Short title, extent and commencement",
+    "description": "Defines the name of the Act as the Bharatiya Nagarik Suraksha Sanhita, 2023, specifies its territorial extent across India, and the date of commencement.",
+    "examples": [
+      "Legal proceedings commenced under BNSS post its commencement date.",
+      "Enforcement applies uniformly across all states and union territories."
+    ]
+  },
+  {
+    "section_number": "Section 2",
+    "section_title": "Definitions",
+    "description": "Provides meanings for key terms used throughout the Act such as 'court', 'investigating officer', 'accused', and 'public servant'.",
+    "examples": [
+      "Clarifying who qualifies as an 'investigating officer'.",
+      "Defining 'accused' to include persons charged with a criminal offence."
+    ]
+  },
+  {
+    "section_number": "Section 3",
+    "section_title": "Constitution of criminal courts",
+    "description": "Details the constitution and jurisdiction of various criminal courts under BNSS.",
+    "examples": [
+      "Establishment of Magistrate Courts for summary trials.",
+      "District Sessions Courts empowered for sessions trials."
+    ]
+  },
+  {
+    "section_number": "Section 4",
+    "section_title": "Powers of investigation",
+    "description": "Specifies powers granted to police and investigation officers for inquiry and investigation of offences.",
+    "examples": [
+      "Authority to arrest without warrant in cognizable offences.",
+      "Power to record statements, seize evidence during investigation."
+    ]
+  },
+  {
+    "section_number": "Section 5",
+    "section_title": "Procedure for arrest",
+    "description": "Regulates conditions and processes for lawful arrest of persons accused of offences.",
+    "examples": [
+      "Rights provided to arrested persons during custody.",
+      "Requirement to inform reasons and rights at the time of arrest."
+    ]
+  },
+  {
+    "section_number": "Section 6",
+    "section_title": "Bail and bonds",
+    "description": "Outlines conditions under which bail may be granted and the nature of bonds to ensure attendance at trial.",
+    "examples": [
+      "Bail provisions for non-serious offences.",
+      "Surety bonds in cases involving flight risk."
+    ]
+  },
+  {
+    "section_number": "Section 7",
+    "section_title": "Trial procedures",
+    "description": "Prescribes the procedural framework for conducting trials of various kinds under the Act.",
+    "examples": [
+      "Summary trials for petty offences conducted expeditiously.",
+      "Full trials with presentation of evidence and witness examination."
+    ]
+  },
+  {
+    "section_number": "Section 8",
+    "section_title": "Evidence and witnesses",
+    "description": "Rules regarding the collection, admissibility, and examination of evidence and witnesses.",
+    "examples": [
+      "Admissibility of electronic evidence secured per regulations.",
+      "Witness protection measures during trial."
+    ]
+  },
+  {
+    "section_number": "Section 9",
+    "section_title": "Rights of the accused",
+    "description": "Enumerates the rights afforded to accused persons to ensure fair trial and due process.",
+    "examples": [
+      "Right to legal counsel at every stage.",
+      "Right against self-incrimination."
+    ]
+  },
+  {
+    "section_number": "Section 10",
+    "section_title": "Victim's rights and compensation",
+    "description": "Provides for rights of victims including protection, assistance, and provisions for compensation.",
+    "examples": [
+      "Victim compensation fund established under BNSS.",
+      "Protective measures to prevent intimidation of victims."
+    ]
+  },
+  {
+    "section_number": "Section 11",
+    "section_title": "Investigation of cognizable offences",
+    "description": "Defines the procedures and authority for investigating cognizable offences by police.",
+    "examples": [
+      "Police conducting search and seizure without prior approval in cognizable cases.",
+      "Recording statements during investigation of serious offences."
+    ]
+  },
+  {
+    "section_number": "Section 12",
+    "section_title": "Non-cognizable offences",
+    "description": "Specifies handling and reporting requirements for non-cognizable offences.",
+    "examples": [
+      "Complaints requiring magistrate’s approval before police action.",
+      "Preventive measures in minor offences."
+    ]
+  },
+  {
+    "section_number": "Section 13",
+    "section_title": "Special courts and tribunals",
+    "description": "Provides for the constitution and jurisdiction of special courts for specific offences.",
+    "examples": [
+      "Cybercrime special courts convened for digital offences.",
+      "Special tribunals for economic offences."
+    ]
+  },
+  {
+    "section_number": "Section 14",
+    "section_title": "Summary trials",
+    "description": "Permits summary trials for petty offences with simplified procedures for quicker resolution.",
+    "examples": [
+      "Trials for minor public nuisance offences conducted summarily.",
+      "Reduced formalities for misdemeanor cases."
+    ]
+  },
+  {
+    "section_number": "Section 15",
+    "section_title": "Evidence collection standards",
+    "description": "Establishes standards and safeguards for the collection and preservation of evidence.",
+    "examples": [
+      "Chain of custody protocols for physical evidence.",
+      "Digital evidence collected adhering to IT security standards."
+    ]
+  },
+  {
+    "section_number": "Section 16",
+    "section_title": "Rights of arrested persons",
+    "description": "Specifies rights of persons arrested including prompt information, medical examination, and legal assistance.",
+    "examples": [
+      "Right to notify family of arrest within a specified timeframe.",
+      "Access to medical care after arrest."
+    ]
+  },
+  {
+    "section_number": "Section 17",
+    "section_title": "Bail provisions",
+    "description": "Details when and how bail may be granted, conditions applicable, and procedures involved.",
+    "examples": [
+      "Bail for non-violent offences subject to surety.",
+      "Denial of bail in cases involving serious threats to public safety."
+    ]
+  },
+  {
+    "section_number": "Section 18",
+    "section_title": "Judicial custody",
+    "description": "Conditions, rights, and duration related to judicial custody of accused persons.",
+    "examples": [
+      "Limits on duration for which accused may be held in custody.",
+      "Rights to humane treatment during confinement."
+    ]
+  },
+  {
+    "section_number": "Section 19",
+    "section_title": "Witness protection and support",
+    "description": "Provisions for protecting witnesses and providing them with necessary support during trials.",
+    "examples": [
+      "Provision of witness protection programs.",
+      "Emotional and legal support to vulnerable witnesses."
+    ]
+  },
+  {
+    "section_number": "Section 20",
+    "section_title": "Trial procedures and timelines",
+    "description": "Prescribes procedural steps and time limits for conducting trials to avoid undue delays.",
+    "examples": [
+      "Maximum duration for completing trials in magistrate’s courts.",
+      "Time-bound furnishing of evidence by parties."
+    ]
+  },
+  {
+    "section_number": "Section 21",
+    "section_title": "Judgments and orders",
+    "description": "Guidelines for pronouncing judgments and issuing orders post trial.",
+    "examples": [
+      "Requirement to record reasons for conviction or acquittal.",
+      "Issuance of interim orders during trials."
+    ]
+  },
+  {
+    "section_number": "Section 22",
+    "section_title": "Appeals and revisions",
+    "description": "Rights and procedures related to appeals and revisions against judgments and orders.",
+    "examples": [
+      "Filing of appeals within specified time after judgment.",
+      "Higher courts revising orders passed by lower courts."
+    ]
+  },
+  {
+    "section_number": "Section 23",
+    "section_title": "Compensation to victims",
+    "description": "Framework for awarding and disbursing compensation to victims of crimes.",
+    "examples": [
+      "Government compensation for victims of violent crimes.",
+      "Timely payment of compensation through victim assistance funds."
+    ]
+  },
+  {
+    "section_number": "Section 24",
+    "section_title": "Legal aid and assistance",
+    "description": "Provision of legal aid and assistance to accused or victims unable to afford representation.",
+    "examples": [
+      "Appointment of public defenders for indigent accused.",
+      "Legal advice centers for crime victims."
+    ]
+  },
+  {
+    "section_number": "Section 25",
+    "section_title": "Use of technology in investigation and trial",
+    "description": "Rules allowing the use of technological tools for investigation, evidence gathering, and trial processes.",
+    "examples": [
+      "Use of video conferencing for witness examination.",
+      "Digital recording of interrogations."
+    ]
+  },
+  {
+    "section_number": "Section 26",
+    "section_title": "Protection of human rights",
+    "description": "Ensures that all actions under the Act respect fundamental human rights and freedoms.",
+    "examples": [
+      "Prevention of torture or cruel treatment during custody.",
+      "Safeguards against unlawful detention."
+    ]
+  },
+  {
+    "section_number": "Section 27",
+    "section_title": "Accountability of police and authorities",
+    "description": "Mechanisms for holding police and other authorities accountable for violations or lapses.",
+    "examples": [
+      "Penalties for misuse of power during investigation.",
+      "Public grievance redressal systems for complaints against police."
+    ]
+  },
+  {
+    "section_number": "Section 28",
+    "section_title": "Offences and penalties",
+    "description": "List and description of offences covered under BNSS along with corresponding penalties.",
+    "examples": [
+      "Punishments for obstruction of justice.",
+      "Fines and incarceration terms for corruption."
+    ]
+  },
+  {
+    "section_number": "Section 29",
+    "section_title": "Emergencies and preventive measures",
+    "description": "Provisions enabling preventive action in public emergencies for maintaining law and order.",
+    "examples": [
+      "Imposition of curfews during riots.",
+      "Preventive detention in cases of imminent threat."
+    ]
+  },
+  {
+    "section_number": "Section 30",
+    "section_title": "Miscellaneous provisions",
+    "description": "Additional general provisions relating to the administration and enforcement of the Act.",
+    "examples": [
+      "Rules for delegation of powers.",
+      "Notices and communications under the Act."
+    ]
+  },
+  {
+    "section_number": "Section 31",
+    "section_title": "Special powers of authorities",
+    "description": "Grants special powers to designated authorities for maintaining public safety and order.",
+    "examples": [
+      "Authority to disperse unlawful assemblies.",
+      "Power to regulate large public gatherings."
+    ]
+  },
+  {
+    "section_number": "Section 32",
+    "section_title": "Regulation of arms and weapons",
+    "description": "Imposes control and licensing requirements for possession, sale, and use of arms and weapons.",
+    "examples": [
+      "Issuing firearm licenses with strict conditions.",
+      "Seizure of illegal weapons during enforcement actions."
+    ]
+  },
+  {
+    "section_number": "Section 33",
+    "section_title": "Handling of explosive substances",
+    "description": "Defines regulations concerning handling, storage, and transport of explosives.",
+    "examples": [
+      "Licensing requirements for commercial explosives.",
+      "Safety inspections of explosive storage facilities."
+    ]
+  },
+  {
+    "section_number": "Section 34",
+    "section_title": "Prohibition of unlawful activities",
+    "description": "Lists activities prohibited for reasons of public security and safety, with penalties for violations.",
+    "examples": [
+      "Ban on unauthorized protests in sensitive areas.",
+      "Penalties for possession of illicit substances."
+    ]
+  },
+  {
+    "section_number": "Section 35",
+    "section_title": "Safety protocols for public transport",
+    "description": "Mandates safety measures and regulatory oversight for public transportation systems.",
+    "examples": [
+      "Mandatory vehicle inspections for public buses.",
+      "Safety training for transport personnel."
+    ]
+  },
+  {
+    "section_number": "Section 36",
+    "section_title": "Cybersecurity provisions",
+    "description": "Establishes norms and enforcement mechanism to ensure cybersecurity and combat cybercrime.",
+    "examples": [
+      "Regulation of cyber cafes and internet providers.",
+      "Monitoring and prosecution of hacking activities."
+    ]
+  },
+  {
+    "section_number": "Section 37",
+    "section_title": "Disaster management and relief",
+    "description": "Defines responsibilities for disaster response, relief coordination, and public safety during emergencies.",
+    "examples": [
+      "Establishment of disaster response teams.",
+      "Protocols for evacuation during natural calamities."
+    ]
+  },
+  {
+    "section_number": "Section 38",
+    "section_title": "Environmental protection measures",
+    "description": "Includes provisions to protect environment in the interest of public health and safety.",
+    "examples": [
+      "Regulations against illegal dumping of hazardous waste.",
+      "Monitoring pollution levels in industrial areas."
+    ]
+  },
+  {
+    "section_number": "Section 39",
+    "section_title": "Public health safety regulations",
+    "description": "Rules to maintain public health safety in contexts such as epidemics and sanitation.",
+    "examples": [
+      "Mandatory quarantine orders during infectious disease outbreaks.",
+      "Inspection of food establishments for hygiene."
+    ]
+  },
+  {
+    "section_number": "Section 40",
+    "section_title": "Inspection and enforcement powers",
+    "description": "Empowers officers to conduct inspections and enforce compliance with BNSS provisions.",
+    "examples": [
+      "Inspection of factories for labour safety compliance.",
+      "Seizure of contraband during raids."
+    ]
+  },
+  {
+    "section_number": "Section 41",
+    "section_title": "Licensing and permits",
+    "description": "Establishes licensing framework for activities affecting public safety.",
+    "examples": [
+      "Permits for public events and gatherings.",
+      "Licenses for handling hazardous materials."
+    ]
+  },
+  {
+    "section_number": "Section 42",
+    "section_title": "Penalties and prosecution",
+    "description": "Specifies penalties, fines, and prosecution procedures for violation of BNSS provisions.",
+    "examples": [
+      "Fines for non-compliance with safety mandates.",
+      "Criminal prosecution for intentional breaches."
+    ]
+  },
+  {
+    "section_number": "Section 43",
+    "section_title": "Appeals and reviews",
+    "description": "Provides processes for appeals and judicial review of decisions under BNSS.",
+    "examples": [
+      "Appealing a denial of a safety permit.",
+      "Judicial review of enforcement actions."
+    ]
+  },
+  {
+    "section_number": "Section 44",
+    "section_title": "Collaboration with other agencies",
+    "description": "Enables cooperation between BNSS authorities and other government or private agencies.",
+    "examples": [
+      "Coordination with disaster management authorities.",
+      "Joint operations with law enforcement agencies."
+    ]
+  },
+  {
+    "section_number": "Section 45",
+    "section_title": "Public awareness and education",
+    "description": "Mandates programs to educate citizens on safety, security, and legal rights.",
+    "examples": [
+      "Drives to increase awareness about cyber safety.",
+      "Community workshops on disaster preparedness."
+    ]
+  },
+  {
+    "section_number": "Section 46",
+    "section_title": "Research and development",
+    "description": "Encourages research initiatives for improving public safety technologies and methodologies.",
+    "examples": [
+      "Funding for development of early warning systems.",
+      "Studies on urban safety infrastructure."
+    ]
+  },
+  {
+    "section_number": "Section 47",
+    "section_title": "Use of information technology",
+    "description": "Advocates leveraging IT tools for crime prevention, investigations, and public safety monitoring.",
+    "examples": [
+      "Implementation of surveillance systems using AI.",
+      "Digitization of records for faster access."
+    ]
+  },
+  {
+    "section_number": "Section 48",
+    "section_title": "Monitoring and evaluation",
+    "description": "Establishes monitoring mechanisms to evaluate effectiveness of BNSS implementation.",
+    "examples": [
+      "Periodic audit reports on enforcement activities.",
+      "Feedback systems for victim support evaluations."
+    ]
+  },
+  {
+    "section_number": "Section 49",
+    "section_title": "Funding and resources",
+    "description": "Allocates funding for implementation and enforcement of the Act’s provisions.",
+    "examples": [
+      "Grants for police training programs.",
+      "Budget allocation for public safety infrastructure."
+    ]
+  },
+  {
+    "section_number": "Section 50",
+    "section_title": "Miscellaneous provisions",
+    "description": "Covers additional provisions related to the Act’s administration, powers, and penalties.",
+    "examples": [
+      "Delegation of powers to competent authorities.",
+      "Rules for notices, reports, and record keeping."
+    ]
+  },
+  {
+    "section_number": "Section 51",
+    "section_title": "Establishment of Security Committees",
+    "description": "Provides for the constitution of security committees at various levels to oversee public safety and coordinate enforcement efforts.",
+    "examples": [
+      "District Security Committees coordinating law and order in local areas.",
+      "State Security Committees advising on policing policies."
+    ]
+  },
+  {
+    "section_number": "Section 52",
+    "section_title": "Functions of Security Committees",
+    "description": "Details the responsibilities and powers of the constituted security committees.",
+    "examples": [
+      "Review of crime statistics and preventive measures.",
+      "Formulating strategies for emergency response."
+    ]
+  },
+  {
+    "section_number": "Section 53",
+    "section_title": "Appointment of Security Officers",
+    "description": "Outlines procedures for appointing security officers responsible for enforcement at various jurisdiction levels.",
+    "examples": [
+      "Designation of local security officers for specific zones.",
+      "Appointment of special task force leaders."
+    ]
+  },
+  {
+    "section_number": "Section 54",
+    "section_title": "Powers and duties of Security Officers",
+    "description": "Defines the powers vested in security officers and their duties in maintaining law and order.",
+    "examples": [
+      "Authority to conduct area patrols and surveillance.",
+      "Power to make arrests within jurisdiction."
+    ]
+  },
+  {
+    "section_number": "Section 55",
+    "section_title": "Training and capacity building",
+    "description": "Mandates specialized training programs for security personnel to enhance skills and effectiveness.",
+    "examples": [
+      "Workshops on cybercrime investigation techniques.",
+      "Training on crowd management during public events."
+    ]
+  },
+  {
+    "section_number": "Section 56",
+    "section_title": "Citizen reporting mechanisms",
+    "description": "Establishes systems to facilitate reporting of crimes and safety concerns by citizens.",
+    "examples": [
+      "Hotlines for immediate reporting of emergencies.",
+      "Digital platforms for lodging complaints."
+    ]
+  },
+  {
+    "section_number": "Section 57",
+    "section_title": "Protection of whistleblowers",
+    "description": "Provides legal protections to individuals reporting unlawful or unethical activities.",
+    "examples": [
+      "Safeguards against retaliation for reporting misconduct.",
+      "Anonymity provisions for whistleblowers."
+    ]
+  },
+  {
+    "section_number": "Section 58",
+    "section_title": "Public-private partnerships for safety",
+    "description": "Encourages collaboration between government and private entities to enhance public security.",
+    "examples": [
+      "Private security firms assisting in patrolling.",
+      "Technology partnerships for surveillance systems."
+    ]
+  },
+  {
+    "section_number": "Section 59",
+    "section_title": "Use of drones and surveillance technology",
+    "description": "Regulates the deployment of drones and other surveillance tech for monitoring public areas.",
+    "examples": [
+      "Drone surveillance during large public gatherings.",
+      "Use of CCTV cameras extended to sensitive zones."
+    ]
+  },
+  {
+    "section_number": "Section 60",
+    "section_title": "Community policing initiatives",
+    "description": "Promotes programs that foster cooperation between police and community members to prevent crime.",
+    "examples": [
+      "Neighborhood watch groups.",
+      "Police-community dialogues to address local issues."
+    ]
+  },
+  {
+    "section_number": "Section 61",
+    "section_title": "Emergency medical services",
+    "description": "Mandates availability and coordination of emergency medical services in crisis situations.",
+    "examples": [
+      "Ambulance services at accident sites.",
+      "Emergency medical response during disasters."
+    ]
+  },
+  {
+    "section_number": "Section 62",
+    "section_title": "Disaster response protocols",
+    "description": "Defines standardized procedures for response and recovery during natural or man-made disasters.",
+    "examples": [
+      "Evacuation plans for flood-prone areas.",
+      "Coordination between agencies during earthquakes."
+    ]
+  },
+  {
+    "section_number": "Section 63",
+    "section_title": "Management of public spaces",
+    "description": "Guidelines for safety and security management in public spaces like parks, markets, and transportation hubs.",
+    "examples": [
+      "Security personnel deployed at train stations.",
+      "Crowd control during festivals in public parks."
+    ]
+  },
+  {
+    "section_number": "Section 64",
+    "section_title": "Fire safety regulations",
+    "description": "Outlines safety standards, preventive measures, and enforcement related to fire hazards.",
+    "examples": [
+      "Inspection of electrical wiring in commercial buildings.",
+      "Installation of fire extinguishers in public areas."
+    ]
+  },
+  {
+    "section_number": "Section 65",
+    "section_title": "Handling of hazardous materials",
+    "description": "Regulates safe handling, storage, and disposal of hazardous substances to protect public health.",
+    "examples": [
+      "Licensing for chemical storage facilities.",
+      "Protocols for transport of explosive materials."
+    ]
+  },
+  {
+    "section_number": "Section 66",
+    "section_title": "Noise pollution control",
+    "description": "Measures to control noise pollution to ensure peace and public health.",
+    "examples": [
+      "Limits on noise levels during night hours.",
+      "Regulations on use of loudspeakers and fireworks."
+    ]
+  },
+  {
+    "section_number": "Section 67",
+    "section_title": "Water and air quality monitoring",
+    "description": "Standards and regular monitoring mechanisms for maintaining water and air quality.",
+    "examples": [
+      "Sampling and testing of water bodies for contaminants.",
+      "Air quality index monitoring in urban areas."
+    ]
+  },
+  {
+    "section_number": "Section 68",
+    "section_title": "Public sanitation and hygiene",
+    "description": "Regulations to maintain sanitation standards in public places and reduce health risks.",
+    "examples": [
+      "Management of public toilets and waste disposal.",
+      "Campaigns for cleanliness in markets."
+    ]
+  },
+  {
+    "section_number": "Section 69",
+    "section_title": "Control of contagious diseases",
+    "description": "Protocols and measures for prevention and control of contagious diseases in public and institutional settings.",
+    "examples": [
+      "Quarantine procedures during disease outbreaks.",
+      "Vaccination drives in affected localities."
+    ]
+  },
+  {
+    "section_number": "Section 70",
+    "section_title": "Environmental impact assessments",
+    "description": "Mandates assessments of environmental impacts for projects with public safety implications.",
+    "examples": [
+      "Impact study before construction of highways.",
+      "Environmental clearance for industrial plants."
+    ]
+  },
+  {
+    "section_number": "Section 71",
+    "section_title": "Security in critical infrastructure",
+    "description": "Measures for safeguarding critical infrastructure vital to national security and public safety.",
+    "examples": [
+      "Deployment of security personnel at power plants.",
+      "Surveillance of transportation and communication networks."
+    ]
+  },
+  {
+    "section_number": "Section 72",
+    "section_title": "Regulation of private security agencies",
+    "description": "Licensing, regulation, and oversight of private security service providers.",
+    "examples": [
+      "Requirement for private agencies to register with authorities.",
+      "Inspection of training and conduct of private security guards."
+    ]
+  },
+  {
+    "section_number": "Section 73",
+    "section_title": "Use of force by security personnel",
+    "description": "Defines circumstances and limits for lawful use of force by authorized security personnel.",
+    "examples": [
+      "Force used for self-defense and protection of property.",
+      "Prohibition of excessive or fatal force unless justified."
+    ]
+  },
+  {
+    "section_number": "Section 74",
+    "section_title": "Management of public emergencies",
+    "description": "Protocols for managing emergencies including natural disasters, civil unrest, and outbreaks.",
+    "examples": [
+      "Activation of emergency response teams.",
+      "Coordination with disaster relief agencies."
+    ]
+  },
+  {
+    "section_number": "Section 75",
+    "section_title": "Public participation in safety initiatives",
+    "description": "Encourages citizen participation and awareness in matters of public safety and security.",
+    "examples": [
+      "Community policing and neighborhood watch programs.",
+      "Public safety education campaigns."
+    ]
+  },
+  {
+    "section_number": "Section 76",
+    "section_title": "Information sharing and intelligence",
+    "description": "Framework for sharing intelligence among agencies to enhance preventive and responsive capabilities.",
+    "examples": [
+      "Inter-agency databases for tracking criminal activities.",
+      "Timely dissemination of threat alerts."
+    ]
+  },
+  {
+    "section_number": "Section 77",
+    "section_title": "Protection of vulnerable groups",
+    "description": "Special provisions for the protection of children, women, elderly, and differently-abled persons.",
+    "examples": [
+      "Dedicated support services for victims of abuse.",
+      "Safe zones and shelters for vulnerable populations."
+    ]
+  },
+  {
+    "section_number": "Section 78",
+    "section_title": "Regulation of protests and assemblies",
+    "description": "Rules governing the conduct, permissions, and restrictions on public protests and assemblies.",
+    "examples": [
+      "Requirement of prior notice for marches.",
+      "Restrictions on assembly near sensitive locations."
+    ]
+  },
+  {
+    "section_number": "Section 79",
+    "section_title": "Management of public utilities",
+    "description": "Ensures uninterrupted operation and safety of public utilities such as water, electricity, and transport.",
+    "examples": [
+      "Contingency planning for power outages.",
+      "Safety protocols for water treatment plants."
+    ]
+  },
+  {
+    "section_number": "Section 80",
+    "section_title": "Regulatory compliance monitoring",
+    "description": "Regular monitoring and evaluation of compliance with BNSS standards and rules.",
+    "examples": [
+      "Inspections of factories for adherence to safety laws.",
+      "Auditing security protocols of public institutions."
+    ]
+  },
+  {
+    "section_number": "Section 81",
+    "section_title": "Penalties for non-compliance",
+    "description": "Specifies penalties and sanctions for violations of provisions under BNSS.",
+    "examples": [
+      "Fines for non-compliance with safety inspections.",
+      "Suspension of licenses for repeated violations."
+    ]
+  },
+  {
+    "section_number": "Section 82",
+    "section_title": "Reporting and record-keeping",
+    "description": "Mandates maintenance of records and timely reporting of incidents and enforcement actions.",
+    "examples": [
+      "Incident logs maintained by security departments.",
+      "Reports of arrests and investigations."
+    ]
+  },
+  {
+    "section_number": "Section 83",
+    "section_title": "Coordination with disaster management authorities",
+    "description": "Requires coordination between BNSS authorities and disaster management agencies for effective response.",
+    "examples": [
+      "Joint drills between security forces and disaster response teams.",
+      "Sharing of resource inventory during calamities."
+    ]
+  },
+  {
+    "section_number": "Section 84",
+    "section_title": "Public safety drills and exercises",
+    "description": "Guidelines for conducting public safety drills involving authorities and communities.",
+    "examples": [
+      "Earthquake evacuation drills in schools.",
+      "Fire safety training at public venues."
+    ]
+  },
+  {
+    "section_number": "Section 85",
+    "section_title": "Emergency communication systems",
+    "description": "Establishes emergency communication networks for rapid information dissemination.",
+    "examples": [
+      "Alert systems for natural disasters.",
+      "Dedicated emergency response hotlines."
+    ]
+  },
+  {
+    "section_number": "Section 86",
+    "section_title": "Cybersecurity awareness and capacity building",
+    "description": "Programs to build awareness and capacity to tackle cyber threats among officials and citizens.",
+    "examples": [
+      "Workshops on phishing scams prevention.",
+      "Training officials on cyber incident response."
+    ]
+  },
+  {
+    "section_number": "Section 87",
+    "section_title": "Technology adoption and innovation",
+    "description": "Encourages adoption of innovative technologies for enhancing security and safety.",
+    "examples": [
+      "Deployment of AI in surveillance analytics.",
+      "Use of blockchain for secure records."
+    ]
+  },
+  {
+    "section_number": "Section 88",
+    "section_title": "Grievance redress mechanisms",
+    "description": "Establishes mechanisms to address grievances related to enforcement and public safety processes.",
+    "examples": [
+      "Public complaint portals for reporting lapses.",
+      "Ombudsman offices for investigation of complaints."
+    ]
+  },
+  {
+    "section_number": "Section 89",
+    "section_title": "Interstate coordination",
+    "description": "Framework for coordination among states and union territories in enforcing BNSS provisions.",
+    "examples": [
+      "Joint task forces for cross-border crime prevention.",
+      "Sharing of intelligence on organized crime."
+    ]
+  },
+  {
+    "section_number": "Section 90",
+    "section_title": "International cooperation",
+    "description": "Provisions for cooperation with other countries on matters relating to security and enforcement.",
+    "examples": [
+      "Extradition agreements for offenders.",
+      "Collaboration on transnational crime investigations."
+    ]
+  },
+  {
+    "section_number": "Section 91",
+    "section_title": "Training and development of personnel",
+    "description": "Mandates continuous training and capacity-building measures for security and law enforcement personnel.",
+    "examples": [
+      "Organizing refresher courses on human rights.",
+      "Training on use of non-lethal force techniques."
+    ]
+  },
+  {
+    "section_number": "Section 92",
+    "section_title": "Data protection and privacy",
+    "description": "Ensures protection of personal data collected during enforcement and investigation activities.",
+    "examples": [
+      "Restrictions on sharing personal details of suspects.",
+      "Guidelines for secure storage of surveillance footage."
+    ]
+  },
+  {
+    "section_number": "Section 93",
+    "section_title": "Community outreach programs",
+    "description": "Encourages building trust between authorities and communities through outreach and collaboration.",
+    "examples": [
+      "Safety awareness seminars in schools.",
+      "Engagement programs in marginalized communities."
+    ]
+  },
+  {
+    "section_number": "Section 94",
+    "section_title": "Periodic audits and inspections",
+    "description": "Calls for regular audits and inspections of security and public safety departments.",
+    "examples": [
+      "Annual audit of police custody practices.",
+      "Inspection of emergency response infrastructure."
+    ]
+  },
+  {
+    "section_number": "Section 95",
+    "section_title": "Research grants and funding",
+    "description": "Provision of funds and grants for research in public safety and security-related fields.",
+    "examples": [
+      "Funding studies in predictive policing.",
+      "Support for technology innovations in emergency response."
+    ]
+  },
+  {
+    "section_number": "Section 96",
+    "section_title": "Innovation hubs and pilot projects",
+    "description": "Creation of centers to pilot new safety technologies and strategies.",
+    "examples": [
+      "Testing AI-based crowd monitoring systems.",
+      "Pilot community policing programs using mobile apps."
+    ]
+  },
+  {
+    "section_number": "Section 97",
+    "section_title": "Use of social media for safety communications",
+    "description": "Facilitates the use of social media platforms for public safety messaging and community engagement.",
+    "examples": [
+      "Real-time alerts about traffic disruptions via Twitter.",
+      "Public advisories about scams circulated on Facebook."
+    ]
+  },
+  {
+    "section_number": "Section 98",
+    "section_title": "Emergency helpline services",
+    "description": "Establishes dedicated helpline services for various emergency and safety issues.",
+    "examples": [
+      "24/7 police emergency contact numbers.",
+      "Women’s helpline for reporting abuse or threats."
+    ]
+  },
+  {
+    "section_number": "Section 99",
+    "section_title": "Disaster relief fund",
+    "description": "Creation and maintenance of a fund to provide financial aid during disasters and emergencies.",
+    "examples": [
+      "Fund disbursement for flood victims.",
+      "Support payments for families affected by earthquakes."
+    ]
+  },
+  {
+    "section_number": "Section 100",
+    "section_title": "Grants to non-governmental organizations",
+    "description": "Authorizes grants to NGOs working in public safety, disaster relief, and victim assistance.",
+    "examples": [
+      "Funding shelters for domestic abuse victims.",
+      "Support to NGOs for disaster preparedness training."
+    ]
+  },
+  {
+    "section_number": "Section 101",
+    "section_title": "Public reporting and transparency",
+    "description": "Mandates publication of reports and statistics related to public safety and enforcement activities.",
+    "examples": [
+      "Annual crime statistics published online.",
+      "Public disclosures of safety audit results."
+    ]
+  },
+  {
+    "section_number": "Section 102",
+    "section_title": "Review and amendment of rules",
+    "description": "Provision for periodic review and amendment of rules and regulations under BNSS.",
+    "examples": [
+      "Updating safety protocols in response to new threats.",
+      "Revision of licensing requirements."
+    ]
+  },
+  {
+    "section_number": "Section 103",
+    "section_title": "International treaties and obligations",
+    "description": "Ensures compliance with international treaties and commitments relevant to public security.",
+    "examples": [
+      "Implementation of UN conventions on terrorism.",
+      "Adherence to global cybersecurity standards."
+    ]
+  },
+  {
+    "section_number": "Section 104",
+    "section_title": "Coordination with central agencies",
+    "description": "Defines mechanisms for cooperation between central government agencies and state/local authorities.",
+    "examples": [
+      "Joint task forces on organized crime.",
+      "Information sharing on terrorism threats."
+    ]
+  },
+  {
+    "section_number": "Section 105",
+    "section_title": "Accountability and oversight",
+    "description": "Establishes bodies for monitoring, investigation, and accountability in enforcement operations.",
+    "examples": [
+      "Independent commissions reviewing police conduct.",
+      "Ombudsman handling citizen complaints about abuses."
+    ]
+  },
+  {
+    "section_number": "Section 106",
+    "section_title": "Legal immunity and protection",
+    "description": "Provides legal protection to officers acting in good faith within the scope of their duties.",
+    "examples": [
+      "Protection from lawsuits for lawful enforcement actions.",
+      "Immunity during disaster response operations."
+    ]
+  },
+  {
+    "section_number": "Section 107",
+    "section_title": "Compensation for wrongful actions",
+    "description": "Mechanisms for compensating persons wrongfully harmed during enforcement or investigations.",
+    "examples": [
+      "Payment for unlawful detention.",
+      "Compensation to families of victims of police misconduct."
+    ]
+  },
+  {
+    "section_number": "Section 108",
+    "section_title": "Protection of witnesses and informants",
+    "description": "Further elaborates on measures to protect individuals providing information or testimony.",
+    "examples": [
+      "Witness anonymity during trials.",
+      "Security arrangements for informants of organized crime."
+    ]
+  },
+  {
+    "section_number": "Section 109",
+    "section_title": "Enforcement of the Act",
+    "description": "Specifies authorities responsible for enforcement of BNSS and their powers.",
+    "examples": [
+      "Designation of enforcement officers in districts.",
+      "Authority to execute inquiries and legal procedures."
+    ]
+  },
+  {
+    "section_number": "Section 110",
+    "section_title": "Penalties for obstructing enforcement",
+    "description": "Penalizes actions that obstruct or hinder enforcement of BNSS provisions.",
+    "examples": [
+      "Fines for obstructing police investigations.",
+      "Imprisonment for tampering with evidence."
+    ]
+  },
+  {
+    "section_number": "Section 111",
+    "section_title": "Investigation procedures",
+    "description": "Defines protocols and timelines governing the investigation of reported offences.",
+    "examples": [
+      "Initial filing of FIR and registration of cases.",
+      "Time-bound submission of investigation reports."
+    ]
+  },
+  {
+    "section_number": "Section 112",
+    "section_title": "Search and seizure",
+    "description": "Regulations regarding the lawful conduct of search and seizure operations.",
+    "examples": [
+      "Obtaining search warrants before entry.",
+      "Procedures for documenting seized property."
+    ]
+  },
+  {
+    "section_number": "Section 113",
+    "section_title": "Arrest and custody",
+    "description": "Laws and safeguards related to the arrest and custody of accused individuals.",
+    "examples": [
+      "Rights of arrested persons to legal counsel.",
+      "Maximum duration of police custody without judicial approval."
+    ]
+  },
+  {
+    "section_number": "Section 114",
+    "section_title": "Bail process",
+    "description": "Rules guiding bail applications, conditions, and release of accused persons.",
+    "examples": [
+      "Criteria for granting bail in various offences.",
+      "Conditions imposed to ensure attendance at trial."
+    ]
+  },
+  {
+    "section_number": "Section 115",
+    "section_title": "Trial court procedures",
+    "description": "Detailed procedural rules for trial courts to conduct fair and efficient trials.",
+    "examples": [
+      "Presentation of prosecution and defense evidence.",
+      "Examination and cross-examination of witnesses."
+    ]
+  },
+  {
+    "section_number": "Section 116",
+    "section_title": "Judgments and sentencing",
+    "description": "Standardizes the process for delivering judgments, sentencing, and recording reasons for decisions.",
+    "examples": [
+      "Written verdict specifying grounds of conviction or acquittal.",
+      "Imposition of punishment consistent with offence severity."
+    ]
+  },
+  {
+    "section_number": "Section 117",
+    "section_title": "Appeals and reviews",
+    "description": "Framework for appealing judgments and seeking review at higher courts.",
+    "examples": [
+      "Time-limits for filing appeals post judgment.",
+      "Grounds under which review petitions can be admitted."
+    ]
+  },
+  {
+    "section_number": "Section 118",
+    "section_title": "Execution of sentences",
+    "description": "Procedures concerning the carrying out of punishments and fines.",
+    "examples": [
+      "Enforcement of imprisonment orders.",
+      "Collection of fines and penalties."
+    ]
+  },
+  {
+    "section_number": "Section 119",
+    "section_title": "Preventive detention",
+    "description": "Conditions and safeguards for detaining persons to prevent potential crimes.",
+    "examples": [
+      "Detention upon credible evidence of threat to public safety.",
+      "Periodical review of detention orders."
+    ]
+  },
+  {
+    "section_number": "Section 120",
+    "section_title": "Rehabilitation and reintegration",
+    "description": "Measures to support the rehabilitation of offenders and their reintegration into society.",
+    "examples": [
+      "Vocational training programs for released detainees.",
+      "Counseling and social support services."
+    ]
+  },
+  {
+    "section_number": "Section 121",
+    "section_title": "Right to legal assistance",
+    "description": "Guarantees access to legal counsel for accused and victims throughout legal proceedings.",
+    "examples": [
+      "Provision of public defenders for indigent accused.",
+      "Legal aid clinics for crime victims."
+    ]
+  },
+  {
+    "section_number": "Section 122",
+    "section_title": "Victim compensation schemes",
+    "description": "Creates systems for compensating victims for losses or trauma caused by crimes.",
+    "examples": [
+      "Monetary relief to families of deceased victims.",
+      "Medical expense reimbursement for injury victims."
+    ]
+  },
+  {
+    "section_number": "Section 123",
+    "section_title": "Community policing programs",
+    "description": "Programs encouraging collaboration between police and communities for crime prevention.",
+    "examples": [
+      "Neighborhood watch initiatives.",
+      "Joint community-police safety meetings."
+    ]
+  },
+  {
+    "section_number": "Section 124",
+    "section_title": "Public awareness campaigns",
+    "description": "Mandates awareness campaigns for educating public about safety and legal rights.",
+    "examples": [
+      "Anti-cybercrime awareness drives in schools.",
+      "Information dissemination on traffic safety laws."
+    ]
+  },
+  {
+    "section_number": "Section 125",
+    "section_title": "Use of technology for crime prevention",
+    "description": "Encourages adoption of technologies such as surveillance and data analytics.",
+    "examples": [
+      "Installing CCTV cameras in vulnerable areas.",
+      "AI-based predictive policing systems."
+    ]
+  },
+  {
+    "section_number": "Section 126",
+    "section_title": "Emergency response systems",
+    "description": "Framework for rapid response to emergencies involving multiple agencies.",
+    "examples": [
+      "Activation of rapid response teams during terrorist threats.",
+      "Coordinated medical and fire response to accidents."
+    ]
+  },
+  {
+    "section_number": "Section 127",
+    "section_title": "Monitoring and evaluation",
+    "description": "Regular monitoring of enforcement performance and public safety outcomes.",
+    "examples": [
+      "Annual performance reports of security agencies.",
+      "Public satisfaction surveys on law enforcement."
+    ]
+  },
+  {
+    "section_number": "Section 128",
+    "section_title": "Training standards and certifications",
+    "description": "Sets minimum standards for training and certification of law enforcement personnel.",
+    "examples": [
+      "Mandatory certification courses for new recruits.",
+      "Continuing education requirements for officers."
+    ]
+  },
+  {
+    "section_number": "Section 129",
+    "section_title": "Coordination with international organizations",
+    "description": "Mechanisms for cooperation with international bodies and compliance with treaties.",
+    "examples": [
+      "Participation in INTERPOL activities.",
+      "Implementation of UN anti-terrorism resolutions."
+    ]
+  },
+  {
+    "section_number": "Section 130",
+    "section_title": "Financial management and auditing",
+    "description": "Rules for managing funds and auditing expenditures related to BNSS implementation.",
+    "examples": [
+      "Annual audits of public safety budgets.",
+      "Transparency in grant utilization."
+    ]
+  },
+  {
+    "section_number": "Section 131",
+    "section_title": "Public grievance redressal",
+    "description": "Establishes mechanisms to address grievances from the public regarding safety and enforcement.",
+    "examples": [
+      "Grievance portals for complaints against security personnel.",
+      "Timely resolution processes for public safety concerns."
+    ]
+  },
+  {
+    "section_number": "Section 132",
+    "section_title": "Protection of whistleblowers",
+    "description": "Provides safeguards to individuals reporting corruption or malpractices within enforcement agencies.",
+    "examples": [
+      "Anonymity provisions for whistleblowers.",
+      "Protection against retaliation or victimization."
+    ]
+  },
+  {
+    "section_number": "Section 133",
+    "section_title": "Confidentiality of investigations",
+    "description": "Ensures confidentiality and discretion in ongoing investigations to protect integrity and privacy.",
+    "examples": [
+      "Restrictions on disclosing details of active cases.",
+      "Non-disclosure of identity of witnesses."
+    ]
+  },
+  {
+    "section_number": "Section 134",
+    "section_title": "Community engagement initiatives",
+    "description": "Promotes active engagement between communities and safety agencies to build trust and cooperation.",
+    "examples": [
+      "Town halls with police commanders.",
+      "Youth safety education programs."
+    ]
+  },
+  {
+    "section_number": "Section 135",
+    "section_title": "Use of force regulations",
+    "description": "Details acceptable use and limits of force by security personnel in various scenarios.",
+    "examples": [
+      "Guidelines for crowd control tactics.",
+      "Restrictions on use of firearms."
+    ]
+  },
+  {
+    "section_number": "Section 136",
+    "section_title": "Surveillance and monitoring guidelines",
+    "description": "Regulates lawful surveillance and monitoring activities balancing security and privacy.",
+    "examples": [
+      "Court approvals for wiretapping.",
+      "Data protection during video surveillance."
+    ]
+  },
+  {
+    "section_number": "Section 137",
+    "section_title": "Regulation of security equipment",
+    "description": "Controls procurement, usage, and maintenance of security equipment and technologies.",
+    "examples": [
+      "Standards for body cameras used by police.",
+      "Certification of surveillance devices."
+    ]
+  },
+  {
+    "section_number": "Section 138",
+    "section_title": "Victim support services",
+    "description": "Provision of counseling, shelter, and rehabilitation services to crime victims.",
+    "examples": [
+      "24/7 helpline for domestic violence victims.",
+      "Shelters for trafficking survivors."
+    ]
+  },
+  {
+    "section_number": "Section 139",
+    "section_title": "Coordination with health services",
+    "description": "Integration of health services in emergency and disaster response plans.",
+    "examples": [
+      "Rapid medical response teams during mass casualty events.",
+      "Mental health support for trauma victims."
+    ]
+  },
+  {
+    "section_number": "Section 140",
+    "section_title": "Youth crime prevention programs",
+    "description": "Initiatives aimed at preventing juvenile delinquency and promoting positive youth engagement.",
+    "examples": [
+      "After-school crime awareness programs.",
+      "Mentorship schemes for at-risk youth."
+    ]
+  },
+  {
+    "section_number": "Section 141",
+    "section_title": "Disaster preparedness education",
+    "description": "Educational campaigns and drills to prepare communities for natural and man-made emergencies.",
+    "examples": [
+      "Annual earthquake preparedness drills.",
+      "Public notices on flood safety measures."
+    ]
+  },
+  {
+    "section_number": "Section 142",
+    "section_title": "Environmental hazard notifications",
+    "description": "Protocols for timely notification and management of environmental hazards affecting public safety.",
+    "examples": [
+      "Alerts on chemical spills in industrial areas.",
+      "Public advisories on air quality alerts."
+    ]
+  },
+  {
+    "section_number": "Section 143",
+    "section_title": "Public health emergency response",
+    "description": "Guidelines for coordinated response to epidemics and other public health crises.",
+    "examples": [
+      "Quarantine enforcement during disease outbreaks.",
+      "Distribution of vaccines in affected areas."
+    ]
+  },
+  {
+    "section_number": "Section 144",
+    "section_title": "Regulation of hazardous industries",
+    "description": "Safety and operational standards for industries handling hazardous materials.",
+    "examples": [
+      "Mandatory safety audits for chemical plants.",
+      "Employee safety training requirements."
+    ]
+  },
+  {
+    "section_number": "Section 145",
+    "section_title": "Urban safety initiatives",
+    "description": "Programs focused on enhancing safety in urban areas including traffic, public spaces, and housing.",
+    "examples": [
+      "Pedestrian safety campaigns.",
+      "Installation of street lighting in vulnerable neighborhoods."
+    ]
+  },
+  {
+    "section_number": "Section 146",
+    "section_title": "Rural safety and outreach",
+    "description": "Special measures to address safety challenges faced by rural communities.",
+    "examples": [
+      "Mobile safety units in remote areas.",
+      "Awareness drives on agricultural hazards."
+    ]
+  },
+  {
+    "section_number": "Section 147",
+    "section_title": "Traffic management and enforcement",
+    "description": "Regulations and enforcement related to road safety and traffic control.",
+    "examples": [
+      "Speed limit enforcement by traffic police.",
+      "Penalties for dangerous driving."
+    ]
+  },
+  {
+    "section_number": "Section 148",
+    "section_title": "Transport safety regulations",
+    "description": "Rules for ensuring safety in public and private transportation systems.",
+    "examples": [
+      "Vehicle fitness certifications.",
+      "Driver training and licensing standards."
+    ]
+  },
+  {
+    "section_number": "Section 149",
+    "section_title": "Hazardous waste management",
+    "description": "Guidelines for disposal and management of hazardous waste to protect environment and health.",
+    "examples": [
+      "Proper labeling and containment of toxic waste.",
+      "Penalties for illegal dumping."
+    ]
+  },
+  {
+    "section_number": "Section 150",
+    "section_title": "Community disaster resilience",
+    "description": "Capacity-building programs to enhance resilience of communities against disasters.",
+    "examples": [
+      "Training local volunteers for first response.",
+      "Developing community evacuation plans."
+    ]
+  },
+  {
+    "section_number": "Section 151",
+    "section_title": "Fire prevention and control",
+    "description": "Measures for preventing fire incidents and managing fire emergencies.",
+    "examples": [
+      "Fire safety audits in commercial buildings.",
+      "Public education on fire safety practices."
+    ]
+  },
+  {
+    "section_number": "Section 152",
+    "section_title": "Regulation of public health facilities",
+    "description": "Standards and oversight for hospitals and clinics to ensure safety and quality care.",
+    "examples": [
+      "Licensing requirements for healthcare facilities.",
+      "Inspection of sanitation and medical waste disposal."
+    ]
+  },
+  {
+    "section_number": "Section 153",
+    "section_title": "Safety in educational institutions",
+    "description": "Regulations to safeguard the health and security of students and staff in schools and colleges.",
+    "examples": [
+      "Emergency preparedness drills in schools.",
+      "Security personnel deployment protocols."
+    ]
+  },
+  {
+    "section_number": "Section 154",
+    "section_title": "Occupational safety and health",
+    "description": "Ensures safety standards and enforcement in workplaces across industries.",
+    "examples": [
+      "Protective gear requirements in factories.",
+      "Reporting mechanisms for workplace accidents."
+    ]
+  },
+  {
+    "section_number": "Section 155",
+    "section_title": "Regulation of hazardous substances",
+    "description": "Controls use and storage of hazardous chemicals to prevent accidents and exposure.",
+    "examples": [
+      "Authorization requirements for chemical handling.",
+      "Emergency response plans for spills."
+    ]
+  },
+  {
+    "section_number": "Section 156",
+    "section_title": "Public safety audits",
+    "description": "Periodic assessments of safety measures in public buildings and infrastructure.",
+    "examples": [
+      "Inspection of fire exits and alarms.",
+      "Structural integrity evaluations of bridges."
+    ]
+  },
+  {
+    "section_number": "Section 157",
+    "section_title": "Regulation of mass gatherings",
+    "description": "Safety and crowd control measures for large public events and festivals.",
+    "examples": [
+      "Permits for organizing rallies with crowd management plans.",
+      "Deployment of security forces during festivals."
+    ]
+  },
+  {
+    "section_number": "Section 158",
+    "section_title": "Water safety and sanitation",
+    "description": "Ensures safety and sanitation in public water supply and wastewater management.",
+    "examples": [
+      "Regular testing of drinking water quality.",
+      "Standards for wastewater treatment plants."
+    ]
+  },
+  {
+    "section_number": "Section 159",
+    "section_title": "Animal and vector control",
+    "description": "Measures to control animals and vectors that pose health and safety risks.",
+    "examples": [
+      "Mosquito control programs to prevent disease.",
+      "Regulations on stray animals in urban areas."
+    ]
+  },
+  {
+    "section_number": "Section 160",
+    "section_title": "Public safety awareness",
+    "description": "Campaigns and programs to educate the public on safety practices and emergency preparedness.",
+    "examples": [
+      "Distribution of informational brochures on disaster response.",
+      "Workshops on personal safety and self-defense."
+    ]
+  },
+  {
+    "section_number": "Section 161",
+    "section_title": "Miscellaneous provisions",
+    "description": "General provisions not covered elsewhere, including enforcement powers, delegation, and legal interpretations.",
+    "examples": [
+      "Delegation of powers to subordinate officers.",
+      "Procedures for amendment or repeal of rules."
+    ]
+  }
+]
+
+
+
+
