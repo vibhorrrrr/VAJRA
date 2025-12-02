@@ -1,6 +1,6 @@
 # ⚖️ VAJRA: Virtual Assistant for Justice, Rights, and Accountability
 
-> **Your AI-Powered Legal Companion for the Bharatiya Nyaya Sanhita (BNS)**
+> **Your AI-Powered Legal Companion for the New Criminal Laws: BNS, BNSS, and BSA**
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -8,7 +8,12 @@
 
 ## 📖 Overview
 
-**VAJRA** (Virtual Assistant for Justice, Rights, and Accountability) is an advanced AI-driven legal assistant designed to demystify the **Bharatiya Nyaya Sanhita (BNS)**. Whether you are a legal professional, a student, or a citizen seeking to understand your rights, VAJRA provides accurate, instant, and easy-to-understand legal information.
+**VAJRA** (Virtual Assistant for Justice, Rights, and Accountability) is an advanced AI-driven legal assistant designed to demystify India's new criminal laws:
+*   **Bharatiya Nyaya Sanhita (BNS)**
+*   **Bharatiya Nagarik Suraksha Sanhita (BNSS)**
+*   **Bharatiya Sakshya Adhiniyam (BSA)**
+
+Whether you are a legal professional, a student, or a citizen seeking to understand your rights, VAJRA provides accurate, instant, and easy-to-understand legal information.
 
 VAJRA is available in two powerful formats:
 1.  **💻 CLI (Command Line Interface)**: For quick, distraction-free desktop access.
@@ -18,7 +23,7 @@ VAJRA is available in two powerful formats:
 
 ## ✨ Key Features
 
--   **🏛️ Deep Legal Expertise**: Specifically trained on the Bharatiya Nyaya Sanhita (BNS) to provide relevant and up-to-date legal information.
+-   **🏛️ Deep Legal Expertise**: Specifically trained on the BNS, BNSS, and BSA to provide relevant and up-to-date legal information.
 -   **🔍 Smart Semantic Search**: Uses FAISS vector search to find the most relevant legal sections, even if you don't use exact legal terminology.
 -   **🧠 AI-Powered Explanations**: Powered by Google's Gemini AI to translate complex legal jargon into plain, understandable English.
 -   **📚 Precise Citations**: Every answer is backed by specific section references from the BNS, ensuring credibility.
